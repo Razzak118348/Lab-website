@@ -53,7 +53,7 @@ const Navbar = () => {
       <li>
         <details className="dropdown-details">
           <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">About</summary>
-          <ul className="p-2 bg-slate-700 space-y-2 rounded-md md:z-50">
+          <ul className="p-2 bg-slate-700 space-y-3 rounded-md md:z-50">
             <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/mission'}>Mission and Vision</Link></li>
             <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/courses'}>Courses</Link></li>
             <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/contact'}>Contact Us</Link></li>
@@ -97,13 +97,13 @@ const Navbar = () => {
         </Link>
       </div>
 
-      <div className="navbar-center hidden lg:flex">
+      <div className="navbar-end hidden lg:flex">
         <ul className="menu menu-horizontal px-1 popin-font">
           {Navlink}
         </ul>
       </div>
 
-      <div className="navbar-end">
+      {/* <div className="navbar-end">
         {user ? (
           <div className="dropdown dropdown-end">
             <label tabIndex={0} className="btn btn-ghost btn-circle avatar">
@@ -123,7 +123,7 @@ const Navbar = () => {
         ) : (
           <Link to={'/login'} className="btn bg-yellow-400 font-bold text-base md:text-xl">Login</Link>
         )}
-      </div>
+      </div> */}
     </div>
   );
 };
