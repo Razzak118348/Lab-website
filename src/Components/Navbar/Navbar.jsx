@@ -6,100 +6,59 @@ import '../../../src/index.css';
 const Navbar = () => {
   const { LogOut, user } = useAuth();
   const [isMenuOpen, setIsMenuOpen] = useState(false); // state for menu toggle
-  const [isDropdownOpen, setIsDropdownOpen] = useState(false); // state for dropdowns
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen); // toggle between open and close
-  };
-
-  const closeMenu = () => {
-    setIsMenuOpen(false); // Close the menu when needed
-  };
-
-  const toggleDropdown = () => {
-    setIsDropdownOpen(!isDropdownOpen); // toggle dropdown manually
-  };
-
-  const closeDropdown = () => {
-    setIsDropdownOpen(false); // Close dropdown manually when clicking link
   };
 
   const Navlink = (
     <>
       {/* Home Link */}
       <li>
-        <NavLink className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white" to='/' onClick={closeMenu}>Home</NavLink>
+        <NavLink className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-lg text-white" to='/'>Home</NavLink>
       </li>
       {/* Research Dropdown */}
       <li>
-        <div className="relative">
-          <button
-            onClick={toggleDropdown}
-            className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white"
-          >
-            Research
-          </button>
-          {isDropdownOpen && (
-            <ul className="absolute bg-slate-700 p-2 space-y-2 rounded-md md:z-50">
-              <li><Link className='font-bold text-green-400 hover:font-extrabold' to={'/research'} onClick={closeDropdown}>Research Area</Link></li>
-              <li><Link className='font-bold text-green-400 hover:font-extrabold' to={'/project'} onClick={closeDropdown}>Projects</Link></li>
-            </ul>
-          )}
-        </div>
+        <details className="dropdown-details">
+          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">Research</summary>
+          <ul className="p-2 bg-slate-700 space-y-2 rounded-md md:z-50">
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/research'}>Research Area</Link></li>
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/project'}>Projects</Link></li>
+          </ul>
+        </details>
       </li>
       {/* Publications Dropdown */}
       <li>
-        <div className="relative">
-          <button
-            onClick={toggleDropdown}
-            className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white"
-          >
-            Publications
-          </button>
-          {isDropdownOpen && (
-            <ul className="absolute bg-slate-700 p-2 space-y-2 rounded-md md:z-50">
-              <li><Link className='font-bold text-green-400 hover:font-extrabold' to={'/jurnal'} onClick={closeDropdown}>Journal</Link></li>
-              <li><Link className='font-bold text-green-400 hover:font-extrabold' to={'/conferance'} onClick={closeDropdown}>Conferences</Link></li>
-              <li><Link className='font-bold text-green-400 hover:font-extrabold' to={'/patents'} onClick={closeDropdown}>Patents</Link></li>
-              <li><Link className='font-bold text-green-400 hover:font-extrabold' to={'/awards'} onClick={closeDropdown}>Awards</Link></li>
-            </ul>
-          )}
-        </div>
+        <details className="dropdown-details">
+          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">Publications</summary>
+          <ul className="p-2 bg-slate-700 space-y-2 rounded-md md:z-50">
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/jurnal'}>Journal</Link></li>
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/conferance'}>Conferences</Link></li>
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/patents'}>Patents</Link></li>
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/awards'}>Awards</Link></li>
+          </ul>
+        </details>
       </li>
       {/* Members Dropdown */}
       <li>
-        <div className="relative">
-          <button
-            onClick={toggleDropdown}
-            className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white"
-          >
-            Members
-          </button>
-          {isDropdownOpen && (
-            <ul className="absolute bg-slate-700 p-2 space-y-2 rounded-md md:z-50">
-              <li><Link className='font-bold text-green-400 hover:font-extrabold' to={'/teachers'} onClick={closeDropdown}>Teachers</Link></li>
-              <li><Link className='font-bold text-green-400 hover:font-extrabold' to={'/students'} onClick={closeDropdown}>Students</Link></li>
-            </ul>
-          )}
-        </div>
+        <details className="dropdown-details">
+          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">Members</summary>
+          <ul className="p-2 bg-slate-700 space-y-2 rounded-md md:z-50">
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/teachers'}>Teachers</Link></li>
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/students'}>Students</Link></li>
+          </ul>
+        </details>
       </li>
       {/* About Dropdown */}
       <li>
-        <div className="relative">
-          <button
-            onClick={toggleDropdown}
-            className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white"
-          >
-            About
-          </button>
-          {isDropdownOpen && (
-            <ul className="absolute bg-slate-700 p-2 space-y-2 rounded-md md:z-50">
-              <li><Link className='font-bold text-green-400 hover:font-extrabold' to={'/mission'} onClick={closeDropdown}>Mission and Vision</Link></li>
-              <li><Link className='font-bold text-green-400 hover:font-extrabold' to={'/courses'} onClick={closeDropdown}>Courses</Link></li>
-              <li><Link className='font-bold text-green-400 hover:font-extrabold' to={'/contact'} onClick={closeDropdown}>Contact Us</Link></li>
-            </ul>
-          )}
-        </div>
+        <details className="dropdown-details">
+          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">About</summary>
+          <ul className="p-2 bg-slate-700 space-y-2 rounded-md md:z-50">
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/mission'}>Mission and Vision</Link></li>
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/courses'}>Courses</Link></li>
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/contact'}>Contact Us</Link></li>
+          </ul>
+        </details>
       </li>
     </>
   );
@@ -112,12 +71,12 @@ const Navbar = () => {
           <div
             tabIndex={0}
             role="button"
-            className="bg-white hover:text-white btn btn-ghost lg:hidden btn-circle"
+            className="bg-white btn btn-ghost lg:hidden btn-circle hover:text-white"
             onClick={toggleMenu}
           >
             {/* Toggle between hamburger and cross icons */}
             {isMenuOpen ? (
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 " fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
               </svg>
             ) : (
@@ -128,7 +87,7 @@ const Navbar = () => {
           </div>
           {/* Dropdown menu visibility controlled by `isMenuOpen` */}
           {isMenuOpen && (
-            <ul tabIndex={0} className="bg-slate-700 menu menu-sm dropdown-content rounded-box z-[1000] mt-3 w-52 shadow">
+            <ul tabIndex={0} className="bg-slate-700 menu menu-sm dropdown-content rounded-box z-[1000] mt-3 w-60 shadow ">
               {Navlink}
             </ul>
           )}
