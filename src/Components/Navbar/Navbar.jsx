@@ -39,20 +39,11 @@ const Navbar = () => {
           </ul>
         </details>
       </li>
-      {/* Members Dropdown */}
-      <li>
+
+ {/* About Dropdown */}
+ <li>
         <details className="dropdown-details">
-          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">Members</summary>
-          <ul className="p-2 bg-slate-700 space-y-2 rounded-md md:z-50">
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/teachers'}>Teachers</Link></li>
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/students'}>Students</Link></li>
-          </ul>
-        </details>
-      </li>
-      {/* About Dropdown */}
-      <li>
-        <details className="dropdown-details">
-          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">About</summary>
+          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">About Lab</summary>
           <ul className="p-2 bg-slate-700 space-y-3 rounded-md md:z-50">
             <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/mission'}>Mission and Vision</Link></li>
             <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/courses'}>Courses</Link></li>
@@ -60,6 +51,18 @@ const Navbar = () => {
           </ul>
         </details>
       </li>
+
+      {/* Members Dropdown */}
+      <li>
+        <details className="dropdown-details">
+          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">Members</summary>
+          <ul className="p-2 bg-slate-700 space-y-2 rounded-md md:z-50">
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/teachers'}>Professors</Link></li>
+            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/students'}>Students</Link></li>
+          </ul>
+        </details>
+      </li>
+
     </>
   );
 

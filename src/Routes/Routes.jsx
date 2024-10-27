@@ -17,6 +17,7 @@ import Jurnal from "../Pages/Jurnal/Jurnal";
 import Conferance from "../Pages/Conferance/Conferance";
 import Patents from "../Pages/Patents/Patents";
 import Award from "../Pages/Award/Award";
+import TeacherDetails from "../Pages/TeacherDetails/TeacherDetails";
 
 const Routes = createBrowserRouter([
     {
@@ -38,8 +39,15 @@ const Routes = createBrowserRouter([
             },
             {
                 path: '/teachers',
-                element: <Teachers></Teachers>
+                element: <Teachers></Teachers>,
+                loader: () => fetch('professor.json')
             },
+            {
+                path: '/teachers/:id',
+                element: <TeacherDetails></TeacherDetails>,
+                loader: async () => fetch('professor.json')
+            },
+
             {
                 path: '/students',
                 element: <Students></Students>
@@ -61,32 +69,32 @@ const Routes = createBrowserRouter([
                 element: <Signup></Signup>
             },
             {
-                path:'/mission',
-                element:<Mission></Mission>
+                path: '/mission',
+                element: <Mission></Mission>
             },
             {
-                path:'/courses',
-                element:<Courses></Courses>
+                path: '/courses',
+                element: <Courses></Courses>
             },
             {
-                path:'/project',
-                element:<Projects></Projects>
+                path: '/project',
+                element: <Projects></Projects>
             },
             {
-                path:'/jurnal',
-                element:<Jurnal></Jurnal>
+                path: '/jurnal',
+                element: <Jurnal></Jurnal>
             },
             {
-                path:'/conferance',
-                element:<Conferance></Conferance>
+                path: '/conferance',
+                element: <Conferance></Conferance>
             },
             {
-                path:'/patents',
-                element:<Patents></Patents>
+                path: '/patents',
+                element: <Patents></Patents>
             },
             {
-                path:'/awards',
-                element:<Award></Award>
+                path: '/awards',
+                element: <Award></Award>
             }
 
 
