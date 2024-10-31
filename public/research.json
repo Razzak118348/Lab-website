@@ -1,0 +1,26 @@
+[
+    {
+      "researchName": "Engineering Innovations in IoT",
+      "description": "This research explores new methods for integrating IoT devices into smart city infrastructures, focusing on enhanced security, efficient data processing, and real-time decision-making for urban improvement."
+    },
+    {
+      "researchName": "Quantum Computing Applications",
+      "description": "Investigating the application of quantum computing in solving complex engineering problems, with a focus on efficiency and speed enhancements over classical computation methods."
+    },
+    {
+      "researchName": "Sustainable Energy Solutions",
+      "description": "A study on renewable energy sources for sustainable engineering practices, examining solar, wind, and biofuel technologies to reduce environmental impact in urban areas."
+    },
+    {
+      "researchName": "Advanced Robotics in Manufacturing",
+      "description": "Developing robotics solutions that improve precision and efficiency in manufacturing processes, using AI-based automation to minimize human error and production costs."
+    },
+    {
+      "researchName": "Edge Computing for Real-Time Data",
+      "description": "Examining edge computing's role in processing data near the source, reducing latency for IoT applications in fields such as healthcare, transportation, and industrial automation."
+    },
+    {
+      "researchName": "Cybersecurity in Smart Grids",
+      "description": "Researching security protocols to protect smart grid infrastructures from cyber threats, focusing on data privacy and resilience against potential attacks on critical systems."
+    }
+  ]

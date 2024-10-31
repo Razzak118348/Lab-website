@@ -15,27 +15,41 @@ const Navbar = () => {
     <>
       {/* Home Link */}
       <li>
-        <NavLink className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-lg text-white" to='/'>Home</NavLink>
+        <NavLink className="mr-1 md:mr-4 my-3 md:my-0 font-bold  text-white" to='/'>Home</NavLink>
       </li>
       {/* Research Dropdown */}
       <li>
         <details className="dropdown-details">
-          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">Research</summary>
+          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white">Research</summary>
           <ul className="p-2 bg-slate-700 space-y-2 rounded-md md:z-50">
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/research'}>Research Area</Link></li>
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/project'}>Projects</Link></li>
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/research'}>Research Area</Link></li>
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/project'}>Projects</Link></li>
           </ul>
         </details>
       </li>
       {/* Publications Dropdown */}
       <li>
         <details className="dropdown-details">
-          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">Publications</summary>
+          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white ">Publications</summary>
           <ul className="p-2 bg-slate-700 space-y-2 rounded-md md:z-50">
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/jurnal'}>Journal</Link></li>
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/conferance'}>Conferences</Link></li>
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/patents'}>Patents</Link></li>
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/awards'}>Awards</Link></li>
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/journal'}>Journal</Link></li>
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/conferance'}>Conferences</Link></li>
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/patents'}>Patents</Link></li>
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/awards'}>Awards</Link></li>
+          </ul>
+        </details>
+      </li>
+
+
+
+      {/* Members Dropdown */}
+      <li>
+        <details className="dropdown-details">
+          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white ">Members</summary>
+          <ul className="p-2 bg-slate-700 space-y-2 rounded-md md:z-50">
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/teachers'}>Professors</Link></li>
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/students'}>Students</Link></li>
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/alumni'}>Alumni</Link></li>
           </ul>
         </details>
       </li>
@@ -43,26 +57,14 @@ const Navbar = () => {
  {/* About Dropdown */}
  <li>
         <details className="dropdown-details">
-          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">About Lab</summary>
+          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white ">About Lab</summary>
           <ul className="p-2 bg-slate-700 space-y-3 rounded-md md:z-50">
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/mission'}>Mission and Vision</Link></li>
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/courses'}>Courses</Link></li>
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/contact'}>Contact Us</Link></li>
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/mission'}>Mission and Vision</Link></li>
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/courses'}>Courses</Link></li>
+            <li><Link className='font-bold text-yellow-300  hover:font-extrabold' to={'/contact'}>Contact Us</Link></li>
           </ul>
         </details>
       </li>
-
-      {/* Members Dropdown */}
-      <li>
-        <details className="dropdown-details">
-          <summary className="mr-1 md:mr-4 my-3 md:my-0 font-bold text-white text-lg">Members</summary>
-          <ul className="p-2 bg-slate-700 space-y-2 rounded-md md:z-50">
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/teachers'}>Professors</Link></li>
-            <li><Link className='font-bold text-green-400 text-lg hover:font-extrabold' to={'/students'}>Students</Link></li>
-          </ul>
-        </details>
-      </li>
-
     </>
   );
 
@@ -88,20 +90,20 @@ const Navbar = () => {
               </svg>
             )}
           </div>
-          {/* Dropdown menu visibility controlled by `isMenuOpen` */}
+          {/* Dropdown menu visibility controlled by isMenuOpen */}
           {isMenuOpen && (
             <ul tabIndex={0} className="bg-slate-700 menu menu-sm dropdown-content rounded-box z-[1000] mt-3 w-60 shadow ">
               {Navlink}
             </ul>
           )}
         </div>
-        <Link to='/' className="btn hover:bg-yellow-500 text-xl md:text-2xl lg:text-3xl font-bold animate__zoomIn popin-font">
-          Lab Research
+        <Link to='/' className="btn hover:bg-yellow-500 text-lg  lg:text-2xl font-bold animate__zoomIn popin-font">
+        DIoT Lab
         </Link>
       </div>
 
-      <div className="navbar-end hidden lg:flex">
-        <ul className="menu menu-horizontal px-1 popin-font">
+      <div className="navbar hidden lg:flex ">
+        <ul className="menu menu-horizontal  popin-font space-x-3">
           {Navlink}
         </ul>
       </div>

@@ -1,20 +1,17 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "Dr. Md. Delowar Hossain",
-    "position": "Professor of Computer Science and Engineering Department",
-    "address": "Computer Science and Engineering Department at HSTU , Dinajpur-5200",
+    "position": "Professor, Department of Computer Science and Engineering .",
+    "address": "Department of Computer Science and Engineering, Dr. M.A. Wajed Building, HSTU, Dinajpur-5200",
 
     "email": "delowar.cit@gmail.com",
-
+    "phone": "+8801712262634",
     "education": {
-      "bachelor": "B.Sc. in Information and Communication Engineering, 2004. From Islamic University, Kusthia,Bangladesh",
-      "master": "M.Sc. in Information and Communication Engineering, 2005.  From Islamic University, Kusthia,Bangladesh",
+      "bachelor": "B.Sc. in Information and Communication Engineering, from Islamic University, Kusthia,Bangladesh, 2004",
+      "master": "M.Sc. in Information and Communication Engineering, from Islamic University, Kusthia,Bangladesh, 2005",
 
-      "phd": "Ph.D. in Computer Engineering, 2022.From Kyung Hee University, South Korea",
-      "post_dr":"Post-doctoral Researcher, 2023  . From Kyung Hee University, South Korea"
-
-
+      "phd": "Ph.D. in Computer Engineering, from Kyung Hee University, South Korea, 2022."
     },
     "image": "https://i.ibb.co.com/B6WJPQr/2.jpg",
 
@@ -36,6 +33,12 @@
         "organization": "Hajee Mohammad Danesh Science and Technology University",
         "start_date": "January 18, 2024",
         "end_date": "Present"
+      },
+      {
+        "title": "Post-doctoral Researcher",
+        "organization": "Kyung Hee University, South Korea",
+        "start_date": "",
+        "end_date": "2023"
       },
       {
         "title": "Professor",
@@ -401,20 +404,19 @@
   },
 
   {
-    "id": 2,
+    "id": "2",
     "name": "Dr. Ashis Kumar Mandal",
-    "position": "Professor  of Computer Science and Engineering Department",
-    "address": "Computer Science and Engineering Department at HSTU,Dr. M.A. Wajed Building , Dinajpur-5200",
+    "position": "Professor, Department of Computer Science and Engineering .",
+    "address": "Department of Computer Science and Engineering, Dr. M.A. Wajed Building, HSTU, Dinajpur-5200",
     "email": "ashis@hstu.ac.bd",
-
+    "phone": "+8801912136021",
     "education": {
-      "bachelor": "B. Sc. Engg. in Computer Science and Engineering, 2007 . From Shahjalal University of Science and Technology (SUST), Sylhet, Bangladesh",
-      "master": "Master of Computer Science, 2017 .University Malaysia Pahang (UMP), Malaysia",
-      "phd": "PhD in Software and Information Science, 2022 . Graduate School of Soft. and Info. Science, Iwate Prefectural University (IPU), Iwate, Japan"
+      "bachelor": "B. Sc. Engg. in Computer Science and Engineering, from Shahjalal University of Science and Technology (SUST), Sylhet, Bangladesh, 2007 .",
+      "master": "Master of Computer Science, University Malaysia Pahang (UMP), Malaysia, 2017 .",
+      "phd": "PhD in Software and Information Science, Graduate School of Soft. and Info. Science, Iwate Prefectural University (IPU), Iwate, Japan,  2022 ."
     },
     "image": "https://i.ibb.co.com/S54jc6S/6.jpg",
     "research_interest": "Cloud/Edge/Fog/Vehicular Computing, Internet of Things, Big Data Analysis, Machine Learning",
-
     "PROFESSIONAL_EXPERIENCES": [
       {
         "title": "Professor",
@@ -635,11 +637,7 @@
           "doi": "10.6703/IJASE.202009_17(3).281"
         },
         {
-          "authors": [
-            "Anirban K. Mandal",
-            "M. N. M. Kahar",
-            "Graham Kendall"
-          ],
+          "authors": ["Anirban K. Mandal", "M. N. M. Kahar", "Graham Kendall"],
           "title": "Addressing Examination Timetabling Problem Using a Partial Exams Approach in Constructive and Improvement",
           "journal": "Computation",
           "publisher": "MDPI",
@@ -654,9 +652,7 @@
           "doi": "10.3390/computation8020046"
         },
         {
-          "authors": [
-            "Anirban K. Mandal"
-          ],
+          "authors": ["Anirban K. Mandal"],
           "title": "Development of an Interactive Tool based on Combining Graph Heuristic with Local Search for Examination Timetable Problem",
           "journal": "International Journal of Advanced Computer Science and Applications",
           "publisher": "Science Publications",
@@ -671,10 +667,7 @@
           "doi": "10.14569/IJACSA.2020.0110385"
         },
         {
-          "authors": [
-            "Anirban K. Mandal",
-            "M. N. M. Kahar"
-          ],
+          "authors": ["Anirban K. Mandal", "M. N. M. Kahar"],
           "title": "Performance Analyses of Graph Heuristics and Selected Trajectory Metaheuristics on Examination Timetable Problem",
           "journal": "Indonesian Journal of Electrical Engineering and Informatics (IJEEI)",
           "publisher": "IJEEI",
@@ -746,11 +739,7 @@
           "doi": "10.1109/iCACCESS61735.2024.10499536"
         },
         {
-          "authors": [
-            "A. D. Tipu",
-            "M. Fahad",
-            "Abdul Kadir Mandal"
-          ],
+          "authors": ["A. D. Tipu", "M. Fahad", "Abdul Kadir Mandal"],
           "title": "A Romanization Method for the Bengali Language with Efficient Encoding Scheme",
           "conference": "Proceedings of the 2nd International Conference on Big Data, IoT and Machine Learning",
           "date": "2024",
@@ -759,11 +748,7 @@
           "doi": "10.1007/978-981-99-8937-9_41"
         },
         {
-          "authors": [
-            "P. Karna",
-            "S. K. Keshari",
-            "Abdul Kadir Mandal"
-          ],
+          "authors": ["P. Karna", "S. K. Keshari", "Abdul Kadir Mandal"],
           "title": "Detecting Depression from Social Media Posts Using Comprehensive Machine Learning Approaches with TF-IDF and N-Grams",
           "conference": "2nd International Conference on Big Data, IoT and Machine Learning (BIM 2023)",
           "location": "Dhaka",
@@ -827,11 +812,7 @@
           "doi": "10.1007/978-981-19-6634-7_38"
         },
         {
-          "authors": [
-            "R. Sen",
-            "Abdul Kadir Mandal",
-            "B. Chakraborty"
-          ],
+          "authors": ["R. Sen", "Abdul Kadir Mandal", "B. Chakraborty"],
           "title": "Performance Analysis of Extended Lustgarten Index for Stability of Feature Selection",
           "conference": "2021 IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI)",
           "location": "Singapore",
@@ -871,11 +852,7 @@
           "doi": "10.1109/ICIST49303.2020.9202140"
         },
         {
-          "authors": [
-            "Abdul Kadir Mandal",
-            "R. Sen",
-            "B. Chakraborty"
-          ],
+          "authors": ["Abdul Kadir Mandal", "R. Sen", "B. Chakraborty"],
           "title": "Binary Owl Search Algorithm for Feature Subset Selection",
           "conference": "IEEE 10th International Conference on Awareness Science and Technology (iCAST)",
           "location": "Japan",
@@ -898,10 +875,7 @@
           "doi": "10.1109/CIET.2018.8660926"
         },
         {
-          "authors": [
-            "Abdul Kadir Mandal",
-            "M. N. M. Kahar"
-          ],
+          "authors": ["Abdul Kadir Mandal", "M. N. M. Kahar"],
           "title": "Combination of graph heuristic with hill climbing search for solving capacitated examination timetabling problem",
           "conference": "4th IEEE International Conference on Software Engineering and Computer Systems (ICSECS)",
           "location": "Malaysia",
@@ -910,10 +884,7 @@
           "doi": "10.1109/IC-SECS.2015.7333095"
         },
         {
-          "authors": [
-            "Abdul Kadir Mandal",
-            "M. N. M. Kahar"
-          ],
+          "authors": ["Abdul Kadir Mandal", "M. N. M. Kahar"],
           "title": "Solving Examination Time-tabling Problem Using Partial Exam Assignment with Great Deluge Algorithm",
           "conference": "2nd IEEE International Conference on Computer, Communications, and Control Technology (I4CT)",
           "location": "Malaysia",
@@ -922,10 +893,7 @@
           "doi": "10.1109/I4CT.2015.7219635"
         },
         {
-          "authors": [
-            "Abdul Kadir Mandal",
-            "M. N. M. Kahar"
-          ],
+          "authors": ["Abdul Kadir Mandal", "M. N. M. Kahar"],
           "title": "Solving Examination Time-tabling Problem using partial exam assignment with Hill Climbing Search",
           "conference": "IEEE Symposium on Computer Applications and Industrial Electronics (ISCAIE)",
           "location": "Malaysia",
@@ -934,10 +902,7 @@
           "doi": "10.1109/ISCAIE.2015.7298333"
         },
         {
-          "authors": [
-            "Abdul Kadir Mandal",
-            "M. N. M. Kahar"
-          ],
+          "authors": ["Abdul Kadir Mandal", "M. N. M. Kahar"],
           "title": "Solving Capacitated Examination Timetabling Problem with the Great Deluge Algorithm",
           "conference": "IEEE International Conference on Control, Robotics and Cybernetics (CRC)",
           "location": "Malaysia",
@@ -988,210 +953,200 @@
   },
 
   {
-    "id": 3,
+    "id": "3",
     "name": "Dr. Tangina Sultana",
-    "position": "Associate Professor of Electronics and Communication Engineering Department",
-    "address": "Electronics and Communication Engineering Department at HSTU, Dr. M.A. Wajed Building  , Dinajpur-5200",
+    "position": "Associate Professor, Department of Electronics and Communication Engineering .",
+    "address": "Department of Electronics and Communication Engineering, Dr. Kudrat-E-Khuda Building, HSTU, Dinajpur-5200",
     "email": "dristy.043@gmail.com",
-
+    "phone": "+8801309964335",
     "education": {
-      "bachelor": "B.Eng. in Electrical Engineering, University of Texas at Austin",
-      "master": "M.Eng. in Power Systems Engineering, University of Michigan",
-      "phd": "Ph.D. in Renewable Energy Systems, Georgia Tech",
-      "post_dr":"Post-doctoral Researcher, 2024 . Department of Computer Science,  from University of Saskatchewan, Canada"
-
+      "bachelor": "B.Sc. in Electronics and Communication Engineering from Hajee Mohammad Danesh Science and Technology University,Dinajpur,Bangladesh, 2012",
+      "master": "M.Sc. (Engg.) in Information and Communication Technology from  Bangladesh University of Engineering and Technology (BUET),Bangladesh, 2015",
+      "phd": "Ph.D. in Computer Engineering from Kyung Hee University, South Korea, 2022 "
     },
     "image": "https://i.ibb.co.com/V3BW60z/30.jpg",
     "research_interest": "Graph Mining, Big Data, Wireless Communication, IoT, Edge Computing, Networking and Security and Machine Learning",
-    "PROFESSIONAL_EXPERIENCES":[
+    "PROFESSIONAL_EXPERIENCES": [
       {
         "title": "Postdoctoral Researcher",
         "organization": "Kyung Hee University",
         "start_date": "October 25, 2022",
         "end_date": "December 31, 2023"
-    },
-    {
+      },
+      {
         "title": "Associate Professor",
         "organization": "Hajee Mohammad Danesh Science and Technology University",
         "start_date": "August 18, 2022",
         "end_date": "Present"
-    },
-    {
+      },
+      {
         "title": "Assistant Professor",
         "organization": "Hajee Mohammed Danesh Science & Technology University, Dinajpur, Bangladesh",
         "start_date": "September 01, 2016",
         "end_date": "August 17, 2022"
-    },
-    {
+      },
+      {
         "title": "Lecturer",
         "organization": "Hajee Mohammed Danesh Science & Technology University, Dinajpur, Bangladesh",
         "start_date": "September 01, 2014",
         "end_date": "August 31, 2016"
-    }
-    ],
-    "publications":{
-     "journal_papers": [
-      {
-        "authors": [
-          "Anik K. Mandal",
-          "Mohammad Nadim",
-          "Hasan Saha",
-          "Tangina Sultana",
-          "Md. Delowar Hossain",
-          "Eui-Nam Huh"
-        ],
-        "title": "Feature Subset Selection for High-Dimensional, Low Sampling Size Data Classification Using Ensemble Feature Selection With a Wrapper-Based Search",
-        "journal": "IEEE Access",
-        "publisher": "IEEE",
-        "category": "Q1",
-        "impact_factor": 3.74,
-        "indexing": "SCIE",
-        "status": "Published",
-        "year": 2024,
-        "volume": 12,
-        "pages": "62341-62357",
-        "doi": "10.1109/ACCESS.2024.3390684"
-      },
-      {
-        "authors": [
-          "Umer Muhammad",
-          "Tangina Sultana",
-          "Young-Koo Lee"
-        ],
-        "title": "Pre-Trained Language Models for Keyphrase Prediction: A Review",
-        "journal": "ICT Express",
-        "publisher": "Elsevier",
-        "category": "Q1",
-        "impact_factor": 5.4,
-        "indexing": "SCIE",
-        "status": "Published",
-        "year": 2024,
-        "volume": 10,
-        "pages": "871-890"
-      },
-      {
-        "authors": [
-          "Tangina Sultana",
-          "Md. Delowar Hossain",
-          "Md. Golam Morshed",
-          "Young-Koo Lee"
-        ],
-        "title": "Enhancing Link Prediction in Graph Data Augmentation through Graphon Mixup",
-        "journal": "Neural Computing and Applications",
-        "publisher": "Springer",
-        "category": "Q1",
-        "impact_factor": 6.0,
-        "indexing": "SCIE",
-        "status": "Minor Revision",
-        "year": 2024
-      },
-      {
-        "authors": [
-          "Md. Golam Morshed",
-          "Tangina Sultana",
-          "Md. Delowar Hossain",
-          "Young-Koo Lee"
-        ],
-        "title": "MCL: Mapping-based Contrastive Learning with Augmentation for Graph Classification",
-        "journal": "Information Sciences",
-        "publisher": "Elsevier",
-        "category": "Q1",
-        "impact_factor": 8.1,
-        "indexing": "SCIE",
-        "status": "Under Review",
-        "year": 2024
-      },
-      {
-        "authors": [
-          "Tangina Sultana",
-          "Anik K. Mandal",
-          "Hasan Saha",
-          "M. N. Sultan",
-          "Md. Delowar Hossain"
-        ],
-        "title": "Intent Identification by Semantically Analyzing the Search Query",
-        "journal": "Modelling",
-        "impact_factor": 1.3,
-        "indexing": "ESCI",
-        "status": "Published",
-        "year": 2024,
-        "volume": 5,
-        "pages": "292–314"
-      },
-      {
-        "authors": [
-          "Tangina Sultana",
-          "Md. Delowar Hossain",
-          "Md. Golam Morshed",
-          "T. H. Afridi",
-          "Young-Koo Lee"
-        ],
-        "title": "Inductive Autoencoder for Efficiently Compressing RDF Graph",
-        "journal": "Information Sciences",
-        "publisher": "Elsevier",
-        "category": "Q1",
-        "impact_factor": 8.1,
-        "indexing": "SCIE",
-        "status": "Published",
-        "year": 2023,
-        "volume": 662
-      },
-      {
-        "authors": [
-          "Tangina Sultana",
-          "Md. Delowar Hossain",
-          "Md. Golam Morshed",
-          "A. Alam",
-          "Young-Koo Lee"
-        ],
-        "title": "Graph Pattern Detection and Structural Redundancy Reduction to Compress Named Graphs",
-        "journal": "Information Sciences",
-        "publisher": "Elsevier",
-        "category": "Q1",
-        "impact_factor": 8.1,
-        "indexing": "SCIE",
-        "status": "Published",
-        "year": 2023
-      },
-      {
-        "authors": [
-          "Md. Delowar Hossain",
-          "Tangina Sultana",
-          "Sharmen Akhter",
-          "Md. Imtiaz Hossain",
-          "N. T. Huynh",
-          "Ga-Won Lee",
-          "Eui-Nam Huh"
-        ],
-        "title": "The Role of Microservice Approach in Edge Computing: Opportunities, Challenges, and Research Directions",
-        "journal": "ICT Express",
-        "publisher": "Elsevier",
-        "category": "Q1",
-        "impact_factor": 5.4,
-        "indexing": "SCIE",
-        "status": "Published",
-        "year": 2023
       }
-      ],
-       "conferencePapers":[
+    ],
+    "publications": {
+      "journal_papers": [
         {
           "authors": [
-              "Tangina Sultana",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
+            "Anik K. Mandal",
+            "Mohammad Nadim",
+            "Hasan Saha",
+            "Tangina Sultana",
+            "Md. Delowar Hossain",
+            "Eui-Nam Huh"
           ],
+          "title": "Feature Subset Selection for High-Dimensional, Low Sampling Size Data Classification Using Ensemble Feature Selection With a Wrapper-Based Search",
+          "journal": "IEEE Access",
+          "publisher": "IEEE",
+          "category": "Q1",
+          "impact_factor": 3.74,
+          "indexing": "SCIE",
+          "status": "Published",
+          "year": 2024,
+          "volume": 12,
+          "pages": "62341-62357",
+          "doi": "10.1109/ACCESS.2024.3390684"
+        },
+        {
+          "authors": ["Umer Muhammad", "Tangina Sultana", "Young-Koo Lee"],
+          "title": "Pre-Trained Language Models for Keyphrase Prediction: A Review",
+          "journal": "ICT Express",
+          "publisher": "Elsevier",
+          "category": "Q1",
+          "impact_factor": 5.4,
+          "indexing": "SCIE",
+          "status": "Published",
+          "year": 2024,
+          "volume": 10,
+          "pages": "871-890"
+        },
+        {
+          "authors": [
+            "Tangina Sultana",
+            "Md. Delowar Hossain",
+            "Md. Golam Morshed",
+            "Young-Koo Lee"
+          ],
+          "title": "Enhancing Link Prediction in Graph Data Augmentation through Graphon Mixup",
+          "journal": "Neural Computing and Applications",
+          "publisher": "Springer",
+          "category": "Q1",
+          "impact_factor": 6.0,
+          "indexing": "SCIE",
+          "status": "Minor Revision",
+          "year": 2024
+        },
+        {
+          "authors": [
+            "Md. Golam Morshed",
+            "Tangina Sultana",
+            "Md. Delowar Hossain",
+            "Young-Koo Lee"
+          ],
+          "title": "MCL: Mapping-based Contrastive Learning with Augmentation for Graph Classification",
+          "journal": "Information Sciences",
+          "publisher": "Elsevier",
+          "category": "Q1",
+          "impact_factor": 8.1,
+          "indexing": "SCIE",
+          "status": "Under Review",
+          "year": 2024
+        },
+        {
+          "authors": [
+            "Tangina Sultana",
+            "Anik K. Mandal",
+            "Hasan Saha",
+            "M. N. Sultan",
+            "Md. Delowar Hossain"
+          ],
+          "title": "Intent Identification by Semantically Analyzing the Search Query",
+          "journal": "Modelling",
+          "impact_factor": 1.3,
+          "indexing": "ESCI",
+          "status": "Published",
+          "year": 2024,
+          "volume": 5,
+          "pages": "292–314"
+        },
+        {
+          "authors": [
+            "Tangina Sultana",
+            "Md. Delowar Hossain",
+            "Md. Golam Morshed",
+            "T. H. Afridi",
+            "Young-Koo Lee"
+          ],
+          "title": "Inductive Autoencoder for Efficiently Compressing RDF Graph",
+          "journal": "Information Sciences",
+          "publisher": "Elsevier",
+          "category": "Q1",
+          "impact_factor": 8.1,
+          "indexing": "SCIE",
+          "status": "Published",
+          "year": 2023,
+          "volume": 662
+        },
+        {
+          "authors": [
+            "Tangina Sultana",
+            "Md. Delowar Hossain",
+            "Md. Golam Morshed",
+            "A. Alam",
+            "Young-Koo Lee"
+          ],
+          "title": "Graph Pattern Detection and Structural Redundancy Reduction to Compress Named Graphs",
+          "journal": "Information Sciences",
+          "publisher": "Elsevier",
+          "category": "Q1",
+          "impact_factor": 8.1,
+          "indexing": "SCIE",
+          "status": "Published",
+          "year": 2023
+        },
+        {
+          "authors": [
+            "Md. Delowar Hossain",
+            "Tangina Sultana",
+            "Sharmen Akhter",
+            "Md. Imtiaz Hossain",
+            "N. T. Huynh",
+            "Ga-Won Lee",
+            "Eui-Nam Huh"
+          ],
+          "title": "The Role of Microservice Approach in Edge Computing: Opportunities, Challenges, and Research Directions",
+          "journal": "ICT Express",
+          "publisher": "Elsevier",
+          "category": "Q1",
+          "impact_factor": 5.4,
+          "indexing": "SCIE",
+          "status": "Published",
+          "year": 2023
+        }
+      ],
+      "conferencePapers": [
+        {
+          "authors": ["Tangina Sultana", "Md Golam Morshed", "Young-Koo Lee"],
           "title": "Multi-Kernel Inductive Autoencoder for Efficient RDF Dataset Compression",
           "conference": "The 4th Korea Artificial Intelligencer Conference",
           "date": "2023",
           "location": "Jeju, South Korea",
           "pages": "1-2"
-      },
-      {
+        },
+        {
           "authors": [
-              "Tangina Sultana",
-              "Md. Delowar Hossain",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
+            "Tangina Sultana",
+            "Md. Delowar Hossain",
+            "Md Golam Morshed",
+            "Young-Koo Lee"
           ],
           "title": "Enhancing Node Classification in Graphs through Mapping-Based Contrastive Learning",
           "conference": "Proc. of the KDBC 2023 Conference",
@@ -1199,115 +1154,101 @@
           "location": "Busan, South Korea",
           "pages": "126-129",
           "awards": "Gold Prize"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md. Delowar Hossain",
-              "Tangina Sultana",
-              "Ga-Won Lee",
-              "Eui-Nam Huh"
+            "Md. Delowar Hossain",
+            "Tangina Sultana",
+            "Ga-Won Lee",
+            "Eui-Nam Huh"
           ],
           "title": "The Role of Microservices in the Internet of Things: Applications, Challenges, and Research Opportunities",
           "conference": "The 14th International Conference on Ubiquitous and Future Networks (ICUFN 2023)",
           "date": "2023",
           "location": "Paris, France",
           "pages": "901-906"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md. Delowar Hossain",
-              "Tangina Sultana",
-              "Sharmen Akhter",
-              "Md. Imtiaz Hossain",
-              "Ga-Won Lee",
-              "Eui-Nam Huh"
+            "Md. Delowar Hossain",
+            "Tangina Sultana",
+            "Sharmen Akhter",
+            "Md. Imtiaz Hossain",
+            "Ga-Won Lee",
+            "Eui-Nam Huh"
           ],
           "title": "Server Capacity Planning Based Task Computation Offloading in Vehicular Edge Computing Networks",
           "conference": "2023 the 3rd European Conference on Communication Systems (ECCS 2023)",
           "date": "2023",
           "location": "Vienna, Austria"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md. Delowar Hossain",
-              "Tangina Sultana",
-              "Sharmen Akhter",
-              "Md. Imtiaz Hossain",
-              "Ga-Won Lee",
-              "Choong Seon Hong",
-              "Eui-Nam Huh"
+            "Md. Delowar Hossain",
+            "Tangina Sultana",
+            "Sharmen Akhter",
+            "Md. Imtiaz Hossain",
+            "Ga-Won Lee",
+            "Choong Seon Hong",
+            "Eui-Nam Huh"
           ],
           "title": "Computation Offloading Strategy Based on Multi-armed Bandit Learning in Microservice-enabled Vehicular Edge Computing Networks",
           "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
           "date": "2023",
           "location": "Bangkok, Kingdom of Thailand",
           "pages": "769-774"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Young-Koo Lee"],
           "title": "BERT-PRF: An Efficient Approach for Intent Detection from Users Search Query",
           "conference": "Proc. of the KIISE Korea Software Congress 2021 (KSC 2021)",
           "date": "2021",
           "location": "Pyeongchang, South Korea"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Muhammad Umair",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Muhammad Umair", "Young-Koo Lee"],
           "title": "Employing Graph Compression Technique for Efficiently Compressing RDF Knowledge Graphs",
           "conference": "Proc. of the KDBC 2021 Conference",
           "date": "2021",
           "location": "Daejeon, South Korea",
           "pages": "21-24",
           "awards": "Gold Prize"
-      },
-      {
-          "authors": [
-              "Muhammad Umair",
-              "Tangina Sultana",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Muhammad Umair", "Tangina Sultana", "Young-Koo Lee"],
           "title": "Adjustor: Mining on Compressed Graph with Adjacency Information Constructor while exploiting Parallel Computing",
           "conference": "Proc. of the KDBC 2021 Conference",
           "date": "2021",
           "location": "Daejeon, South Korea",
           "pages": "107-110"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Young-Koo Lee"],
           "title": "Expressive Rule Pattern Based Compression with Ranking in Horn Rules on RDF Style KB",
           "conference": "2021 IEEE International Conference on Big Data and Smart Computing (BigComp)",
           "date": "2021",
           "location": "Bangkok, Thailand",
           "pages": "13-19",
           "awards": "2nd Best Paper Award"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md Delowar Hossain",
-              "Tangina Sultana",
-              "Md Alamgir Hossain",
-              "Eui-Nam Huh"
+            "Md Delowar Hossain",
+            "Tangina Sultana",
+            "Md Alamgir Hossain",
+            "Eui-Nam Huh"
           ],
           "title": "Edge Orchestration Based Computation Peer Offloading in MEC-Enabled Networks: A Fuzzy Logic Approach",
           "conference": "The 15th International Conference on Ubiquitous Information Management and Communication (IMCOM 2021)",
           "date": "2021",
           "location": "Seoul, South Korea"
-      },
-      {
+        },
+        {
           "authors": [
-              "Tangina Sultana",
-              "Mostofa Kamal Rasel",
-              "Aftab Alam",
-              "Young-Koo Lee"
+            "Tangina Sultana",
+            "Mostofa Kamal Rasel",
+            "Aftab Alam",
+            "Young-Koo Lee"
           ],
           "title": "Frequent and Semantically Related Term Detection Based Encoding and Compression for Knowledge Graphs",
           "conference": "Proc. of the KDBC 2020 Conference",
@@ -1315,14 +1256,14 @@
           "location": "Jeju, South Korea",
           "pages": "1-4",
           "awards": "Gold Prize"
-      },
-      {
+        },
+        {
           "authors": [
-              "Aftab Alam",
-              "Muhammad Numan Khan",
-              "Tariq Habib Afridi",
-              "Tangina Sultana",
-              "Young-Koo Lee"
+            "Aftab Alam",
+            "Muhammad Numan Khan",
+            "Tariq Habib Afridi",
+            "Tangina Sultana",
+            "Young-Koo Lee"
           ],
           "title": "SCBVR: A Hybrid Approach for Large-scale Video Retrieval",
           "conference": "Proc. of the KDBC 2020 Conference",
@@ -1330,292 +1271,256 @@
           "location": "Jeju, South Korea",
           "pages": "24-26",
           "awards": "Silver Prize"
-      },
-      {
+        },
+        {
           "authors": [
-              "Tangina Sultana",
-              "Umair Qudus",
-              "Muhammad Umair",
-              "Taeyeon Kim",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
+            "Tangina Sultana",
+            "Umair Qudus",
+            "Muhammad Umair",
+            "Taeyeon Kim",
+            "Md Golam Morshed",
+            "Young-Koo Lee"
           ],
           "title": "Efficient Frequent Pattern Management and Compression System in Multiple Named Graphs",
           "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
           "date": "2020",
           "location": "Busan, South Korea"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md Delowar Hossain",
-              "Tri D. T. Nguyen",
-              "Tangina Sultana",
-              "Md Alamgir Hossain",
-              "Md Imtiaz Hossain",
-              "Luan N. T. Huynh",
-              "Myeongseob Kim",
-              "Eui-Nam Huh"
+            "Md Delowar Hossain",
+            "Tri D. T. Nguyen",
+            "Tangina Sultana",
+            "Md Alamgir Hossain",
+            "Md Imtiaz Hossain",
+            "Luan N. T. Huynh",
+            "Myeongseob Kim",
+            "Eui-Nam Huh"
           ],
           "title": "Fuzzy Handoff Based Efficient Edge Node Selection for Task Offloading in MEC-Enabled Networks",
           "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
           "date": "2020",
           "location": "Busan, South Korea",
           "pages": "209-211"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md Delowar Hossain",
-              "Luan N. T. Huynh",
-              "Tangina Sultana",
-              "Tri D.T. Nguyen",
-              "Jae Ho Park",
-              "Choong Seon Hong",
-              "Eui-Nam Huh"
+            "Md Delowar Hossain",
+            "Luan N. T. Huynh",
+            "Tangina Sultana",
+            "Tri D.T. Nguyen",
+            "Jae Ho Park",
+            "Choong Seon Hong",
+            "Eui-Nam Huh"
           ],
           "title": "Collaborative Task Offloading for Overloaded Mobile Edge Computing in Small-Cell Networks",
           "conference": "The 34th International Conference on Information Networking (ICOIN 2020)",
           "date": "2020",
           "location": "Barcelona, Spain",
           "pages": "717-722"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md Delowar Hossain",
-              "Tangina Sultana",
-              "Md Alamgir Hossain",
-              "Md Imtiaz Hossain",
-              "Luan N. T. Huynh",
-              "Waqas ur Rahman",
-              "Myeong-Seob Kim",
-              "Eui-Nam Huh"
+            "Md Delowar Hossain",
+            "Tangina Sultana",
+            "Md Alamgir Hossain",
+            "Md Imtiaz Hossain",
+            "Luan N. T. Huynh",
+            "Waqas ur Rahman",
+            "Myeong-Seob Kim",
+            "Eui-Nam Huh"
           ],
           "title": "Efficient Workload Balancing in Multi-Access Edge Computing: A Fuzzy Logic Approach",
           "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
           "date": "2019",
           "location": "Pyeongchang, South Korea",
           "pages": "197-199"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md Delowar Hossain",
-              "Md Abu Layek",
-              "Tangina Sultana",
-              "Md Alamgir Hossain",
-              "Md Imtiaz Hossain",
-              "Eui-Nam Huh"
+            "Md Delowar Hossain",
+            "Md Abu Layek",
+            "Tangina Sultana",
+            "Md Alamgir Hossain",
+            "Md Imtiaz Hossain",
+            "Eui-Nam Huh"
           ],
           "title": "An Efficient Offloading Framework in Mobile Edge Computing for Ubiquitous Computing Services",
           "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
           "date": "2019",
           "location": "Pyeongchang, South Korea",
           "pages": "57-60"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md Golam Morshed",
-              "Tangina Sultana",
-              "Md Imtiaz Hossain",
-              "Young-Koo Lee"
+            "Md Golam Morshed",
+            "Tangina Sultana",
+            "Md Imtiaz Hossain",
+            "Young-Koo Lee"
           ],
           "title": "An Efficient Approach of Extracting Contextual Information from Users Search Queries",
           "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
           "date": "2019",
           "location": "Pyeongchang, South Korea",
           "pages": "21-25"
-      },
-      {
+        },
+        {
           "authors": [
-              "Tangina Sultana",
-              "Muhammad Umair",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
+            "Tangina Sultana",
+            "Muhammad Umair",
+            "Md Golam Morshed",
+            "Young-Koo Lee"
           ],
           "title": "On Compressed RDF Graphs: A Novel Approach for Mining and Managing Large Knowledge Graphs",
           "conference": "Proc. of the KDBC 2019 Conference",
           "date": "2019",
           "location": "Daejeon, South Korea",
           "pages": "145-148"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md Golam Morshed",
-              "Tangina Sultana",
-              "Md Imtiaz Hossain",
-              "Young-Koo Lee"
+            "Md Golam Morshed",
+            "Tangina Sultana",
+            "Md Imtiaz Hossain",
+            "Young-Koo Lee"
           ],
           "title": "Mining Efficiently on Compressed RDF Graphs using Compressed Knowledge Graphs",
           "conference": "Proc. of the KDBC 2019 Conference",
           "date": "2019",
           "location": "Daejeon, South Korea",
           "pages": "23-26"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md Golam Morshed",
-              "Tangina Sultana",
-              "Md Imtiaz Hossain",
-              "Young-Koo Lee"
+            "Md Golam Morshed",
+            "Tangina Sultana",
+            "Md Imtiaz Hossain",
+            "Young-Koo Lee"
           ],
           "title": "Knowledge Representation Using RDF Graph and Application on Semantic Search",
           "conference": "Proc. of the KDBC 2019 Conference",
           "date": "2019",
           "location": "Daejeon, South Korea",
           "pages": "65-70"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Md Golam Morshed", "Young-Koo Lee"],
           "title": "Efficient Hybrid Compression Technique for RDF Graphs Using Semantically Related Patterns",
           "conference": "Proc. of the KDBC 2019 Conference",
           "date": "2019",
           "location": "Daejeon, South Korea",
           "pages": "100-105"
-      },
-      {
+        },
+        {
           "authors": [
-              "Md Golam Morshed",
-              "Tangina Sultana",
-              "Md Imtiaz Hossain",
-              "Young-Koo Lee"
+            "Md Golam Morshed",
+            "Tangina Sultana",
+            "Md Imtiaz Hossain",
+            "Young-Koo Lee"
           ],
           "title": "Hybrid Compression and Mining of Large Scale RDF Graphs Using Knowledge Representation",
           "conference": "Proc. of the KDBC 2019 Conference",
           "date": "2019",
           "location": "Daejeon, South Korea",
           "pages": "50-55"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Md Golam Morshed", "Young-Koo Lee"],
           "title": "Data Management of RDF Graphs: Efficient and Fast Approach to Extracting Knowledge",
           "conference": "Proc. of the KDBC 2018 Conference",
           "date": "2018",
           "location": "Daejeon, South Korea",
           "pages": "15-20"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Md Golam Morshed", "Young-Koo Lee"],
           "title": "Graph Representation Based Learning Techniques for Knowledge Extraction",
           "conference": "Proc. of the KDBC 2018 Conference",
           "date": "2018",
           "location": "Daejeon, South Korea",
           "pages": "1-5"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Md Golam Morshed", "Young-Koo Lee"],
           "title": "Data Management of RDF Graphs: Fast Approach to Extracting Knowledge",
           "conference": "Proc. of the KDBC 2018 Conference",
           "date": "2018",
           "location": "Daejeon, South Korea",
           "pages": "8-11"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Md Golam Morshed", "Young-Koo Lee"],
           "title": "Graph Representation Based Learning Techniques for Knowledge Extraction",
           "conference": "Proc. of the KDBC 2018 Conference",
           "date": "2018",
           "location": "Daejeon, South Korea",
           "pages": "1-5"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Md Golam Morshed", "Young-Koo Lee"],
           "title": "Compressed Knowledge Graphs Using Pattern Extraction and Mining for RDF",
           "conference": "Proc. of the KDBC 2017 Conference",
           "date": "2017",
           "location": "Daejeon, South Korea",
           "pages": "50-55"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Md Golam Morshed", "Young-Koo Lee"],
           "title": "Mining Graphs Using Compressed Pattern Extraction Techniques",
           "conference": "Proc. of the KDBC 2017 Conference",
           "date": "2017",
           "location": "Daejeon, South Korea",
           "pages": "45-49"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Md Golam Morshed", "Young-Koo Lee"],
           "title": "Optimizing Knowledge Graph Compression Techniques for Efficient Mining",
           "conference": "Proc. of the KDBC 2017 Conference",
           "date": "2017",
           "location": "Daejeon, South Korea",
           "pages": "60-64"
-      },
-      {
-          "authors": [
-              "Tangina Sultana",
-              "Md Golam Morshed",
-              "Young-Koo Lee"
-          ],
+        },
+        {
+          "authors": ["Tangina Sultana", "Md Golam Morshed", "Young-Koo Lee"],
           "title": "Graph Based Techniques for Efficient Knowledge Extraction from RDF",
           "conference": "Proc. of the KDBC 2017 Conference",
           "date": "2017",
           "location": "Daejeon, South Korea",
           "pages": "12-16"
+        }
+      ]
+    },
+    "award": [
+      {
+        "award": "BigComp 2021 Best Paper Award 2nd Place",
+        "funded_by": "BigComp",
+        "date": "2021"
+      },
+      {
+        "award": "KDBC Gold Prize Award",
+        "funded_by": "KDBC",
+        "date": "2023"
+      },
+      {
+        "award": "KDBC Gold Prize Award",
+        "funded_by": "KDBC",
+        "date": "2021"
+      },
+      {
+        "award": "KDBC Gold and Silver Prize Award",
+        "funded_by": "KDBC",
+        "date": "2020"
+      },
+      {
+        "award": "ICT Fellowship during M.Sc. (Eng.) in ICT",
+        "funded_by": "Information and Communication Technology Division (ICT), People's Republic of Bangladesh",
+        "date": "M.Sc. (Eng.) duration"
+      },
+      {
+        "award": "Special Consultative Status",
+        "funded_by": "Bangladesh Scholarship Council and the Nippon Foundation, Japan",
+        "date": "2007-08, 2009-10"
       }
-       ]
-    },
-    "awards": [
-    {
-      "award": "BigComp 2021 Best Paper Award 2nd Place",
-      "funded_by": "BigComp",
-      "date": "2021"
-    },
-    {
-      "award": "KDBC Gold Prize Award",
-      "funded_by": "KDBC",
-      "date": "2023"
-    },
-    {
-      "award": "KDBC Gold Prize Award",
-      "funded_by": "KDBC",
-      "date": "2021"
-    },
-    {
-      "award": "KDBC Gold and Silver Prize Award",
-      "funded_by": "KDBC",
-      "date": "2020"
-    },
-    {
-      "award": "ICT Fellowship during M.Sc. (Eng.) in ICT",
-      "funded_by": "Information and Communication Technology Division (ICT), People's Republic of Bangladesh",
-      "date": "M.Sc. (Eng.) duration"
-    },
-    {
-      "award": "Special Consultative Status",
-      "funded_by": "Bangladesh Scholarship Council and the Nippon Foundation, Japan",
-      "date": "2007-08, 2009-10"
-    }
-  ]
+    ]
   }
 ]

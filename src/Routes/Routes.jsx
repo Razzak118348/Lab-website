@@ -18,6 +18,7 @@ import Conferance from "../Pages/Conferance/Conferance";
 import Patents from "../Pages/Patents/Patents";
 import Award from "../Pages/Award/Award";
 import TeacherDetails from "../Pages/TeacherDetails/TeacherDetails";
+import Alumni from "../Pages/Alumni/Alumni";
 
 const Routes = createBrowserRouter([
     {
@@ -27,7 +28,8 @@ const Routes = createBrowserRouter([
         children: [
             {
                 path: '/',
-                element: <Home></Home>
+                element: <Home></Home>,
+                loader:async()=>fetch('/professor.json')
             },
             {
                 path: '/research',
@@ -40,12 +42,12 @@ const Routes = createBrowserRouter([
             {
                 path: '/teachers',
                 element: <Teachers></Teachers>,
-                loader: () => fetch('professor.json')
+                loader: () => fetch('/professor.json')
             },
             {
-                path: '/teachers/:id',
-                element: <TeacherDetails></TeacherDetails>,
-                loader: async () => fetch('professor.json')
+                path:'/teachers/:id',
+                element:<TeacherDetails></TeacherDetails>,
+                loader:async()=> fetch('/professor.json')
             },
 
             {
@@ -81,7 +83,7 @@ const Routes = createBrowserRouter([
                 element: <Projects></Projects>
             },
             {
-                path: '/jurnal',
+                path: '/journal',
                 element: <Jurnal></Jurnal>
             },
             {
@@ -95,6 +97,10 @@ const Routes = createBrowserRouter([
             {
                 path: '/awards',
                 element: <Award></Award>
+            },
+            {
+                path:'/alumni',
+                element:<Alumni></Alumni>
             }
 
 
