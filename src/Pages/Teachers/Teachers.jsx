@@ -26,21 +26,21 @@ useEffect(()=>{
           {professor.position}
         </p>
         <p className="">
-         <span className="text-lg font-bold text-orange-500"> Address</span > : {professor.address}
+         <span className=" font-bold text-orange-500"> Address</span > : {professor.address}
         </p>
 
         <p className="">
-         <span className="text-lg font-bold text-orange-500"> Research Interest with </span> : {professor.research_interest}
+         <span className="font-bold text-orange-500"> Research Interest with </span> : {professor.research_interest}
         </p>
 
         <p className="">
-         <span className="text-lg font-bold text-orange-500"> Email</span> : {professor.email}
+         <span className=" font-bold text-orange-500"> Email</span> : {professor.email}
         </p>
         <p className="">
-         <span className="text-lg font-bold text-orange-500"> Mobile</span> : {professor.phone}
+         <span className=" font-bold text-orange-500"> Mobile</span> : {professor.phone}
          </p>
      <Link to={`/teachers/${professor.id}`}>
-     <button className="btn bg-yellow-500 md:text-lg font-bold mt-6">Professor Details <FaArrowRight></FaArrowRight></button>
+     <button className="btn bg-yellow-500  font-bold mt-6">Details <FaArrowRight></FaArrowRight></button>
      </Link>
 
       </div>

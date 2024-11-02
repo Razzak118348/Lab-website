@@ -35,9 +35,8 @@ const Home = () => {
                     </div>
 
 
-                    <div className=" mt-10 p-0 animate__animated animate__fadeInRight grid grid-cols-1 md:grid-cols-3 gap-7">
+                    <div className=" mt-10 p-0 animate__animated animate__fadeInRight grid grid-cols-1 lg:grid-cols-3 gap-7">
 
-                        {/* <Link to={'/teachers'}><img className="rounded-lg shadow-lg shadow-slate-700 lg:hover:scale-125 hover:my-5" src="/tanjilaMem.jpg" alt="teachers pic" /></Link> */}
                         {
                             AllProfessors.map((professor, index) => <div key={professor.id} className="card card-compact bg-base-100 w-full md:w-96 shadow-xl">
                                 <figure>
@@ -51,14 +50,14 @@ const Home = () => {
                                     <h2 className="card-title">{professor.name}</h2>
                                     <p>{professor.position}</p>
                                     <div className="card-actions justify-end">
-                                        <Link to={`/teachers/${professor.id}`}> <button className="btn btn-primary">View Details <FaArrowRight /></button></Link>
+                                        <Link to={`/teachers/${professor.id}`}> <button className="btn bg-yellow-500  font-bold ">View Details <FaArrowRight /></button></Link>
                                     </div>
                                 </div>
                             </div>)
                         }
 
                     </div>
-                    <Link to={'/teachers'}><button className="btn mt-8 text-sm lg:text-lg font-bold bg-yellow-400 text-black hover:text-black">All Professors <FaArrowRight /></button></Link>
+
                 </div>
 
                 {/* research area secion  */}
