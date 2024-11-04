@@ -1,0 +1,83 @@
+[
+    {
+        "id":"1",
+"name": "Dr. Ashis Kumar Mandal",
+        "projects": [
+            {
+              "name": "Study on the Potential of Quantum Computing for Software Quality Assurance: Defect Prediction Perspectives",
+              "funds": "Government of Saskatchewan through the University of Saskatchewan Horizons Fund, Canada",
+              "position": "Researcher",
+              "duration": "July 2023 to June 2024"
+            },
+            {
+              "name": "Development of Integrated Quantum Inspired Algorithms for Shapley Value based Fast and Interpretable Feature Subset Selection",
+              "funds": "Japan Society of Promotion of Science (JSPS) KAKENHI Grant Number JP 24K15089, Type: Kaken C",
+              "position": "Research Collaborator",
+              "duration": "April 2024 to March 2027"
+            },
+            {
+              "name": "Real Time Intelligent Monitoring and Notification System for Smart Cold Storage",
+              "funds": "Ministry of Science and Technology, Government of The People’s Republic of Bangladesh",
+              "position": "Principal Investigator",
+              "duration": "July 2022 to June 2023"
+            },
+            {
+              "name": "A Filter Wrapper Based Feature Selection Strategy on Classification of High-dimensional Low Sampling Biological Data",
+              "funds": "Institute of Research and Training, HSTU, Dinajpur, Bangladesh",
+              "position": "Principal Investigator",
+              "duration": "July 2022 to June 2023"
+            },
+            {
+              "name": "Forecasting Global Horizontal Irradiance using Deep Learning Models",
+              "funds": "K. SPA project, Faculty of Software and Information Science IPU, Japan",
+              "position": "Researcher",
+              "duration": "June 2020 to January 2021"
+            },
+            {
+              "name": "Development of Feature Selection Tools using Quantum Computing for High-dimensional Data Analysis",
+              "funds": "Indo-Japan Bilateral Project",
+              "position": "Researcher",
+              "duration": "June 2018 to March 2020"
+            },
+            {
+              "name": "Development of Fast and Highly Effective Feature Subset Selection Algorithms based on Novel Integration of Quantum Computing and Machine Learning",
+              "funds": "Japan Society for Promotion of Science (JSPS) KAKEN C research project number 20K11939",
+              "position": "Research Collaborator",
+              "duration": "April 2020 to March 2023"
+            },
+            {
+              "name": "Analysis and Optimization of Examination Timeline Problems Based on Partial Graph Heuristics Algorithm",
+              "funds": "PGRS grant, University Malaysia Pahang, Malaysia",
+              "position": "Member",
+              "duration": "October 2014 to November 2016"
+            }
+          ]
+
+    },
+    {
+        "id": "2",
+        "name": "Dr. Tangina Sultana",
+        "projects": [
+            {
+              "name": "Development of a distributed graph DBMS for intelligent processing of big graphs",
+              "funds": "Institute for Information & Communications Technology Promotion (IITP) grant funded by the Korean government (MSIP)",
+              "position": "Team leader as a PhD Research fellow"
+            },
+            {
+              "name": "Development of large-capacity RDF graph summary/compression tool and API",
+              "funds": "MSIT (Ministry of Science and ICT), Korea, under the Grand Information Technology Research Center support program",
+              "position": "Team leader as a PhD Research fellow"
+            },
+            {
+              "name": "SIAT CCTV Cloud Platform",
+              "funds": "Institute for Information and Communications Technology Promotion (IITP) grant funded by the Korea government (MSIT)",
+              "position": "Team leader as a PhD Research fellow"
+            },
+            {
+              "name": "Artificial Intelligence Innovation Hub",
+              "funds": "Institute of Information and Communications Technology Planning and Evaluation (IITP) grant funded by the Korean government (MSIT)",
+              "position": "Team leader as a PhD Research fellow"
+            }
+          ]
+    }
+]

@@ -1145,7 +1145,6 @@
         }
       ]
     },
-    "research_interest": "Cloud/Edge/Fog/Vehicular Computing, Internet of Things, Big Data Analysis, Machine Learning",
     "activities": [
       {
         "role": "Member",
@@ -1170,7 +1169,9 @@
         "event": "4th Asia Service Sciences and Software Engineering Conference (ASSE 2023)",
         "location": "Aizu-Wakamatsu, Japan"
       }
-    ]
+    ],
+    "research_interest": "Cloud/Edge/Fog/Vehicular Computing, Internet of Things, Big Data Analysis, Machine Learning"
+
   },
   {
     "id": "2",
