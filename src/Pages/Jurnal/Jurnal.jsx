@@ -7,11 +7,11 @@ const Jurnal = () => {
 
     // Get unique authors for the dropdown
     const uniqueAuthors = ["All", ...new Set(allJournal.map(singleJournal => singleJournal.name))];
+console.log(uniqueAuthors)
 
     // Function to handle author selection
     const handleAuthorChange = (event) => {
         setSelectedAuthor(event.target.value);
-
     };
 
     // Filter journals based on selected author
@@ -19,8 +19,14 @@ const Jurnal = () => {
         ? allJournal
         : allJournal.filter(singleJournal => singleJournal.name === selectedAuthor);
 
+    // Calculate the total number of journal papers displayed
+    let totalPapersDisplayed = 0;
+
     return (
-        <div className="max-w-3xl mt-16 mx-auto p-4">
+        <div className="max-w-3xl mt-5 md:mt-16 mx-auto p-4">
+<div className="flex items-center justify-center">
+<h3 className="text-lg md:text-xl font-semibold text-orange-500 border-2 p-2 bg-slate-50 rounded-lg shadow-md shadow-slate-500 mb-3 mt-10"> All Journal</h3>
+</div>
             {/* Dropdown for author selection */}
             <div className="my-7">
                 <label htmlFor="author-select" className="block text-gray-700 font-bold mb-2">Select Author:</label>
@@ -37,32 +43,34 @@ const Jurnal = () => {
             </div>
 
             {/* Display filtered journals */}
-            {filteredJournals.map((singleJournal, index) => (
-                <div key={index} className="bg-white shadow-lg rounded-lg p-6 mb-4">
-                    {/* <h2 className="text-2xl font-bold text-gray-800 mb-2">{singleJournal.name}</h2>
-                    <p className="text-gray-600 text-sm md:text-base mb-4">{singleJournal.position}</p>
+            {filteredJournals.map((singleJournal, journalIndex) => {
 
-                    <h3 className="text-xl font-normal md:font-semibold text-gray-700 mt-4 mb-2">Journal Papers</h3> */}
-
-                    <div className="space-y-4">
-                        {singleJournal.journal_papers.map((paper, index) => (
-                            <div key={index} className="bg-gray-50 p-4 rounded-lg shadow-md">
-                                <p className="text-gray-600 text-sm md:text-base mb-1"><span>{index+1}. </span>
-                                   {paper.authors.join(", ")}, "{paper.title}",  <span className="font-bold">   {paper.journal} ({paper.category}, {paper.impact_factor&&(<span>IF: {paper.impact_factor}</span>)} {paper.index && (<span>{paper.index} Indexing</span>)}),</span>
-                                   {paper.volume && (<span>{paper.volume}</span>)}
-                                   {paper.pages && (<span>{paper.pages}</span>)} {paper.year}. {paper.doi && (
-                                <a className="text-green-500 underline" href={`https://doi.org/${paper.doi}`} target="_blank" rel="noopener noreferrer">
-                                    {paper.doi}
-                                </a>)}
-                                </p>
-
-
-
-                            </div>
-                        ))}
+                return (
+                    <div key={journalIndex} className="bg-white shadow-lg rounded-lg p-6 mb-4">
+                        <div className="space-y-4">
+                            {singleJournal.journal_papers.map((paper, paperIndex) => {
+                                totalPapersDisplayed++; // Increment the overall paper count
+                                return (
+                                    <div key={paperIndex} className="bg-gray-50 p-4 rounded-lg shadow-md">
+                                        <p className="text-gray-600 text-sm md:text-base mb-1">
+                                            <span>{totalPapersDisplayed}. </span>
+                                            {paper.authors.join(", ")}, "{paper.title}",
+                                            <span className="font-bold"> {paper.journal} ({paper.category}, {paper.impact_factor && (<span>IF: {paper.impact_factor}</span>)} {paper.index && (<span>{paper.index} Indexing</span>)}),</span>
+                                            {paper.volume && (<span>{paper.volume}</span>)}
+                                            {paper.pages && (<span>{paper.pages}</span>)} {paper.year}.
+                                            {paper.doi && (
+                                                <a className="text-green-500 underline" href={`https://doi.org/${paper.doi}`} target="_blank" rel="noopener noreferrer">
+                                                    {paper.doi}
+                                                </a>
+                                            )}
+                                        </p>
+                                    </div>
+                                );
+                            })}
+                        </div>
                     </div>
-                </div>
-            ))}
+                );
+            })}
         </div>
     );
 };
