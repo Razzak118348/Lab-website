@@ -1,11 +1,13 @@
 import { useLoaderData } from "react-router-dom";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Typewriter } from "react-simple-typewriter";
 
 const Jurnal = () => {
     const allJournal = useLoaderData();  // Assuming this is an array of journals
     const [selectedAuthor, setSelectedAuthor] = useState("All");
-
+    useEffect(()=>{
+        window.scrollTo(0,0)
+    },[])
     // Get unique authors for the dropdown
     const uniqueAuthors = ["All", ...new Set(allJournal.map(singleJournal => singleJournal.name))];
 
@@ -87,22 +89,11 @@ delaySpeed={700}
                                         <p className="text-black text-sm md:text-base mb-1">
                                             <span>{totalPapersDisplayed}. </span>
                                             {paper.authors.join(", ")}, "{paper.title}",
-                                            <span className="font-bold">
-                                                {" "}
-                                                {paper.journal} ({paper.category && <span>{paper.category},</span>}{" "}
-                                                {paper.impact_factor && <span>IF: {paper.impact_factor}</span>}{" "}
-                                                {paper.indexing && <span>{paper.indexing} Indexing</span>})
-                                            </span>
-                                            {paper.volume && <span>{paper.volume}</span>}
-                                            {paper.pages && <span>pp. {paper.pages},</span>}
-                                            {paper.country && <span>{paper.country}, </span>} {paper.year}.
+                                            <span className="font-bold"> {paper.journal}  {paper.category && (<span> {paper.category},</span>)} {paper.impact_factor && (<span>IF: {paper.impact_factor}</span>)} {paper.indexing && (<span>{paper.indexing} Indexing</span>)}  </span>
+                                            {paper.volume && (<span> {paper.volume}</span>)}
+                                            {paper.pages && (<span>pp. {paper.pages},</span>)}{paper.country&& (<span>{paper.country}, </span>)} {paper.year}.
                                             {paper.doi && (
-                                                <a
-                                                    className="text-green-500 underline"
-                                                    href={`https://doi.org/${paper.doi}`}
-                                                    target="_blank"
-                                                    rel="noopener noreferrer"
-                                                >
+                                                <a className="text-green-500 underline" href={`https://doi.org/${paper.doi}`} target="_blank" rel="noopener noreferrer">
                                                     {paper.doi}
                                                 </a>
                                             )}

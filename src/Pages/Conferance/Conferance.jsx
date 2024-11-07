@@ -1,11 +1,13 @@
 import { useLoaderData } from "react-router-dom";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Typewriter } from "react-simple-typewriter";
 
 const Conferance = () => {
     const allConference = useLoaderData();
     const [selectedAuthor, setSelectedAuthor] = useState("All");
-
+    useEffect(()=>{
+        window.scrollTo(0,0)
+    },[])
     // Get unique authors for the dropdown
     const uniqueAuthors = ["All", ...new Set(allConference.map(singleConference => singleConference.name))];
 

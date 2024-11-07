@@ -8,9 +8,9 @@ const Footer = () => {
         <div className="lg:w-1/3">
           <Link to={'/'}  className="flex justify-center space-x-3 lg:justify-start">
             <div className="flex items-center justify-center w-1/2 h-20  ">
-              <img src="/DIoT logo-02.png" className='rounded-xl' alt="" />
+              <img src="/re-do.png" className='rounded-xl ' alt="" />
             </div>
-            <span className="self-center text-2xl font-semibold">Data Intelligence IoT Innovation Lab (DIoT Lab)</span>
+            <span className="self-center text-lg md:text-xl font-semibold">Data Intelligence IoT Innovation Lab (DIoT Lab)</span>
           </Link>
         </div>
         <div className="grid grid-cols-2 text-sm gap-x-3 gap-y-8 lg:w-2/3 sm:grid-cols-4">
