@@ -105,6 +105,7 @@
           "journal": "Neural Computing and Applications",
           "publisher": "Springer",
           "citescore": "",
+          "category": "Q1",
           "impact_factor": "6.0",
           "indexing": "SCIE",
           "year": 2024,
@@ -120,6 +121,7 @@
           "title": "MCL: Mapping-based Contrastive Learning with Augmentation for Graph Classification",
           "journal": "Information Sciences",
           "publisher": "Elsevier",
+          "category": "Q1",
           "citescore": "13.4",
           "impact_factor": "8.1",
           "indexing": "SCIE",
@@ -145,37 +147,40 @@
         },
         {
           "authors": [
-            "Ashis Kumar Mandal",
-            "Md Nadim",
-            "Hasi Saha",
-            "Tangina Sultana",
-            "Md Delowar Hossain",
-            "Eui-Nam Huh"
+            "Mandal A. K.",
+            "Nadim M.",
+            "Saha H.",
+            "Sultana T.",
+            "Hossain M. D.",
+            "Huh E. -N."
           ],
           "title": "Feature Subset Selection for High-Dimensional, Low Sampling Size Data Classification Using Ensemble Feature Selection With a Wrapper-Based Search",
           "journal": "IEEE Access",
-          "citescore": "",
-          "impact_factor": "3.74",
+          "publisher": "IEEE",
+          "category": "Q1",
+          "impact_factor": 3.5,
           "indexing": "SCIE",
+          "status": "Published",
           "year": 2024,
-          "status": "USA, April 2024"
+          "volume": 12,
+          "pages": "62341-62357",
+          "doi": "10.1109/ACCESS.2024.3390684"
         },
         {
           "authors": [
-            "Tangina Sultana",
-            "Ashis Kumar Mandal",
-            "Hasi Saha",
-            "Md Nahid Sultan",
-            "Md Delowar Hossain"
+            "Sultana, T.",
+            "Mandal, A.K.",
+            "Saha, H.",
+            "Sultan, M.N.",
+            "Hossain, M.D."
           ],
           "title": "Intent Identification by Semantically Analyzing the Search Query",
           "journal": "Modelling",
-          "publisher": "MDPI",
-          "citescore": "",
-          "impact_factor": "1.3",
-          "indexing": "ESCI",
+          "impact_factor": 1.3,
           "year": 2024,
-          "status": "Switzerland, February 2024"
+          "volume": 5,
+          "pages": "292-314",
+          "doi": "10.3390/modelling5010016"
         },
         {
           "authors": [
@@ -230,56 +235,56 @@
           "authors": [
             "Tangina Sultana",
             "Md. Delowar Hossain",
-            "Md Golam Morshed",
-            "Tariq Habib Afridi",
+            "Md. Golam Morshed",
+            "T. H. Afridi",
             "Young-Koo Lee"
           ],
           "title": "Inductive Autoencoder for Efficiently Compressing RDF Graph",
           "journal": "Information Sciences",
           "publisher": "Elsevier",
-          "citescore": "13.4",
-          "impact_factor": "8.1",
+          "category": "Q1",
+          "impact_factor": 8.1,
           "indexing": "SCIE",
-          "year": 2024,
-          "status": ""
+          "status": "Published",
+          "year": 2023,
+          "volume": "Vol. 662,",
+          "pages": "  44,"
         },
         {
           "authors": [
             "Tangina Sultana",
             "Md. Delowar Hossain",
-            "Muhammad Umair",
-            "Muhammad Numan Khan",
-            "Aftab Alam",
+            "Md. Golam Morshed",
+            "A. Alam",
             "Young-Koo Lee"
           ],
           "title": "Graph Pattern Detection and Structural Redundancy Reduction to Compress Named Graphs",
           "journal": "Information Sciences",
           "publisher": "Elsevier",
-          "citescore": "13.4",
-          "impact_factor": "8.1",
+          "category": "Q1",
+          "impact_factor": 8.1,
           "indexing": "SCIE",
-          "year": 2023,
-          "status": "July 2023"
+          "status": "Published",
+          "year": 2023
         },
         {
           "authors": [
             "Md. Delowar Hossain",
             "Tangina Sultana",
             "Sharmen Akhter",
-            "Md Imtiaz Hossain",
-            "Ngo Thien Thu",
-            "Luan N. T. Huynh",
+            "Md. Imtiaz Hossain",
+            "N. T. Huynh",
             "Ga-Won Lee",
             "Eui-Nam Huh"
           ],
           "title": "The Role of Microservice Approach in Edge Computing: Opportunities, Challenges, and Research Directions",
           "journal": "ICT Express",
           "publisher": "Elsevier",
-          "citescore": "10.4",
-          "impact_factor": "5.4",
+          "category": "Q1",
+          "impact_factor": 5.4,
           "indexing": "SCIE",
-          "year": 2023,
-          "status": "June 2023"
+          "status": "Published",
+          "year": 2023
         },
         {
           "authors": [
@@ -289,11 +294,12 @@
           ],
           "title": "EC2Net: Efficient Attention-Based Cross-Context Network for Near Real-Time Salient Object Detection",
           "journal": "IEEE Access",
+          "category": "Q1",
           "citescore": "",
           "impact_factor": "3.476",
           "indexing": "SCIE",
-          "year": 2023,
-          "status": "USA, April 2023"
+          "year": 2023
+
         },
         {
           "authors": [
@@ -305,9 +311,10 @@
           "title": "Efficient Data Delivery Scheme for Large-scale Microservices in Distributed Cloud Environment",
           "journal": "Journal of Applied Sciences",
           "citescore": "4.5",
+          "category": "Q1",
           "impact_factor": "2.838",
           "indexing": "SCIE",
-          "year": 2023,
+          "year":"January 2023",
           "status": "Switzerland, January 2023"
         },
         {
@@ -321,6 +328,7 @@
           "journal": "IEEE Access",
           "citescore": "",
           "impact_factor": "3.74",
+          "category": "Q1",
           "indexing": "SCIE",
           "year": 2022,
           "status": "USA, December 2022"
@@ -337,14 +345,13 @@
           "citescore": "6.8",
           "impact_factor": "3.9",
           "indexing": "SCIE",
-          "year": 2022,
-          "status": "Switzerland, June 2022"
+          "year": " June 2022"
         },
         {
           "authors": [
             "Md. Delowar Hossain",
             "Tangina Sultana",
-            "Md Alamgir Hossain",
+            "Md. Alamgir Hossain",
             "Md. Abu Layek",
             "Md. Imtiaz Hossain",
             "Phoo Pyae Sone",
@@ -353,11 +360,15 @@
           ],
           "title": "Dynamic Task Offloading for Cloud-Assisted Vehicular Edge Computing Networks: A Non-Cooperative Game Theoretic Approach",
           "journal": "Sensors",
-          "citeScore": 6.8,
-          "impactFactor": 3.9,
+          "publisher": "MDPI",
+          "impact_factor": 3.9,
           "indexing": "SCIE",
+          "status": "Published",
+          "volume": 22,
+          "issue": 10,
+          "pages": "  1-18",
           "country": "Switzerland",
-          "date": "May, 2022"
+          "year": " May 2022"
         },
         {
           "authors": [
@@ -370,7 +381,7 @@
           "journal": "Multimedia Tools and Applications",
           "impactFactor": 2.757,
           "indexing": "SCIE",
-          "date": "April, 2022"
+          "year": "April, 2022"
         },
         {
           "authors": [
@@ -384,7 +395,7 @@
           "journal": "Journal of Visual Communication and Image Representation",
           "impactFactor": 2.887,
           "indexing": "SCIE",
-          "date": "December, 2021"
+          "year": "December, 2021"
         },
         {
           "authors": [
@@ -397,7 +408,7 @@
           "impactFactor": 2.838,
           "indexing": "SCIE",
           "country": "Switzerland",
-          "date": "June, 2021"
+          "year": "June, 2021"
         },
         {
           "authors": [
@@ -411,10 +422,16 @@
           ],
           "title": "Fuzzy Decision-Based Efficient Task Offloading Management Scheme in Multi-Tier MEC-Enabled Networks",
           "journal": "Sensors",
-          "impactFactor": 3.9,
+          "publisher": "MDPI",
+          "impact_factor": 3.847,
           "indexing": "SCIE",
+          "status": "Published",
+          "volume": 21,
+          "issue": 4,
+          "pages": "  1-26",
           "country": "Switzerland",
-          "date": "February, 2021"
+          "month": "February",
+          "year": 2021
         },
         {
           "authors": [
@@ -430,7 +447,7 @@
           "impactFactor": 10.238,
           "indexing": "SCIE",
           "country": "USA",
-          "date": "2021"
+          "year": "2021"
         },
         {
           "authors": [
@@ -446,22 +463,27 @@
           "impactFactor": 3.74,
           "indexing": "SCIE",
           "country": "USA",
-          "date": "2021"
+          "year": "2021"
         },
         {
           "authors": [
-            "Md Delowar Hossain",
+            "Md. Delowar Hossain",
             "Tangina Sultana",
-            "Md Alamgir Hossain",
             "Ga-Won Lee",
             "Eui-Nam Huh"
           ],
           "title": "Efficient Load Management in Multi-Access Edge Computing using Fuzzy Logic",
           "journal": "Journal of KIISE Transactions on Computing Practices",
-          "impactFactor": 0.4,
+          "publisher": "KIISE",
+          "impact_factor": 0.4,
           "indexing": "Korean Citation Index",
+          "status": "Published",
+          "volume": 26,
+          "issue": 11,
+          "pages": "  482-492",
           "country": "South Korea",
-          "date": "2020"
+          "month": "November",
+          "year": 2020
         },
         {
           "authors": [
@@ -476,7 +498,7 @@
           "impactFactor": 3.74,
           "indexing": "SCIE",
           "country": "USA",
-          "date": "2020"
+          "year": "2020"
         },
         {
           "authors": [
@@ -491,7 +513,7 @@
           "impactFactor": 3.74,
           "indexing": "SCIE",
           "country": "USA",
-          "date": "2020"
+          "year": "2020"
         },
         {
           "authors": [
@@ -506,24 +528,29 @@
           "impactFactor": 0.4,
           "indexing": "Korean Citation Index",
           "country": "South Korea",
-          "date": "2020"
+          "year": "2020"
         },
         {
           "authors": [
-            "Md Delowar Hossain",
+            "Md. Delowar Hossain",
             "Tangina Sultana",
             "VanDung Nguyen",
-            "Waqas ur Rahnman",
+            "Waqas ur Rahman",
             "Tri D. T. Nguyen",
             "Luan N. T. Huynh",
             "Eui-Nam Huh"
           ],
           "title": "Fuzzy Based Collaborative Task Offloading Scheme in the Densely Deployed Small-Cell Networks with Multi-Access Edge Computing",
           "journal": "Applied Sciences",
-          "impactFactor": 2.838,
+          "publisher": "MDPI",
+          "impact_factor": 2.838,
           "indexing": "SCIE",
+          "status": "Published",
+          "volume": "vol. 10",
+          "issue": 9,
+          "pages": " 1-23",
           "country": "Switzerland",
-          "date": "April, 2020"
+          "year": "April 2020"
         },
         {
           "authors": [
@@ -539,7 +566,7 @@
           "impactFactor": 2.838,
           "indexing": "SCIE",
           "country": "Switzerland",
-          "date": "2019"
+          "year": "2019"
         },
         {
           "authors": [
@@ -551,599 +578,598 @@
           "impactFactor": 0.4,
           "indexing": "Korean Citation Index",
           "country": "South Korea",
-          "date": "2019"
+          "year": "2019"
         }
       ],
-      "conferencePapers": [
-        {
-          "authors": [
-            "Tangina Sultana",
-            "Md. Delowar Hossain",
-            "Md Golam Morshed",
-            "Young-Koo Lee"
-          ],
-          "title": "Enhancing Node Classification in Graphs through Mapping-Based Contrastive Learning",
-          "conference": "Proc. of the KDBC 2023 Conference",
-          "date": "November 3-4, 2023",
-          "location": "Busan, South Korea",
-          "pages": "126-129",
-          "award": "Gold Prize"
-        },
-        {
-          "authors": [
-            "Sharmen Akhter",
-            "Md Imtiaz Hossain",
-            "Md Delowar Hossain",
-            "Md Nosin Ibna Mahbub",
-            "Eui-Nam Huh"
-          ],
-          "title": "Enhancing Cloud Service Failure Prediction Via Temporal Relationship Distillation",
-          "conference": "2023 International Conference on Computational Science and Computational Intelligence (CSCI 2023)",
-          "date": "December 13-15, 2023",
-          "location": "Las Vegas, USA"
-        },
-        {
-          "authors": [
-            "Md Imtiaz Hossain",
-            "Sharmen Akhter",
-            "Md Nosin Ibna Mahbub",
-            "Md Delowar Hossain",
-            "Sungjun Yang",
-            "Eui-Nam Huh"
-          ],
-          "title": "GERRS: Removing Ghost Effects from Real-World Scenarios in 3D Pose Estimation via Zero-shot Inference Approach",
-          "conference": "2023 International Conference on Computational Science and Computational Intelligence (CSCI 2023)",
-          "date": "December 13-15, 2023",
-          "location": "Las Vegas, USA"
-        },
-        {
-          "authors": [
-            "Md Nosin Ibn Mahbub",
-            "Delowar Hossain",
-            "Sharmen Akhter",
-            "Md Imtiaz Hossain",
-            "Junyoung Park",
-            "Eui-Nam Huh"
-          ],
-          "title": "From Complexity to Clarity: Failure Prediction in Cloud with Hyperparameter-Tuned XGBoost and Explainable AI",
-          "conference": "Proceedings of the Korean Institute of Communication Sciences Artificial Intelligence Conference",
-          "location": "South Korea",
-          "date": "2023"
-        },
-        {
-          "authors": [
-            "Sharmen Akhter",
-            "Md Imtiaz Hossain",
-            "Md Nosin Ibn Mahabub",
-            "Md Delowar Hossain",
-            "A-Young Son",
-            "Eui-Nam Huh"
-          ],
-          "title": "CloudGuard: When Transformer Meets Service Failure Prediction in Cloud Computing",
-          "conference": "Proceedings of the Korean Institute of Communication Sciences Artificial Intelligence Conference",
-          "location": "South Korea",
-          "date": "2023"
-        },
-        {
-          "authors": [
-            "Md. Delowar Hossain",
-            "Tangina Sultana",
-            "Ga-Won Lee",
-            "Eui-Nam Huh"
-          ],
-          "title": "The Role of Microservices in the Internet of Things: Applications, Challenges, and Research Opportunities",
-          "conference": "The 14th International Conference on Ubiquitous and Future Networks (ICUFN 2023)",
-          "date": "July 4-7, 2023",
-          "location": "Paris, France",
-          "pages": "901-906"
-        },
-        {
-          "authors": [
-            "Md. Delowar Hossain",
-            "Tangina Sultana",
-            "Sharmen Akhter",
-            "Md. Imtiaz Hossain",
-            "Ga-Won Lee",
-            "Eui-Nam Huh"
-          ],
-          "title": "Server Capacity Planning Based Task Computation Offloading in Vehicular Edge Computing Networks",
-          "conference": "2023 the 3rd European Conference on Communication Systems (ECCS 2023)",
-          "date": "May 10-12, 2023",
-          "location": "Vienna, Austria"
-        },
-        {
-          "authors": [
-            "Md. Delowar Hossain",
-            "Tangina Sultana",
-            "Sharmen Akhter",
-            "Md. Imtiaz Hossain",
-            "Ga-Won Lee",
-            "Choong Seon Hong",
-            "Eui-Nam Huh"
-          ],
-          "title": "Computation Offloading Strategy Based on Multi-armed Bandit Learning in Microservice-enabled Vehicular Edge Computing Networks",
-          "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
-          "date": "January 11-14, 2023",
-          "location": "Bangkok, Kingdom of Thailand",
-          "pages": "769-774"
-        },
-        {
-          "authors": [
-            "Sharmen Akhter",
-            "Md. Imtiaz Hossain",
-            "Md. Delowar Hossain",
-            "Choong Seon Hong",
-            "Eui-Nam Huh"
-          ],
-          "title": "ParaNet: A Single Blocked Network for Mobile Edge Computing Devices",
-          "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
-          "date": "January 11-14, 2023",
-          "location": "Bangkok, Kingdom of Thailand",
-          "pages": "626-631"
-        },
-        {
-          "authors": [
-            "Md. Imtiaz Hossain",
-            "Sharmen Akhter",
-            "Md. Delowar Hossain",
-            "Choong Seon Hong",
-            "Eui-Nam Huh"
-          ],
-          "title": "Multi-Person 3D Pose Estimation in Mobile Edge Computing Devices for Real-Time Applications",
-          "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
-          "date": "January 11-14, 2023",
-          "location": "Bangkok, Kingdom of Thailand",
-          "pages": "673-677"
-        },
-        {
-          "authors": [
-            "Md. Delowar Hossain",
-            "Subina Khanal",
-            "Eui-Nam Huh"
-          ],
-          "title": "Efficient Task Offloading for MEC-Enabled Vehicular Networks: A Non-Cooperative Game Theoretic Approach",
-          "conference": "2021 Twelfth International Conference on Ubiquitous and Future Networks (ICUFN 2021)",
-          "date": "August 17-20, 2021",
-          "location": "Jeju Island, Korea, Republic of",
-          "pages": "pp. 11-16"
-        },
-        {
-          "authors": [
-            "Md Delowar Hossain",
-            "Tangina Sultana",
-            "Md Alamgir Hossain",
-            "Eui-Nam Huh"
-          ],
-          "title": "Edge Orchestration Based Computation Peer Offloading in MEC-Enabled Networks: A Fuzzy Logic Approach",
-          "conference": "The 15th International Conference on Ubiquitous Information Management and Communication (IMCOM 2021)",
-          "date": "January 4-6, 2021",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "authors": [
-            "Md Alamgir Hossain",
-            "Md Imtiaz Hossain",
-            "Md Delowar Hossain",
-            "Ngo Thien Thu",
-            "Eui-Nam Huh"
-          ],
-          "title": "DMoD: When the Sharp Gradient Direction Detects Moving Objects More Effectively than Deep Learning-based Methods",
-          "conference": "Proc. of the KIISE Korea Software Congress 2020 (KSC 2020)",
-          "date": "December 21-23, 2020",
-          "location": "South Korea",
-          "pages": "pp. 951-953"
-        },
-        {
-          "authors": [
-            "Md Delowar Hossain",
-            "Tri D. T. Nguyen",
-            "Tangina Sultana",
-            "Md Alamgir Hossain",
-            "Md Imtiaz Hossain",
-            "Luan N. T. Huynh",
-            "Myeongseob Kim",
-            "Eui-Nam Huh"
-          ],
-          "title": "Fuzzy Handoff Based Efficient Edge Node Selection for Task Offloading in MEC-Enabled Networks",
-          "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-          "date": "July 2-4, 2020",
-          "location": "Busan, South Korea",
-          "pages": "pp. 209-211"
-        },
-        {
-          "authors": [
-            "Luan N.T. Huynh",
-            "Md Delowar Hossain",
-            "Md Imtiaz Hossain",
-            "Tri D.T. Nguyen",
-            "Phoo Pyae Sone",
-            "Yunkon Kim",
-            "Eui-Nam Huh"
-          ],
-          "title": "Applications of Swarm Intelligence for Multi-Access Edge Computing Systems: A Brief Overview",
-          "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-          "date": "July 2-4, 2020",
-          "location": "South Korea",
-          "pages": "pp. 221-223"
-        },
-        {
-          "authors": [
-            "Md Imtiaz Hossain",
-            "Luan N.T. Huynh",
-            "Md Alamgir Hossain",
-            "Md Delowar Hossain",
-            "Junyoung Park",
-            "Seung-Jik Kim",
-            "Eui-Nam Huh"
-          ],
-          "title": "RRF: A Novel Technique for Forcing 3D CNN to Rethink about Temporal Features Using RGB and Residual Frames",
-          "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-          "date": "July 2-4, 2020",
-          "location": "Busan, South Korea",
-          "pages": "pp. 461-463"
-        },
-        {
-          "authors": [
-            "Md Alamgir Hossain",
-            "Md Imtiaz Hossain",
-            "Md Delowar Hossain",
-            "Ngo Thien Thu",
-            "Seungjun Hong",
-            "Eui-Nam Huh"
-          ],
-          "title": "ODD: Background Subtraction Based Effective Moving Object Detection for Dynamic Video",
-          "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-          "date": "July 2-4, 2020",
-          "location": "Busan, South Korea",
-          "pages": "pp. 1124-1126"
-        },
-        {
-          "authors": [
-            "Md Delowar Hossain",
-            "Luan N. T. Huynh",
-            "Tangina Sultana",
-            "Tri D.T. Nguyen",
-            "Jae Ho Park",
-            "Choong Seon Hong",
-            "Eui-Nam Huh"
-          ],
-          "title": "Collaborative Task Offloading for Overloaded Mobile Edge Computing in Small-Cell Networks",
-          "conference": "The 34th International Conference on Information Networking (ICOIN 2020)",
-          "date": "January 7-10, 2020",
-          "location": "Barcelona, Spain",
-          "pages": "pp. 717-722"
-        },
-        {
-          "authors": [
-            "Luan N. T. Huynh",
-            "Quoc-Viet Pham",
-            "Tri D.T. Nguyen",
-            "Md Delowar Hossain",
-            "Jae Ho Park",
-            "Eui-Nam Huh"
-          ],
-          "title": "A Study on Computation Offloading in MEC Systems using Whale Optimization Algorithm",
-          "conference": "The 14th International Conference on Ubiquitous Information Management and Communication (IMCOM 2020)",
-          "date": "January 3-5, 2020",
-          "location": "Taichung, Taiwan",
-          "pages": "pp. 1-4"
-        },
-        {
-          "authors": [
-            "Md Alamgir Hossain",
-            "Md Imtiaz Hossain",
-            "Md Delowar Hossain",
-            "Ji Hoo Chun",
-            "Eui-Nam Huh"
-          ],
-          "title": "Performance Assessment of Background Subtraction Algorithm",
-          "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
-          "date": "December 26-28, 2019",
-          "location": "Pyeongchang, South Korea",
-          "pages": "pp. 1049-1051"
-        },
-        {
-          "authors": [
-            "Md Imtiaz Hossain",
-            "Md Alamgir Hossain",
-            "Md Delowar Hossain",
-            "Ngo Thien Thu",
-            "Ga-won Lee",
-            "Eui-Nam Huh"
-          ],
-          "title": "Evaluation of the Importance of High Level Features in CNN",
-          "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
-          "date": "December 26-28",
-          "pages": "39-41",
-          "location": "Pyeongchang, South Korea",
-          "year": 2019
-        },
-        {
-          "authors": [
-            "Md Delowar Hossain",
-            "Tangina Sultana",
-            "Md Alamgir Hossain",
-            "Md Imtiaz Hossain",
-            "Luan N. T. Huynh",
-            "Waqas ur Rahman",
-            "Myeong-Seob Kim",
-            "Eui-Nam Huh"
-          ],
-          "title": "Efficient Workload Balancing in Multi-Access Edge Computing: A Fuzzy Logic Approach",
-          "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
-          "date": "December 26-28",
-          "pages": "197-199",
-          "location": "Pyeongchang, South Korea",
-          "year": 2019
-        },
-        {
-          "authors": [
-            "Luan N.T. Huynh",
-            "Quoc-Viet Pham",
-            "Pham Van Nam",
-            "Md Delowar Hossain",
-            "Tri D.T. Nguyen",
-            "Young-Rok Shin",
-            "Eui-Nam Huh"
-          ],
-          "title": "Towards Computation Offloading in NOMA-assisted Multi-Access Edge Computing",
-          "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
-          "date": "December 26-28",
-          "pages": "200-202",
-          "location": "Pyeongchang, South Korea",
-          "year": 2019
-        },
-        {
-          "authors": [
-            "Tri D.T. Nguyen",
-            "Jae Ho Park",
-            "Md Imtiaz Hossain",
-            "Md Delowar Hossain",
-            "Seung-Jin Lee",
-            "Jin Woong Jang",
-            "Seo Hui Jo",
-            "Luan N.T Huynh",
-            "Tran Trong Khanh",
-            "Eui-Nam Huh"
-          ],
-          "title": "Performance Analysis of Data Parallelism Technique in Machine Learning for Human Activity Recognition using LSTM",
-          "conference": "2019 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)",
-          "date": "11-13 Dec",
-          "pages": "387-391",
-          "location": "Sydney, Australia",
-          "year": 2019
-        },
-        {
-          "authors": [
-            "Md Delowar Hossain",
-            "Md Abu Layek",
-            "Tangina Sultana",
-            "Md Alamgir Hossain",
-            "Md Imtiaz Hossain",
-            "Waqas ur Rahman",
-            "Yun Hwan Kim",
-            "Eui-Nam Huh"
-          ],
-          "title": "Orchestration Based Task Offloading for Mobile Edge Computing in Small-Cell Networks",
-          "conference": "International Joint Conference on Computational Intelligence (IJCCI 2019)",
-          "publisher": "Springer",
-          "chapter": "50",
-          "date": "October 25-26",
-          "pages": "629-641",
-          "location": "Dhaka, Bangladesh",
-          "year": 2019
-        },
-        {
-          "authors": [
-            "Md Imtiaz Hossain",
-            "Md Alamgir Hossain",
-            "Md Abu Layek",
-            "Md Delowar Hossain",
-            "Mansu Kim",
-            "Eui-Nam Huh"
-          ],
-          "title": "Anomaly Detection Based on Error Distribution and Clustering",
-          "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-          "date": "June 26-28",
-          "pages": "1144-1146",
-          "location": "Jeju, South Korea",
-          "year": 2019
-        },
-        {
-          "authors": [
-            "Md. Abu Layek",
-            "Md. Delowar Hossain",
-            "Md. Imtiaz Hossain",
-            "Ngo Thien Thu",
-            "Jun-Young Park",
-            "Seung Jin Lee",
-            "Mst Sirazam Monira",
-            "TaeChoong Chung",
-            "Eui-Nam Huh"
-          ],
-          "title": "Importance of Center-block in Image Quality Assessment",
-          "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-          "date": "June 26-28",
-          "pages": "1359-1361",
-          "location": "Jeju, South Korea",
-          "year": 2019
-        },
-        {
-          "authors": [
-            "Md Delowar Hossain",
-            "Tangina Sultana",
-            "Md Abu Layek",
-            "Md Alamgir Hossain",
-            "Md Imtiaz Hossain",
-            "Sung Yun Woo",
-            "Eui-Nam Huh"
-          ],
-          "title": "Dynamic task offloading for Ultra-Dense Mobile Edge Computing",
-          "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-          "date": "June 26-28",
-          "pages": "252-255",
-          "location": "Jeju, South Korea",
-          "year": 2019
-        },
-        {
-          "authors": [
-            "Md Alamgir Hossain",
-            "Ngo Thien Thu",
-            "Md Imtiaz Hossain",
-            "Md Abu Layek",
-            "Md Delowar Hossain",
-            "A.F.M Shahab Uddin",
-            "Eui-Nam Huh"
-          ],
-          "title": "An Analysis of Post-Processing for Background Subtraction",
-          "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-          "date": "June 26-28",
-          "pages": "1403-1405",
-          "location": "Jeju, South Korea",
-          "year": 2019
-        },
-        {
-          "authors": [
-            "Md Delowar Hossain",
-            "Tangina Sultana",
-            "Md Abu Layek",
-            "VanDung Nguyen",
-            "Jun Hyeok Nam Goong",
-            "Yunkon Kim",
-            "Eui-Nam Huh"
-          ],
-          "title": "Performance Analysis of Mobile Edge Computing in 5G Ultra-Dense Networks",
-          "conference": "Proc. of the KIISE Korea Software Congress 2018 (KSC 2018)",
-          "date": "December 19-21",
-          "pages": "292-294",
-          "location": "Pyeongchang, South Korea",
-          "year": 2018
-        },
-        {
-          "authors": [
-            "Md Abu Layek",
-            "A F M Shahab Uddin",
-            "Md Delowar Hossain",
-            "Ngo Thien Thu",
-            "Soyeon Yu",
-            "Chan Ho Yong",
-            "Ga-Won Lee",
-            "TaeChoong Chung",
-            "Eui-Nam Huh"
-          ],
-          "title": "Cloud-based Smart Surveillance System using Raspberry Pi and YOLO",
-          "conference": "KIISE Korea Software Congress 2018 (KSC 2018)",
-          "date": "December 19-21, 2018",
-          "pages": "510-512",
-          "location": "Pyeongchang, South Korea"
-        },
-        {
-          "authors": [
-            "Tangina Sultana",
-            "M. Delowar Hossain",
-            "Niamul Hasan Zead",
-            "Nur Alam Sarker",
-            "Jannatul Fardoush"
-          ],
-          "title": "A New Approach for Efficient Face Detection Using BPV Algorithm Based on Mathematical Modeling",
-          "conference": "International Joint Conference on Computational Intelligence (IJCCI 2018)",
-          "publisher": "Springer",
-          "chapter": "30",
-          "date": "December 14-15, 2018",
-          "pages": "345-358",
-          "location": "Dhaka, Bangladesh"
-        },
-        {
-          "authors": [
-            "Sumya Akter",
-            "Aysa Siddika Asa",
-            "Md. Palash Uddin",
-            "Md. Delowar Hossain",
-            "Shikhor Kumer Roy",
-            "Masud Ibn Afjal"
-          ],
-          "title": "An extractive text summarization technique for Bengali document(s) using K-means clustering algorithm",
-          "conference": "IEEE International Conference on Imaging, Vision & Pattern Recognition (ICIVPR)",
-          "date": "February 13-14, 2017",
-          "location": "Bangladesh"
-        },
-        {
-          "authors": [
-            "Shahnaj Parvin Shathi",
-            "Md. Delowar Hossain",
-            "Md. Nadim",
-            "Sayed Golam Rasul Riayadh",
-            "Tangina Sultana"
-          ],
-          "title": "Enhancing Performance of Naïve Bayes in Text Classification by Introducing an Extra Weight using less Number of Training Examples",
-          "conference": "International Workshop on Computational Intelligence (IWCI 2016)",
-          "date": "2016",
-          "pages": "142-147",
-          "location": "Dhaka, Bangladesh"
-        },
-        {
-          "authors": [
-            "Md Rashedul Islam",
-            "Ayasha Siddiqa",
-            "Md Palash Uddin",
-            "Ashis Kumar Mandal",
-            "Md Delowar Hossain"
-          ],
-          "title": "An Efficient Filtering Based Approach Improving LSB Image Steganography using Status Bit along with AES Cryptography",
-          "conference": "3rd International Conference on Informatics, Electronics & Vision (ICIEV)",
-          "date": "2014",
-          "location": "Dhaka, Bangladesh"
-        },
-        {
-          "authors": [
-            "Ashis Kumar Mandal",
-            "Mohammed Kaosar",
-            "Md. Olioul Islam",
-            "Md. Delowar Hossain"
-          ],
-          "title": "An Approach for Enhancing Message Security in Audio Steganography",
-          "conference": "16th International Conference on Computer and Information Technology (ICCIT)",
-          "date": "2014",
-          "pages": "383 - 388",
-          "location": "Khulna, Bangladesh"
-        },
-        {
-          "authors": [
-            "Ashis Kumar Mandal",
-            "Md. Delowar Hossain",
-            "Rikta Sen",
-            "Tangina Sultana"
-          ],
-          "title": "Topic Spotting on Bangla Document Corpus by Support Vector Machines",
-          "conference": "International Conference on Statistical Data Mining for Bioinformatics, Health, Agriculture and Environment",
-          "date": "2012",
-          "pages": "624 - 627",
-          "location": "Rajshahi, Bangladesh"
-        },
-        {
-          "authors": [
-            "Md. Olioul Islam",
-            "Ashis Kumar Mandal",
-            "Md. Delowar Hossain"
-          ],
-          "title": "ThirdHand: A Novel and Cost-effective HCI for Physically Handicapped People",
-          "conference": "14th International Conference on Computer and Information Technology (ICCIT)",
-          "date": "2011",
-          "pages": "134 - 138"
-        },
-        {
-          "authors": [
-            "M. Mahbubur Rahman",
-            "Md. Delowar Hossain",
-            "ABM Shawkat Ali"
-          ],
-          "title": "Performance Analysis of OFDM Systems with Phase Noise",
-          "conference": "6th IEEE/ACIS International Conference on Computer and Information Science (ICIS 2007)",
-          "date": "2007",
-          "pages": "358-362",
-          "location": "Melbourne, Australia"
-        }
-      ]
+     "conferencePapers": [
+    {
+      "authors": [
+        "Tangina Sultana",
+        "Md. Delowar Hossain",
+        "Md Golam Morshed",
+        "Young-Koo Lee"
+      ],
+      "title": "Enhancing Node Classification in Graphs through Mapping-Based Contrastive Learning",
+      "conference": "Proc. of the KDBC 2023 Conference",
+      "year": "November 3-4, 2023",
+      "location": "Busan, South Korea",
+      "pages": "126-129",
+      "award": "Gold Prize"
+    },
+    {
+      "authors": [
+        "Sharmen Akhter",
+        "Md Imtiaz Hossain",
+        "Md Delowar Hossain",
+        "Md Nosin Ibna Mahbub",
+        "Eui-Nam Huh"
+      ],
+      "title": "Enhancing Cloud Service Failure Prediction Via Temporal Relationship Distillation",
+      "conference": "2023 International Conference on Computational Science and Computational Intelligence (CSCI 2023)",
+      "year": "December 13-15, 2023",
+      "location": "Las Vegas, USA"
+    },
+    {
+      "authors": [
+        "Md Imtiaz Hossain",
+        "Sharmen Akhter",
+        "Md Nosin Ibna Mahbub",
+        "Md Delowar Hossain",
+        "Sungjun Yang",
+        "Eui-Nam Huh"
+      ],
+      "title": "GERRS: Removing Ghost Effects from Real-World Scenarios in 3D Pose Estimation via Zero-shot Inference Approach",
+      "conference": "2023 International Conference on Computational Science and Computational Intelligence (CSCI 2023)",
+      "year": "December 13-15, 2023",
+      "location": "Las Vegas, USA"
+    },
+    {
+      "authors": [
+        "Md Nosin Ibn Mahbub",
+        "Delowar Hossain",
+        "Sharmen Akhter",
+        "Md Imtiaz Hossain",
+        "Junyoung Park",
+        "Eui-Nam Huh"
+      ],
+      "title": "From Complexity to Clarity: Failure Prediction in Cloud with Hyperparameter-Tuned XGBoost and Explainable AI",
+      "conference": "Proceedings of the Korean Institute of Communication Sciences Artificial Intelligence Conference",
+      "location": "South Korea",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Sharmen Akhter",
+        "Md Imtiaz Hossain",
+        "Md Nosin Ibn Mahabub",
+        "Md Delowar Hossain",
+        "A-Young Son",
+        "Eui-Nam Huh"
+      ],
+      "title": "CloudGuard: When Transformer Meets Service Failure Prediction in Cloud Computing",
+      "conference": "Proceedings of the Korean Institute of Communication Sciences Artificial Intelligence Conference",
+      "location": "South Korea",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Md. Delowar Hossain",
+        "Tangina Sultana",
+        "Ga-Won Lee",
+        "Eui-Nam Huh"
+      ],
+      "title": "The Role of Microservices in the Internet of Things: Applications, Challenges, and Research Opportunities",
+      "conference": "The 14th International Conference on Ubiquitous and Future Networks (ICUFN 2023)",
+      "year": "July 4-7, 2023",
+      "location": "Paris, France",
+      "pages": "901-906"
+    },
+    {
+      "authors": [
+        "Md. Delowar Hossain",
+        "Tangina Sultana",
+        "Sharmen Akhter",
+        "Md. Imtiaz Hossain",
+        "Ga-Won Lee",
+        "Eui-Nam Huh"
+      ],
+      "title": "Server Capacity Planning Based Task Computation Offloading in Vehicular Edge Computing Networks",
+      "conference": "2023 the 3rd European Conference on Communication Systems (ECCS 2023)",
+      "year": "May 10-12, 2023",
+      "location": "Vienna, Austria"
+    },
+    {
+      "authors": [
+        "Md. Delowar Hossain",
+        "Tangina Sultana",
+        "Sharmen Akhter",
+        "Md. Imtiaz Hossain",
+        "Ga-Won Lee",
+        "Choong Seon Hong",
+        "Eui-Nam Huh"
+      ],
+      "title": "Computation Offloading Strategy Based on Multi-armed Bandit Learning in Microservice-enabled Vehicular Edge Computing Networks",
+      "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
+      "year": "January 11-14, 2023",
+      "location": "Bangkok, Kingdom of Thailand",
+      "pages": "769-774"
+    },
+    {
+      "authors": [
+        "Sharmen Akhter",
+        "Md. Imtiaz Hossain",
+        "Md. Delowar Hossain",
+        "Choong Seon Hong",
+        "Eui-Nam Huh"
+      ],
+      "title": "ParaNet: A Single Blocked Network for Mobile Edge Computing Devices",
+      "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
+      "year": "January 11-14, 2023",
+      "location": "Bangkok, Kingdom of Thailand",
+      "pages": "626-631"
+    },
+    {
+      "authors": [
+        "Md. Imtiaz Hossain",
+        "Sharmen Akhter",
+        "Md. Delowar Hossain",
+        "Choong Seon Hong",
+        "Eui-Nam Huh"
+      ],
+      "title": "Multi-Person 3D Pose Estimation in Mobile Edge Computing Devices for Real-Time Applications",
+      "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
+      "year": "January 11-14, 2023",
+      "location": "Bangkok, Kingdom of Thailand",
+      "pages": "673-677"
+    },
+    {
+      "authors": [
+        "Md. Delowar Hossain",
+        "Subina Khanal",
+        "Eui-Nam Huh"
+      ],
+      "title": "Efficient Task Offloading for MEC-Enabled Vehicular Networks: A Non-Cooperative Game Theoretic Approach",
+      "conference": "2021 Twelfth International Conference on Ubiquitous and Future Networks (ICUFN 2021)",
+      "year": "August 17-20, 2021",
+      "location": "Jeju Island, Korea, Republic of",
+      "pages": " 11-16"
+    },
+    {
+      "authors": [
+        "Md Delowar Hossain",
+        "Tangina Sultana",
+        "Md Alamgir Hossain",
+        "Eui-Nam Huh"
+      ],
+      "title": "Edge Orchestration Based Computation Peer Offloading in MEC-Enabled Networks: A Fuzzy Logic Approach",
+      "conference": "The 15th International Conference on Ubiquitous Information Management and Communication (IMCOM 2021)",
+      "year": "January 4-6, 2021",
+      "location": "Seoul, South Korea"
+    },
+    {
+      "authors": [
+        "Md Alamgir Hossain",
+        "Md Imtiaz Hossain",
+        "Md Delowar Hossain",
+        "Ngo Thien Thu",
+        "Eui-Nam Huh"
+      ],
+      "title": "DMoD: When the Sharp Gradient Direction Detects Moving Objects More Effectively than Deep Learning-based Methods",
+      "conference": "Proc. of the KIISE Korea Software Congress 2020 (KSC 2020)",
+      "year": "December 21-23, 2020",
+      "location": "South Korea",
+      "pages": " 951-953"
+    },
+    {
+      "authors": [
+        "Md Delowar Hossain",
+        "Tri D. T. Nguyen",
+        "Tangina Sultana",
+        "Md Alamgir Hossain",
+        "Md Imtiaz Hossain",
+        "Luan N. T. Huynh",
+        "Myeongseob Kim",
+        "Eui-Nam Huh"
+      ],
+      "title": "Fuzzy Handoff Based Efficient Edge Node Selection for Task Offloading in MEC-Enabled Networks",
+      "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
+      "year": "July 2-4, 2020",
+      "location": "Busan, South Korea",
+      "pages": " 209-211"
+    },
+    {
+      "authors": [
+        "Luan N.T. Huynh",
+        "Md Delowar Hossain",
+        "Md Imtiaz Hossain",
+        "Tri D.T. Nguyen",
+        "Phoo Pyae Sone",
+        "Yunkon Kim",
+        "Eui-Nam Huh"
+      ],
+      "title": "Applications of Swarm Intelligence for Multi-Access Edge Computing Systems: A Brief Overview",
+      "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
+      "year": "July 2-4, 2020",
+      "location": "South Korea",
+      "pages": " 221-223"
+    },
+    {
+      "authors": [
+        "Md Imtiaz Hossain",
+        "Luan N.T. Huynh",
+        "Md Alamgir Hossain",
+        "Md Delowar Hossain",
+        "Junyoung Park",
+        "Seung-Jik Kim",
+        "Eui-Nam Huh"
+      ],
+      "title": "RRF: A Novel Technique for Forcing 3D CNN to Rethink about Temporal Features Using RGB and Residual Frames",
+      "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
+      "year": "July 2-4, 2020",
+      "location": "Busan, South Korea",
+      "pages": " 461-463"
+    },
+    {
+      "authors": [
+        "Md Alamgir Hossain",
+        "Md Imtiaz Hossain",
+        "Md Delowar Hossain",
+        "Ngo Thien Thu",
+        "Seungjun Hong",
+        "Eui-Nam Huh"
+      ],
+      "title": "ODD: Background Subtraction Based Effective Moving Object Detection for Dynamic Video",
+      "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
+      "year": "July 2-4, 2020",
+      "location": "Busan, South Korea",
+      "pages": " 1124-1126"
+    },
+    {
+      "authors": [
+        "Md Delowar Hossain",
+        "Luan N. T. Huynh",
+        "Tangina Sultana",
+        "Tri D.T. Nguyen",
+        "Jae Ho Park",
+        "Choong Seon Hong",
+        "Eui-Nam Huh"
+      ],
+      "title": "Collaborative Task Offloading for Overloaded Mobile Edge Computing in Small-Cell Networks",
+      "conference": "The 34th International Conference on Information Networking (ICOIN 2020)",
+      "year": "January 7-10, 2020",
+      "location": "Barcelona, Spain",
+      "pages": " 717-722"
+    },
+    {
+      "authors": [
+        "Luan N. T. Huynh",
+        "Quoc-Viet Pham",
+        "Tri D.T. Nguyen",
+        "Md Delowar Hossain",
+        "Jae Ho Park",
+        "Eui-Nam Huh"
+      ],
+      "title": "A Study on Computation Offloading in MEC Systems using Whale Optimization Algorithm",
+      "conference": "The 14th International Conference on Ubiquitous Information Management and Communication (IMCOM 2020)",
+      "year": "January 3-5, 2020",
+      "location": "Taichung, Taiwan",
+      "pages": " 1-4"
+    },
+    {
+      "authors": [
+        "Md Alamgir Hossain",
+        "Md Imtiaz Hossain",
+        "Md Delowar Hossain",
+        "Ji Hoo Chun",
+        "Eui-Nam Huh"
+      ],
+      "title": "Performance Assessment of Background Subtraction Algorithm",
+      "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
+      "year": "December 26-28, 2019",
+      "location": "Pyeongchang, South Korea",
+      "pages": " 1049-1051"
+    },
+    {
+      "authors": [
+        "Md Imtiaz Hossain",
+        "Md Alamgir Hossain",
+        "Md Delowar Hossain",
+        "Ngo Thien Thu",
+        "Ga-won Lee",
+        "Eui-Nam Huh"
+      ],
+      "title": "Evaluation of the Importance of High Level Features in CNN",
+      "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
+      "year": "December 26-28",
+      "pages": "39-41",
+      "location": "Pyeongchang, South Korea"
+
+    },
+    {
+      "authors": [
+        "Md Delowar Hossain",
+        "Tangina Sultana",
+        "Md Alamgir Hossain",
+        "Md Imtiaz Hossain",
+        "Luan N. T. Huynh",
+        "Waqas ur Rahman",
+        "Myeong-Seob Kim",
+        "Eui-Nam Huh"
+      ],
+      "title": "Efficient Workload Balancing in Multi-Access Edge Computing: A Fuzzy Logic Approach",
+      "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
+      "year": "December 26-28",
+      "pages": "197-199",
+      "location": "Pyeongchang, South Korea"
+
+    },
+    {
+      "authors": [
+        "Luan N.T. Huynh",
+        "Quoc-Viet Pham",
+        "Pham Van Nam",
+        "Md Delowar Hossain",
+        "Tri D.T. Nguyen",
+        "Young-Rok Shin",
+        "Eui-Nam Huh"
+      ],
+      "title": "Towards Computation Offloading in NOMA-assisted Multi-Access Edge Computing",
+      "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
+      "year": "December 26-28",
+      "pages": "200-202",
+      "location": "Pyeongchang, South Korea"
+
+    },
+    {
+      "authors": [
+        "Tri D.T. Nguyen",
+        "Jae Ho Park",
+        "Md Imtiaz Hossain",
+        "Md Delowar Hossain",
+        "Seung-Jin Lee",
+        "Jin Woong Jang",
+        "Seo Hui Jo",
+        "Luan N.T Huynh",
+        "Tran Trong Khanh",
+        "Eui-Nam Huh"
+      ],
+      "title": "Performance Analysis of Data Parallelism Technique in Machine Learning for Human Activity Recognition using LSTM",
+      "conference": "2019 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)",
+      "year": "11-13 Dec",
+      "pages": "387-391",
+      "location": "Sydney, Australia"
+
+    },
+    {
+      "authors": [
+        "Md Delowar Hossain",
+        "Md Abu Layek",
+        "Tangina Sultana",
+        "Md Alamgir Hossain",
+        "Md Imtiaz Hossain",
+        "Waqas ur Rahman",
+        "Yun Hwan Kim",
+        "Eui-Nam Huh"
+      ],
+      "title": "Orchestration Based Task Offloading for Mobile Edge Computing in Small-Cell Networks",
+      "conference": "International Joint Conference on Computational Intelligence (IJCCI 2019)",
+      "publisher": "Springer",
+      "chapter": "50",
+      "year": "October 25-26",
+      "pages": "629-641",
+      "location": "Dhaka, Bangladesh"
+    },
+    {
+      "authors": [
+        "Md Imtiaz Hossain",
+        "Md Alamgir Hossain",
+        "Md Abu Layek",
+        "Md Delowar Hossain",
+        "Mansu Kim",
+        "Eui-Nam Huh"
+      ],
+      "title": "Anomaly Detection Based on Error Distribution and Clustering",
+      "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
+      "year": "June 26-28",
+      "pages": "1144-1146",
+      "location": "Jeju, South Korea"
+
+    },
+    {
+      "authors": [
+        "Md. Abu Layek",
+        "Md. Delowar Hossain",
+        "Md. Imtiaz Hossain",
+        "Ngo Thien Thu",
+        "Jun-Young Park",
+        "Seung Jin Lee",
+        "Mst Sirazam Monira",
+        "TaeChoong Chung",
+        "Eui-Nam Huh"
+      ],
+      "title": "Importance of Center-block in Image Quality Assessment",
+      "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
+      "year": "June 26-28",
+      "pages": "1359-1361",
+      "location": "Jeju, South Korea"
+
+    },
+    {
+      "authors": [
+        "Md Delowar Hossain",
+        "Tangina Sultana",
+        "Md Abu Layek",
+        "Md Alamgir Hossain",
+        "Md Imtiaz Hossain",
+        "Sung Yun Woo",
+        "Eui-Nam Huh"
+      ],
+      "title": "Dynamic task offloading for Ultra-Dense Mobile Edge Computing",
+      "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
+      "year": "June 26-28",
+      "pages": "252-255",
+      "location": "Jeju, South Korea"
+
+    },
+    {
+      "authors": [
+        "Md Alamgir Hossain",
+        "Ngo Thien Thu",
+        "Md Imtiaz Hossain",
+        "Md Abu Layek",
+        "Md Delowar Hossain",
+        "A.F.M Shahab Uddin",
+        "Eui-Nam Huh"
+      ],
+      "title": "An Analysis of Post-Processing for Background Subtraction",
+      "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
+      "year": "June 26-28",
+      "pages": "1403-1405",
+      "location": "Jeju, South Korea"
+
+    },
+    {
+      "authors": [
+        "Md Delowar Hossain",
+        "Tangina Sultana",
+        "Md Abu Layek",
+        "VanDung Nguyen",
+        "Jun Hyeok Nam Goong",
+        "Yunkon Kim",
+        "Eui-Nam Huh"
+      ],
+      "title": "Performance Analysis of Mobile Edge Computing in 5G Ultra-Dense Networks",
+      "conference": "Proc. of the KIISE Korea Software Congress 2018 (KSC 2018)",
+      "year": "December 19-21",
+      "pages": "292-294",
+      "location": "Pyeongchang, South Korea"
+
+    },
+    {
+      "authors": [
+        "Md Abu Layek",
+        "A F M Shahab Uddin",
+        "Md Delowar Hossain",
+        "Ngo Thien Thu",
+        "Soyeon Yu",
+        "Chan Ho Yong",
+        "Ga-Won Lee",
+        "TaeChoong Chung",
+        "Eui-Nam Huh"
+      ],
+      "title": "Cloud-based Smart Surveillance System using Raspberry Pi and YOLO",
+      "conference": "KIISE Korea Software Congress 2018 (KSC 2018)",
+      "year": "December 19-21, 2018",
+      "pages": "510-512",
+      "location": "Pyeongchang, South Korea"
+    },
+    {
+      "authors": [
+        "Tangina Sultana",
+        "M. Delowar Hossain",
+        "Niamul Hasan Zead",
+        "Nur Alam Sarker",
+        "Jannatul Fardoush"
+      ],
+      "title": "A New Approach for Efficient Face Detection Using BPV Algorithm Based on Mathematical Modeling",
+      "conference": "International Joint Conference on Computational Intelligence (IJCCI 2018)",
+      "publisher": "Springer",
+      "chapter": "30",
+      "year": "December 14-15, 2018",
+      "pages": "345-358",
+      "location": "Dhaka, Bangladesh"
+    },
+    {
+      "authors": [
+        "Sumya Akter",
+        "Aysa Siddika Asa",
+        "Md. Palash Uddin",
+        "Md. Delowar Hossain",
+        "Shikhor Kumer Roy",
+        "Masud Ibn Afjal"
+      ],
+      "title": "An extractive text summarization technique for Bengali document(s) using K-means clustering algorithm",
+      "conference": "IEEE International Conference on Imaging, Vision & Pattern Recognition (ICIVPR)",
+      "year": "February 13-14, 2017",
+      "location": "Bangladesh"
+    },
+    {
+      "authors": [
+        "Shahnaj Parvin Shathi",
+        "Md. Delowar Hossain",
+        "Md. Nadim",
+        "Sayed Golam Rasul Riayadh",
+        "Tangina Sultana"
+      ],
+      "title": "Enhancing Performance of Naïve Bayes in Text Classification by Introducing an Extra Weight using less Number of Training Examples",
+      "conference": "International Workshop on Computational Intelligence (IWCI 2016)",
+      "year": "2016",
+      "pages": "142-147",
+      "location": "Dhaka, Bangladesh"
+    },
+    {
+      "authors": [
+        "Md Rashedul Islam",
+        "Ayasha Siddiqa",
+        "Md Palash Uddin",
+        "Ashis Kumar Mandal",
+        "Md Delowar Hossain"
+      ],
+      "title": "An Efficient Filtering Based Approach Improving LSB Image Steganography using Status Bit along with AES Cryptography",
+      "conference": "3rd International Conference on Informatics, Electronics & Vision (ICIEV)",
+      "year": "2014",
+      "location": "Dhaka, Bangladesh"
+    },
+    {
+      "authors": [
+        "Ashis Kumar Mandal",
+        "Mohammed Kaosar",
+        "Md. Olioul Islam",
+        "Md. Delowar Hossain"
+      ],
+      "title": "An Approach for Enhancing Message Security in Audio Steganography",
+      "conference": "16th International Conference on Computer and Information Technology (ICCIT)",
+      "year": "2014",
+      "pages": "383 - 388",
+      "location": "Khulna, Bangladesh"
+    },
+    {
+      "authors": [
+        "Ashis Kumar Mandal",
+        "Md. Delowar Hossain",
+        "Rikta Sen",
+        "Tangina Sultana"
+      ],
+      "title": "Topic Spotting on Bangla Document Corpus by Support Vector Machines",
+      "conference": "International Conference on Statistical Data Mining for Bioinformatics, Health, Agriculture and Environment",
+      "year": "2012",
+      "pages": "624 - 627",
+      "location": "Rajshahi, Bangladesh"
+    },
+    {
+      "authors": [
+        "Md. Olioul Islam",
+        "Ashis Kumar Mandal",
+        "Md. Delowar Hossain"
+      ],
+      "title": "ThirdHand: A Novel and Cost-effective HCI for Physically Handicapped People",
+      "conference": "14th International Conference on Computer and Information Technology (ICCIT)",
+      "year": "2011",
+      "pages": "134 - 138"
+    },
+    {
+      "authors": [
+        "M. Mahbubur Rahman",
+        "Md. Delowar Hossain",
+        "ABM Shawkat Ali"
+      ],
+      "title": "Performance Analysis of OFDM Systems with Phase Noise",
+      "conference": "6th IEEE/ACIS International Conference on Computer and Information Science (ICIS 2007)",
+      "year": "2007",
+      "pages": "358-362",
+      "location": "Melbourne, Australia"
+    }
+  ]
     },
     "activities": [
       {
@@ -1282,6 +1308,7 @@
           ],
           "title": "Intent Identification by Semantically Analyzing the Search Query",
           "journal": "Modelling",
+          "impact_factor": 1.3,
           "year": 2024,
           "volume": 5,
           "pages": "292-314",
@@ -1525,19 +1552,23 @@
         },
         {
           "authors": [
-            "Sultana T.",
-            "Showkat M. S. A.",
-            "Alam M. S.",
-            "Hossain M. D.",
-            "Mandal A. K."
+            "Tangina Sultana",
+            "M. S. Ara Showkat",
+            "Mohammad Shah Alam",
+            "Md. Delowar Hossain",
+            "Ashis Kumar Mandal"
           ],
           "title": "Reducing Peak to Average Power Ratio of OFDM Signals using Tukey Window Technique",
           "journal": "International Journal of Scientific Engineering and Technology",
-          "year": 2013,
+          "publisher": "IJSET",
+          "indexing": "ISSN: 2277-1581",
+          "status": "Published",
           "volume": 2,
-          "number": 9,
-          "pages": "879-883",
-          "issn": "2277-1581"
+          "issue": 9,
+          "pages": "  879-883",
+          "country": "India",
+          "month": "September",
+          "year": 2013
         },
         {
           "authors": [
@@ -1555,7 +1586,7 @@
           "issn": "1994-0386"
         }
       ],
-      "conferencePapers": [
+    "conferencePapers": [
         {
           "authors": [
             "Islam H.",
@@ -2097,7 +2128,7 @@
           "status": "Published",
           "year": 2024,
           "volume": "Vol. 12,",
-          "pages": "pp. 62,341-62,357,",
+          "pages": "  62,341-62,357,",
           "doi": "10.1109/ACCESS.2024.3390684"
         },
         {
@@ -2115,7 +2146,7 @@
           "status": "Published",
           "year": 2024,
           "volume": "Vol. 10,",
-          "pages": "pp. 871-890,"
+          "pages": "  871-890,"
         },
         {
           "authors": [
@@ -2164,7 +2195,7 @@
           "status": "Published",
           "year": 2024,
           "volume": "Vol. 5,",
-          "pages": "pp. 292–314,"
+          "pages": "  292–314,"
         },
         {
           "authors": [
@@ -2183,7 +2214,7 @@
           "status": "Published",
           "year": 2023,
           "volume": "Vol. 662,",
-          "pages": "pp. 44,"
+          "pages": "  44,"
         },
         {
           "authors": [
@@ -2235,7 +2266,7 @@
           "indexing": "SCIE",
           "status": "Published",
           "volume": 11,
-          "pages": "56083-56097",
+          "pages": "  56083-56097",
           "country": "USA",
           "month": "June",
           "year": 2023,
@@ -2248,7 +2279,7 @@
             "Aftab Alam",
             "Young-Koo Lee"
           ],
-          "title": "Human Action Recognition: A Taxonomy-Based Survey, Updates, and Opportunities",
+          "title": "Human Action Recognition: A Taxonomy-Based Survey, Upyears, and Opportunities",
           "journal": "Sensors",
           "publisher": "MDPI",
           "impact_factor": 3.9,
@@ -2272,7 +2303,7 @@
           "impact_factor": 2.557,
           "indexing": "SCIE",
           "status": "Published",
-          "pages": "1-28",
+          "pages": "  1-28",
           "country": "Switzerland",
           "month": "May",
           "year": 2022,
@@ -2297,7 +2328,7 @@
           "status": "Published",
           "volume": 22,
           "issue": 10,
-          "pages": "1-18",
+          "pages": "  1-18",
           "country": "Switzerland",
           "month": "May",
           "year": 2022
@@ -2315,7 +2346,7 @@
           "status": "Published",
           "volume": 22,
           "issue": 7,
-          "pages": "1-17",
+          "pages": "  1-17",
           "country": "Switzerland",
           "month": "March",
           "year": 2022,
@@ -2334,7 +2365,7 @@
           "status": "Published",
           "volume": 49,
           "issue": 3,
-          "pages": "241-249",
+          "pages": "  241-249",
           "country": "South Korea",
           "month": "March",
           "year": 2022
@@ -2357,7 +2388,7 @@
           "status": "Published",
           "volume": 21,
           "issue": 4,
-          "pages": "1-26",
+          "pages": "  1-26",
           "country": "Switzerland",
           "month": "February",
           "year": 2021
@@ -2377,7 +2408,7 @@
           "status": "Published",
           "volume": 26,
           "issue": 11,
-          "pages": "482-492",
+          "pages": "  482-492",
           "country": "South Korea",
           "month": "November",
           "year": 2020
@@ -2398,12 +2429,11 @@
           "impact_factor": 2.838,
           "indexing": "SCIE",
           "status": "Published",
-          "volume": 10,
+          "volume": "vol. 10",
           "issue": 9,
-          "pages": "1-23",
+          "pages": " 1-23",
           "country": "Switzerland",
-          "month": "April",
-          "year": 2020
+          "year": "April 2020"
         },
         {
           "authors": [
@@ -2419,10 +2449,10 @@
           "indexing": "ISSN: 2454-1311",
           "status": "Published",
           "volume": 17,
-          "pages": "89-96",
+          "pages": "  89-96",
           "country": "Bangladesh",
           "month": "June",
-          "year": 2019
+          "year": " June 2019"
         },
         {
           "authors": [
@@ -2438,10 +2468,10 @@
           "indexing": "ISSN: 2454-1311",
           "status": "Published",
           "volume": 16,
-          "pages": "81-88",
+          "pages": "  81-88",
           "country": "Bangladesh",
           "month": "June",
-          "year": 2018
+          "year": "June 2018"
         },
         {
           "authors": [
@@ -2457,10 +2487,10 @@
           "status": "Published",
           "volume": 2,
           "issue": 7,
-          "pages": "1054-1058",
+          "pages": " 1054-1058",
           "country": "India",
           "month": "July",
-          "year": 2016
+          "year": "July 2016"
         },
         {
           "authors": [
@@ -2475,10 +2505,10 @@
           "indexing": "ISSN: 2454-1311",
           "status": "Published",
           "volume": 14,
-          "pages": "18-25",
+          "pages": "  18-25",
           "country": "Bangladesh",
           "month": "June",
-          "year": 2016
+          "year": "June 2016"
         },
         {
           "authors": [
@@ -2492,10 +2522,10 @@
           "indexing": "ISSN: 1994-0386",
           "status": "Published",
           "volume": 13,
-          "pages": "89-92",
+          "pages": "  89-92",
           "country": "Bangladesh",
           "month": "June",
-          "year": 2015
+          "year": "June 2015"
         },
         {
           "authors": [
@@ -2512,7 +2542,7 @@
           "status": "Published",
           "volume": 2,
           "issue": 9,
-          "pages": "879-883",
+          "pages": "  879-883",
           "country": "India",
           "month": "September",
           "year": 2013
@@ -2527,10 +2557,10 @@
           ],
           "title": "Multi-Kernel Inductive Autoencoder for Efficient RDF Dataset Compression",
           "conference": "The 4th Korea Artificial Intelligencer Conference",
-          "date": "September 20-23",
-          "pages": "pp. 1-2",
-          "location": "Jeju, South Korea",
-          "year": 2023
+          "year": "September 20-23",
+          "pages": " 1-2",
+          "location": "Jeju, South Korea"
+
         },
         {
           "authors": [
@@ -2541,10 +2571,10 @@
           ],
           "title": "Enhancing Node Classification in Graphs through Mapping-Based Contrastive Learning",
           "conference": "Proc. of the KDBC 2023 Conference",
-          "date": "November 3-4",
-          "pages": "pp. 126-129",
+          "year": "November 3-4",
+          "pages": " 126-129",
           "location": "Busan, South Korea",
-          "year": 2023,
+
           "award": "Gold Prize"
         },
         {
@@ -2556,10 +2586,10 @@
           ],
           "title": "The Role of Microservices in the Internet of Things: Applications, Challenges, and Research Opportunities",
           "conference": "The 14th International Conference on Ubiquitous and Future Networks (ICUFN 2023)",
-          "date": "July 4-7",
-          "pages": "pp. 901-906",
-          "location": "Paris, France",
-          "year": 2023
+          "year": "July 4-7",
+          "pages": " 901-906",
+          "location": "Paris, France"
+
         },
         {
           "authors": [
@@ -2572,9 +2602,9 @@
           ],
           "title": "Server Capacity Planning Based Task Computation Offloading in Vehicular Edge Computing Networks",
           "conference": "2023 the 3rd European Conference on Communication Systems (ECCS 2023)",
-          "date": "May 10-12",
-          "location": "Vienna, Austria",
-          "year": 2023
+          "year": "May 10-12",
+          "location": "Vienna, Austria"
+
         },
         {
           "authors": [
@@ -2588,10 +2618,10 @@
           ],
           "title": "Computation Offloading Strategy Based on Multi-armed Bandit Learning in Microservice-enabled Vehicular Edge Computing Networks",
           "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
-          "date": "January 11-14",
-          "pages": "pp. 769-774",
-          "location": "Bangkok, Kingdom of Thailand",
-          "year": 2023
+          "year": "January 11-14",
+          "pages": " 769-774",
+          "location": "Bangkok, Kingdom of Thailand"
+
         },
         {
           "authors": [
@@ -2600,9 +2630,9 @@
           ],
           "title": "BERT-PRF: An Efficient Approach for Intent Detection from Users Search Query",
           "conference": "Proc. of the KIISE Korea Software Congress 2021 (KSC 2021)",
-          "date": "December 20-22",
-          "location": "Pyeongchang, South Korea",
-          "year": 2021
+          "year": "December 20-22",
+          "location": "Pyeongchang, South Korea"
+
         },
         {
           "authors": [
@@ -2612,10 +2642,10 @@
           ],
           "title": "Employing Graph Compression Technique for Efficiently Compressing RDF Knowledge Graphs",
           "conference": "Proc. of the KDBC 2021 Conference",
-          "date": "November 12-13",
-          "pages": "pp. 21-24",
+          "year": "November 12-13",
+          "pages": " 21-24",
           "location": "Daejeon, South Korea",
-          "year": 2021,
+
           "award": "Gold Prize"
         },
         {
@@ -2626,10 +2656,10 @@
           ],
           "title": "Adjustor: Mining on Compressed Graph with Adjacency Information Constructor while exploiting Parallel Computing",
           "conference": "Proc. of the KDBC 2021 Conference",
-          "date": "November 12-13",
-          "pages": "pp. 107-110",
-          "location": "Daejeon, South Korea",
-          "year": 2021
+          "year": "November 12-13",
+          "pages": " 107-110",
+          "location": "Daejeon, South Korea"
+
         },
         {
           "authors": [
@@ -2638,10 +2668,10 @@
           ],
           "title": "Expressive Rule Pattern Based Compression with Ranking in Horn Rules on RDF Style KB",
           "conference": "2021 IEEE International Conference on Big Data and Smart Computing (BigComp)",
-          "date": "January 17-20",
-          "pages": "pp. 13-19",
+          "year": "January 17-20",
+          "pages": " 13-19",
           "location": "Bangkok, Thailand",
-          "year": 2021,
+
           "award": "2nd Best Paper Award"
         },
         {
@@ -2653,9 +2683,9 @@
           ],
           "title": "Edge Orchestration Based Computation Peer Offloading in MEC-Enabled Networks: A Fuzzy Logic Approach",
           "conference": "The 15th International Conference on Ubiquitous Information Management and Communication (IMCOM 2021)",
-          "date": "January 4-6",
-          "location": "Seoul, South Korea",
-          "year": 2021
+          "year": "January 4-6",
+          "location": "Seoul, South Korea"
+
         },
         {
           "authors": [
@@ -2666,10 +2696,10 @@
           ],
           "title": "Frequent and Semantically Related Term Detection Based Encoding and Compression for Knowledge Graphs",
           "conference": "Proc. of the KDBC 2020 Conference",
-          "date": "September 24-25",
-          "pages": "pp. 1-4",
+          "year": "September 24-25",
+          "pages": " 1-4",
           "location": "Jeju, South Korea",
-          "year": 2020,
+
           "award": "Gold Prize"
         },
         {
@@ -2682,10 +2712,10 @@
           ],
           "title": "SCBVR: A Hybrid Approach for Large-scale Video Retrieval",
           "conference": "Proc. of the KDBC 2020 Conference",
-          "date": "September 24-25",
-          "pages": "pp. 24-26",
+          "year": "September 24-25",
+          "pages": " 24-26",
           "location": "Jeju, South Korea",
-          "year": 2020,
+
           "award": "Silver Prize"
         },
         {
@@ -2696,9 +2726,9 @@
           ],
           "title": "Multi-Kernel Inductive Autoencoder for Efficient RDF Dataset Compression",
           "conference": "The 4th Korea Artificial Intelligencer Conference",
-          "date": "September 20-23, 2023",
+          "year": "September 20-23, 2023",
           "location": "Jeju, South Korea",
-          "pages": "pp. 1-2"
+          "pages": " 1-2"
         },
         {
           "authors": [
@@ -2709,9 +2739,9 @@
           ],
           "title": "Enhancing Node Classification in Graphs through Mapping-Based Contrastive Learning",
           "conference": "Proc. of the KDBC 2023 Conference",
-          "date": "November 3-4, 2023",
+          "year": "November 3-4, 2023",
           "location": "Busan, South Korea",
-          "pages": "pp. 126-129",
+          "pages": " 126-129",
           "award": "Gold Prize"
         },
         {
@@ -2723,9 +2753,9 @@
           ],
           "title": "The Role of Microservices in the Internet of Things: Applications, Challenges, and Research Opportunities",
           "conference": "The 14th International Conference on Ubiquitous and Future Networks (ICUFN 2023)",
-          "date": "July 4-7, 2023",
+          "year": "July 4-7, 2023",
           "location": "Paris, France",
-          "pages": "pp. 901-906"
+          "pages": " 901-906"
         },
         {
           "authors": [
@@ -2738,7 +2768,7 @@
           ],
           "title": "Server Capacity Planning Based Task Computation Offloading in Vehicular Edge Computing Networks",
           "conference": "2023 the 3rd European Conference on Communication Systems (ECCS 2023)",
-          "date": "May 10-12, 2023",
+          "year": "May 10-12, 2023",
           "location": "Vienna, Austria"
         },
         {
@@ -2753,9 +2783,9 @@
           ],
           "title": "Computation Offloading Strategy Based on Multi-armed Bandit Learning in Microservice-enabled Vehicular Edge Computing Networks",
           "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
-          "date": "January 11-14, 2023",
+          "year": "January 11-14, 2023",
           "location": "Bangkok, Kingdom of Thailand",
-          "pages": "pp. 769-774"
+          "pages": " 769-774"
         },
         {
           "authors": [
@@ -2764,7 +2794,7 @@
           ],
           "title": "BERT-PRF: An Efficient Approach for Intent Detection from Users Search Query",
           "conference": "Proc. of the KIISE Korea Software Congress 2021 (KSC 2021)",
-          "date": "December 20-22, 2021",
+          "year": "December 20-22, 2021",
           "location": "Pyeongchang, South Korea"
         },
         {
@@ -2775,9 +2805,9 @@
           ],
           "title": "Employing Graph Compression Technique for Efficiently Compressing RDF Knowledge Graphs",
           "conference": "Proc. of the KDBC 2021 Conference",
-          "date": "November 12-13, 2021",
+          "year": "November 12-13, 2021",
           "location": "Daejeon, South Korea",
-          "pages": "pp. 21-24",
+          "pages": " 21-24",
           "award": "Gold Prize"
         },
         {
@@ -2788,9 +2818,9 @@
           ],
           "title": "Adjustor: Mining on Compressed Graph with Adjacency Information Constructor while exploiting Parallel Computing",
           "conference": "Proc. of the KDBC 2021 Conference",
-          "date": "November 12-13, 2021",
+          "year": "November 12-13, 2021",
           "location": "Daejeon, South Korea",
-          "pages": "pp. 107-110"
+          "pages": " 107-110"
         },
         {
           "authors": [
@@ -2799,9 +2829,9 @@
           ],
           "title": "Expressive Rule Pattern Based Compression with Ranking in Horn Rules on RDF Style KB",
           "conference": "2021 IEEE International Conference on Big Data and Smart Computing (BigComp)",
-          "date": "January 17-20, 2021",
+          "year": "January 17-20, 2021",
           "location": "Bangkok, Thailand",
-          "pages": "pp. 13-19",
+          "pages": " 13-19",
           "award": "2nd Best Paper Award"
         },
         {
@@ -2813,7 +2843,7 @@
           ],
           "title": "Edge Orchestration Based Computation Peer Offloading in MEC-Enabled Networks: A Fuzzy Logic Approach",
           "conference": "The 15th International Conference on Ubiquitous Information Management and Communication (IMCOM 2021)",
-          "date": "January 4-6, 2021",
+          "year": "January 4-6, 2021",
           "location": "Seoul, South Korea"
         },
         {
@@ -2825,9 +2855,9 @@
           ],
           "title": "Frequent and Semantically Related Term Detection Based Encoding and Compression for Knowledge Graphs",
           "conference": "Proc. of the KDBC 2020 Conference",
-          "date": "September 24-25, 2020",
+          "year": "September 24-25, 2020",
           "location": "Jeju, South Korea",
-          "pages": "pp. 1-4",
+          "pages": " 1-4",
           "award": "Gold Prize"
         },
         {
@@ -2840,9 +2870,9 @@
           ],
           "title": "SCBVR: A Hybrid Approach for Large-scale Video Retrieval",
           "conference": "Proc. of the KDBC 2020 Conference",
-          "date": "September 24-25, 2020",
+          "year": "September 24-25, 2020",
           "location": "Jeju, South Korea",
-          "pages": "pp. 24-26",
+          "pages": " 24-26",
           "award": "Silver Prize"
         },
         {
@@ -2856,7 +2886,7 @@
           ],
           "title": "Efficient Frequent Pattern Management and Compression System in Multiple Named Graphs",
           "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-          "date": "July 2-4, 2020",
+          "year": "July 2-4, 2020",
           "location": "Busan, South Korea"
         },
         {
@@ -2872,9 +2902,9 @@
           ],
           "title": "Fuzzy Handoff Based Efficient Edge Node Selection for Task Offloading in MEC-Enabled Networks",
           "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-          "date": "July 2-4, 2020",
+          "year": "July 2-4, 2020",
           "location": "Busan, South Korea",
-          "pages": "pp. 209-211"
+          "pages": " 209-211"
         },
         {
           "authors": [
@@ -2888,9 +2918,9 @@
           ],
           "title": "Collaborative Task Offloading for Overloaded Mobile Edge Computing in Small-Cell Networks",
           "conference": "The 34th International Conference on Information Networking (ICOIN 2020)",
-          "date": "January 7-10, 2020",
+          "year": "January 7-10, 2020",
           "location": "Barcelona, Spain",
-          "pages": "pp. 717-722"
+          "pages": " 717-722"
         },
         {
           "authors": [
@@ -2905,9 +2935,9 @@
           ],
           "title": "Efficient Workload Balancing in Multi-Access Edge Computing: A Fuzzy Logic Approach",
           "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
-          "date": "December 26-28, 2019",
+          "year": "December 26-28, 2019",
           "location": "Pyeongchang, South Korea",
-          "pages": "pp. 197-199"
+          "pages": " 197-199"
         },
         {
           "authors": [
@@ -2918,9 +2948,9 @@
           ],
           "title": "Efficient Management of Edge Computing Resources in Mobile Edge Computing",
           "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-          "date": "July 3-5, 2019",
+          "year": "July 3-5, 2019",
           "location": "Busan, South Korea",
-          "pages": "pp. 163-165"
+          "pages": " 163-165"
         },
         {
           "authors": [
@@ -2931,9 +2961,9 @@
           ],
           "title": "Efficient Task Offloading in Mobile Edge Computing: A Fuzzy Logic Approach",
           "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-          "date": "July 3-5, 2019",
+          "year": "July 3-5, 2019",
           "location": "Busan, South Korea",
-          "pages": "pp. 219-221"
+          "pages": " 219-221"
         }
       ]
     },

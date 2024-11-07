@@ -12,7 +12,7 @@
       ],
       "title": "Enhancing Node Classification in Graphs through Mapping-Based Contrastive Learning",
       "conference": "Proc. of the KDBC 2023 Conference",
-      "date": "November 3-4, 2023",
+      "year": "November 3-4, 2023",
       "location": "Busan, South Korea",
       "pages": "126-129",
       "award": "Gold Prize"
@@ -27,7 +27,7 @@
       ],
       "title": "Enhancing Cloud Service Failure Prediction Via Temporal Relationship Distillation",
       "conference": "2023 International Conference on Computational Science and Computational Intelligence (CSCI 2023)",
-      "date": "December 13-15, 2023",
+      "year": "December 13-15, 2023",
       "location": "Las Vegas, USA"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "title": "GERRS: Removing Ghost Effects from Real-World Scenarios in 3D Pose Estimation via Zero-shot Inference Approach",
       "conference": "2023 International Conference on Computational Science and Computational Intelligence (CSCI 2023)",
-      "date": "December 13-15, 2023",
+      "year": "December 13-15, 2023",
       "location": "Las Vegas, USA"
     },
     {
@@ -56,7 +56,7 @@
       "title": "From Complexity to Clarity: Failure Prediction in Cloud with Hyperparameter-Tuned XGBoost and Explainable AI",
       "conference": "Proceedings of the Korean Institute of Communication Sciences Artificial Intelligence Conference",
       "location": "South Korea",
-      "date": "2023"
+      "year": "2023"
     },
     {
       "authors": [
@@ -70,7 +70,7 @@
       "title": "CloudGuard: When Transformer Meets Service Failure Prediction in Cloud Computing",
       "conference": "Proceedings of the Korean Institute of Communication Sciences Artificial Intelligence Conference",
       "location": "South Korea",
-      "date": "2023"
+      "year": "2023"
     },
     {
       "authors": [
@@ -81,7 +81,7 @@
       ],
       "title": "The Role of Microservices in the Internet of Things: Applications, Challenges, and Research Opportunities",
       "conference": "The 14th International Conference on Ubiquitous and Future Networks (ICUFN 2023)",
-      "date": "July 4-7, 2023",
+      "year": "July 4-7, 2023",
       "location": "Paris, France",
       "pages": "901-906"
     },
@@ -96,7 +96,7 @@
       ],
       "title": "Server Capacity Planning Based Task Computation Offloading in Vehicular Edge Computing Networks",
       "conference": "2023 the 3rd European Conference on Communication Systems (ECCS 2023)",
-      "date": "May 10-12, 2023",
+      "year": "May 10-12, 2023",
       "location": "Vienna, Austria"
     },
     {
@@ -111,7 +111,7 @@
       ],
       "title": "Computation Offloading Strategy Based on Multi-armed Bandit Learning in Microservice-enabled Vehicular Edge Computing Networks",
       "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
-      "date": "January 11-14, 2023",
+      "year": "January 11-14, 2023",
       "location": "Bangkok, Kingdom of Thailand",
       "pages": "769-774"
     },
@@ -125,7 +125,7 @@
       ],
       "title": "ParaNet: A Single Blocked Network for Mobile Edge Computing Devices",
       "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
-      "date": "January 11-14, 2023",
+      "year": "January 11-14, 2023",
       "location": "Bangkok, Kingdom of Thailand",
       "pages": "626-631"
     },
@@ -139,7 +139,7 @@
       ],
       "title": "Multi-Person 3D Pose Estimation in Mobile Edge Computing Devices for Real-Time Applications",
       "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
-      "date": "January 11-14, 2023",
+      "year": "January 11-14, 2023",
       "location": "Bangkok, Kingdom of Thailand",
       "pages": "673-677"
     },
@@ -151,9 +151,9 @@
       ],
       "title": "Efficient Task Offloading for MEC-Enabled Vehicular Networks: A Non-Cooperative Game Theoretic Approach",
       "conference": "2021 Twelfth International Conference on Ubiquitous and Future Networks (ICUFN 2021)",
-      "date": "August 17-20, 2021",
+      "year": "August 17-20, 2021",
       "location": "Jeju Island, Korea, Republic of",
-      "pages": "pp. 11-16"
+      "pages": " 11-16"
     },
     {
       "authors": [
@@ -164,7 +164,7 @@
       ],
       "title": "Edge Orchestration Based Computation Peer Offloading in MEC-Enabled Networks: A Fuzzy Logic Approach",
       "conference": "The 15th International Conference on Ubiquitous Information Management and Communication (IMCOM 2021)",
-      "date": "January 4-6, 2021",
+      "year": "January 4-6, 2021",
       "location": "Seoul, South Korea"
     },
     {
@@ -177,9 +177,9 @@
       ],
       "title": "DMoD: When the Sharp Gradient Direction Detects Moving Objects More Effectively than Deep Learning-based Methods",
       "conference": "Proc. of the KIISE Korea Software Congress 2020 (KSC 2020)",
-      "date": "December 21-23, 2020",
+      "year": "December 21-23, 2020",
       "location": "South Korea",
-      "pages": "pp. 951-953"
+      "pages": " 951-953"
     },
     {
       "authors": [
@@ -194,9 +194,9 @@
       ],
       "title": "Fuzzy Handoff Based Efficient Edge Node Selection for Task Offloading in MEC-Enabled Networks",
       "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-      "date": "July 2-4, 2020",
+      "year": "July 2-4, 2020",
       "location": "Busan, South Korea",
-      "pages": "pp. 209-211"
+      "pages": " 209-211"
     },
     {
       "authors": [
@@ -210,9 +210,9 @@
       ],
       "title": "Applications of Swarm Intelligence for Multi-Access Edge Computing Systems: A Brief Overview",
       "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-      "date": "July 2-4, 2020",
+      "year": "July 2-4, 2020",
       "location": "South Korea",
-      "pages": "pp. 221-223"
+      "pages": " 221-223"
     },
     {
       "authors": [
@@ -226,9 +226,9 @@
       ],
       "title": "RRF: A Novel Technique for Forcing 3D CNN to Rethink about Temporal Features Using RGB and Residual Frames",
       "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-      "date": "July 2-4, 2020",
+      "year": "July 2-4, 2020",
       "location": "Busan, South Korea",
-      "pages": "pp. 461-463"
+      "pages": " 461-463"
     },
     {
       "authors": [
@@ -241,9 +241,9 @@
       ],
       "title": "ODD: Background Subtraction Based Effective Moving Object Detection for Dynamic Video",
       "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-      "date": "July 2-4, 2020",
+      "year": "July 2-4, 2020",
       "location": "Busan, South Korea",
-      "pages": "pp. 1124-1126"
+      "pages": " 1124-1126"
     },
     {
       "authors": [
@@ -257,9 +257,9 @@
       ],
       "title": "Collaborative Task Offloading for Overloaded Mobile Edge Computing in Small-Cell Networks",
       "conference": "The 34th International Conference on Information Networking (ICOIN 2020)",
-      "date": "January 7-10, 2020",
+      "year": "January 7-10, 2020",
       "location": "Barcelona, Spain",
-      "pages": "pp. 717-722"
+      "pages": " 717-722"
     },
     {
       "authors": [
@@ -272,9 +272,9 @@
       ],
       "title": "A Study on Computation Offloading in MEC Systems using Whale Optimization Algorithm",
       "conference": "The 14th International Conference on Ubiquitous Information Management and Communication (IMCOM 2020)",
-      "date": "January 3-5, 2020",
+      "year": "January 3-5, 2020",
       "location": "Taichung, Taiwan",
-      "pages": "pp. 1-4"
+      "pages": " 1-4"
     },
     {
       "authors": [
@@ -286,9 +286,9 @@
       ],
       "title": "Performance Assessment of Background Subtraction Algorithm",
       "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
-      "date": "December 26-28, 2019",
+      "year": "December 26-28, 2019",
       "location": "Pyeongchang, South Korea",
-      "pages": "pp. 1049-1051"
+      "pages": " 1049-1051"
     },
     {
       "authors": [
@@ -301,10 +301,10 @@
       ],
       "title": "Evaluation of the Importance of High Level Features in CNN",
       "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
-      "date": "December 26-28",
+      "year": "December 26-28",
       "pages": "39-41",
-      "location": "Pyeongchang, South Korea",
-      "year": 2019
+      "location": "Pyeongchang, South Korea"
+
     },
     {
       "authors": [
@@ -319,10 +319,10 @@
       ],
       "title": "Efficient Workload Balancing in Multi-Access Edge Computing: A Fuzzy Logic Approach",
       "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
-      "date": "December 26-28",
+      "year": "December 26-28",
       "pages": "197-199",
-      "location": "Pyeongchang, South Korea",
-      "year": 2019
+      "location": "Pyeongchang, South Korea"
+
     },
     {
       "authors": [
@@ -336,10 +336,10 @@
       ],
       "title": "Towards Computation Offloading in NOMA-assisted Multi-Access Edge Computing",
       "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
-      "date": "December 26-28",
+      "year": "December 26-28",
       "pages": "200-202",
-      "location": "Pyeongchang, South Korea",
-      "year": 2019
+      "location": "Pyeongchang, South Korea"
+
     },
     {
       "authors": [
@@ -356,10 +356,10 @@
       ],
       "title": "Performance Analysis of Data Parallelism Technique in Machine Learning for Human Activity Recognition using LSTM",
       "conference": "2019 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)",
-      "date": "11-13 Dec",
+      "year": "11-13 Dec",
       "pages": "387-391",
-      "location": "Sydney, Australia",
-      "year": 2019
+      "location": "Sydney, Australia"
+
     },
     {
       "authors": [
@@ -376,10 +376,9 @@
       "conference": "International Joint Conference on Computational Intelligence (IJCCI 2019)",
       "publisher": "Springer",
       "chapter": "50",
-      "date": "October 25-26",
+      "year": "October 25-26",
       "pages": "629-641",
-      "location": "Dhaka, Bangladesh",
-      "year": 2019
+      "location": "Dhaka, Bangladesh"
     },
     {
       "authors": [
@@ -392,10 +391,10 @@
       ],
       "title": "Anomaly Detection Based on Error Distribution and Clustering",
       "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-      "date": "June 26-28",
+      "year": "June 26-28",
       "pages": "1144-1146",
-      "location": "Jeju, South Korea",
-      "year": 2019
+      "location": "Jeju, South Korea"
+
     },
     {
       "authors": [
@@ -411,10 +410,10 @@
       ],
       "title": "Importance of Center-block in Image Quality Assessment",
       "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-      "date": "June 26-28",
+      "year": "June 26-28",
       "pages": "1359-1361",
-      "location": "Jeju, South Korea",
-      "year": 2019
+      "location": "Jeju, South Korea"
+
     },
     {
       "authors": [
@@ -428,10 +427,10 @@
       ],
       "title": "Dynamic task offloading for Ultra-Dense Mobile Edge Computing",
       "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-      "date": "June 26-28",
+      "year": "June 26-28",
       "pages": "252-255",
-      "location": "Jeju, South Korea",
-      "year": 2019
+      "location": "Jeju, South Korea"
+
     },
     {
       "authors": [
@@ -445,10 +444,10 @@
       ],
       "title": "An Analysis of Post-Processing for Background Subtraction",
       "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-      "date": "June 26-28",
+      "year": "June 26-28",
       "pages": "1403-1405",
-      "location": "Jeju, South Korea",
-      "year": 2019
+      "location": "Jeju, South Korea"
+
     },
     {
       "authors": [
@@ -462,10 +461,10 @@
       ],
       "title": "Performance Analysis of Mobile Edge Computing in 5G Ultra-Dense Networks",
       "conference": "Proc. of the KIISE Korea Software Congress 2018 (KSC 2018)",
-      "date": "December 19-21",
+      "year": "December 19-21",
       "pages": "292-294",
-      "location": "Pyeongchang, South Korea",
-      "year": 2018
+      "location": "Pyeongchang, South Korea"
+
     },
     {
       "authors": [
@@ -481,7 +480,7 @@
       ],
       "title": "Cloud-based Smart Surveillance System using Raspberry Pi and YOLO",
       "conference": "KIISE Korea Software Congress 2018 (KSC 2018)",
-      "date": "December 19-21, 2018",
+      "year": "December 19-21, 2018",
       "pages": "510-512",
       "location": "Pyeongchang, South Korea"
     },
@@ -497,7 +496,7 @@
       "conference": "International Joint Conference on Computational Intelligence (IJCCI 2018)",
       "publisher": "Springer",
       "chapter": "30",
-      "date": "December 14-15, 2018",
+      "year": "December 14-15, 2018",
       "pages": "345-358",
       "location": "Dhaka, Bangladesh"
     },
@@ -512,7 +511,7 @@
       ],
       "title": "An extractive text summarization technique for Bengali document(s) using K-means clustering algorithm",
       "conference": "IEEE International Conference on Imaging, Vision & Pattern Recognition (ICIVPR)",
-      "date": "February 13-14, 2017",
+      "year": "February 13-14, 2017",
       "location": "Bangladesh"
     },
     {
@@ -525,7 +524,7 @@
       ],
       "title": "Enhancing Performance of Naïve Bayes in Text Classification by Introducing an Extra Weight using less Number of Training Examples",
       "conference": "International Workshop on Computational Intelligence (IWCI 2016)",
-      "date": "2016",
+      "year": "2016",
       "pages": "142-147",
       "location": "Dhaka, Bangladesh"
     },
@@ -539,7 +538,7 @@
       ],
       "title": "An Efficient Filtering Based Approach Improving LSB Image Steganography using Status Bit along with AES Cryptography",
       "conference": "3rd International Conference on Informatics, Electronics & Vision (ICIEV)",
-      "date": "2014",
+      "year": "2014",
       "location": "Dhaka, Bangladesh"
     },
     {
@@ -551,7 +550,7 @@
       ],
       "title": "An Approach for Enhancing Message Security in Audio Steganography",
       "conference": "16th International Conference on Computer and Information Technology (ICCIT)",
-      "date": "2014",
+      "year": "2014",
       "pages": "383 - 388",
       "location": "Khulna, Bangladesh"
     },
@@ -564,7 +563,7 @@
       ],
       "title": "Topic Spotting on Bangla Document Corpus by Support Vector Machines",
       "conference": "International Conference on Statistical Data Mining for Bioinformatics, Health, Agriculture and Environment",
-      "date": "2012",
+      "year": "2012",
       "pages": "624 - 627",
       "location": "Rajshahi, Bangladesh"
     },
@@ -576,7 +575,7 @@
       ],
       "title": "ThirdHand: A Novel and Cost-effective HCI for Physically Handicapped People",
       "conference": "14th International Conference on Computer and Information Technology (ICCIT)",
-      "date": "2011",
+      "year": "2011",
       "pages": "134 - 138"
     },
     {
@@ -587,7 +586,7 @@
       ],
       "title": "Performance Analysis of OFDM Systems with Phase Noise",
       "conference": "6th IEEE/ACIS International Conference on Computer and Information Science (ICIS 2007)",
-      "date": "2007",
+      "year": "2007",
       "pages": "358-362",
       "location": "Melbourne, Australia"
     }
@@ -911,10 +910,10 @@
           ],
           "title": "Multi-Kernel Inductive Autoencoder for Efficient RDF Dataset Compression",
           "conference": "The 4th Korea Artificial Intelligencer Conference",
-          "date": "September 20-23",
-          "pages": "pp. 1-2",
-          "location": "Jeju, South Korea",
-          "year": 2023
+          "year": "September 20-23",
+          "pages": " 1-2",
+          "location": "Jeju, South Korea"
+
         },
         {
           "authors": [
@@ -925,10 +924,10 @@
           ],
           "title": "Enhancing Node Classification in Graphs through Mapping-Based Contrastive Learning",
           "conference": "Proc. of the KDBC 2023 Conference",
-          "date": "November 3-4",
-          "pages": "pp. 126-129",
+          "year": "November 3-4",
+          "pages": " 126-129",
           "location": "Busan, South Korea",
-          "year": 2023,
+
           "award": "Gold Prize"
         },
         {
@@ -940,10 +939,10 @@
           ],
           "title": "The Role of Microservices in the Internet of Things: Applications, Challenges, and Research Opportunities",
           "conference": "The 14th International Conference on Ubiquitous and Future Networks (ICUFN 2023)",
-          "date": "July 4-7",
-          "pages": "pp. 901-906",
-          "location": "Paris, France",
-          "year": 2023
+          "year": "July 4-7",
+          "pages": " 901-906",
+          "location": "Paris, France"
+
         },
         {
           "authors": [
@@ -956,9 +955,9 @@
           ],
           "title": "Server Capacity Planning Based Task Computation Offloading in Vehicular Edge Computing Networks",
           "conference": "2023 the 3rd European Conference on Communication Systems (ECCS 2023)",
-          "date": "May 10-12",
-          "location": "Vienna, Austria",
-          "year": 2023
+          "year": "May 10-12",
+          "location": "Vienna, Austria"
+
         },
         {
           "authors": [
@@ -972,10 +971,10 @@
           ],
           "title": "Computation Offloading Strategy Based on Multi-armed Bandit Learning in Microservice-enabled Vehicular Edge Computing Networks",
           "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
-          "date": "January 11-14",
-          "pages": "pp. 769-774",
-          "location": "Bangkok, Kingdom of Thailand",
-          "year": 2023
+          "year": "January 11-14",
+          "pages": " 769-774",
+          "location": "Bangkok, Kingdom of Thailand"
+
         },
         {
           "authors": [
@@ -984,9 +983,9 @@
           ],
           "title": "BERT-PRF: An Efficient Approach for Intent Detection from Users Search Query",
           "conference": "Proc. of the KIISE Korea Software Congress 2021 (KSC 2021)",
-          "date": "December 20-22",
-          "location": "Pyeongchang, South Korea",
-          "year": 2021
+          "year": "December 20-22",
+          "location": "Pyeongchang, South Korea"
+
         },
         {
           "authors": [
@@ -996,10 +995,10 @@
           ],
           "title": "Employing Graph Compression Technique for Efficiently Compressing RDF Knowledge Graphs",
           "conference": "Proc. of the KDBC 2021 Conference",
-          "date": "November 12-13",
-          "pages": "pp. 21-24",
+          "year": "November 12-13",
+          "pages": " 21-24",
           "location": "Daejeon, South Korea",
-          "year": 2021,
+
           "award": "Gold Prize"
         },
         {
@@ -1010,10 +1009,10 @@
           ],
           "title": "Adjustor: Mining on Compressed Graph with Adjacency Information Constructor while exploiting Parallel Computing",
           "conference": "Proc. of the KDBC 2021 Conference",
-          "date": "November 12-13",
-          "pages": "pp. 107-110",
-          "location": "Daejeon, South Korea",
-          "year": 2021
+          "year": "November 12-13",
+          "pages": " 107-110",
+          "location": "Daejeon, South Korea"
+
         },
         {
           "authors": [
@@ -1022,10 +1021,10 @@
           ],
           "title": "Expressive Rule Pattern Based Compression with Ranking in Horn Rules on RDF Style KB",
           "conference": "2021 IEEE International Conference on Big Data and Smart Computing (BigComp)",
-          "date": "January 17-20",
-          "pages": "pp. 13-19",
+          "year": "January 17-20",
+          "pages": " 13-19",
           "location": "Bangkok, Thailand",
-          "year": 2021,
+
           "award": "2nd Best Paper Award"
         },
         {
@@ -1037,9 +1036,9 @@
           ],
           "title": "Edge Orchestration Based Computation Peer Offloading in MEC-Enabled Networks: A Fuzzy Logic Approach",
           "conference": "The 15th International Conference on Ubiquitous Information Management and Communication (IMCOM 2021)",
-          "date": "January 4-6",
-          "location": "Seoul, South Korea",
-          "year": 2021
+          "year": "January 4-6",
+          "location": "Seoul, South Korea"
+
         },
         {
           "authors": [
@@ -1050,10 +1049,10 @@
           ],
           "title": "Frequent and Semantically Related Term Detection Based Encoding and Compression for Knowledge Graphs",
           "conference": "Proc. of the KDBC 2020 Conference",
-          "date": "September 24-25",
-          "pages": "pp. 1-4",
+          "year": "September 24-25",
+          "pages": " 1-4",
           "location": "Jeju, South Korea",
-          "year": 2020,
+
           "award": "Gold Prize"
         },
         {
@@ -1066,10 +1065,10 @@
           ],
           "title": "SCBVR: A Hybrid Approach for Large-scale Video Retrieval",
           "conference": "Proc. of the KDBC 2020 Conference",
-          "date": "September 24-25",
-          "pages": "pp. 24-26",
+          "year": "September 24-25",
+          "pages": " 24-26",
           "location": "Jeju, South Korea",
-          "year": 2020,
+
           "award": "Silver Prize"
         },
         {
@@ -1080,9 +1079,9 @@
           ],
           "title": "Multi-Kernel Inductive Autoencoder for Efficient RDF Dataset Compression",
           "conference": "The 4th Korea Artificial Intelligencer Conference",
-          "date": "September 20-23, 2023",
+          "year": "September 20-23, 2023",
           "location": "Jeju, South Korea",
-          "pages": "pp. 1-2"
+          "pages": " 1-2"
         },
         {
           "authors": [
@@ -1093,9 +1092,9 @@
           ],
           "title": "Enhancing Node Classification in Graphs through Mapping-Based Contrastive Learning",
           "conference": "Proc. of the KDBC 2023 Conference",
-          "date": "November 3-4, 2023",
+          "year": "November 3-4, 2023",
           "location": "Busan, South Korea",
-          "pages": "pp. 126-129",
+          "pages": " 126-129",
           "award": "Gold Prize"
         },
         {
@@ -1107,9 +1106,9 @@
           ],
           "title": "The Role of Microservices in the Internet of Things: Applications, Challenges, and Research Opportunities",
           "conference": "The 14th International Conference on Ubiquitous and Future Networks (ICUFN 2023)",
-          "date": "July 4-7, 2023",
+          "year": "July 4-7, 2023",
           "location": "Paris, France",
-          "pages": "pp. 901-906"
+          "pages": " 901-906"
         },
         {
           "authors": [
@@ -1122,7 +1121,7 @@
           ],
           "title": "Server Capacity Planning Based Task Computation Offloading in Vehicular Edge Computing Networks",
           "conference": "2023 the 3rd European Conference on Communication Systems (ECCS 2023)",
-          "date": "May 10-12, 2023",
+          "year": "May 10-12, 2023",
           "location": "Vienna, Austria"
         },
         {
@@ -1137,9 +1136,9 @@
           ],
           "title": "Computation Offloading Strategy Based on Multi-armed Bandit Learning in Microservice-enabled Vehicular Edge Computing Networks",
           "conference": "The 37th International Conference on Information Networking (ICOIN 2023)",
-          "date": "January 11-14, 2023",
+          "year": "January 11-14, 2023",
           "location": "Bangkok, Kingdom of Thailand",
-          "pages": "pp. 769-774"
+          "pages": " 769-774"
         },
         {
           "authors": [
@@ -1148,7 +1147,7 @@
           ],
           "title": "BERT-PRF: An Efficient Approach for Intent Detection from Users Search Query",
           "conference": "Proc. of the KIISE Korea Software Congress 2021 (KSC 2021)",
-          "date": "December 20-22, 2021",
+          "year": "December 20-22, 2021",
           "location": "Pyeongchang, South Korea"
         },
         {
@@ -1159,9 +1158,9 @@
           ],
           "title": "Employing Graph Compression Technique for Efficiently Compressing RDF Knowledge Graphs",
           "conference": "Proc. of the KDBC 2021 Conference",
-          "date": "November 12-13, 2021",
+          "year": "November 12-13, 2021",
           "location": "Daejeon, South Korea",
-          "pages": "pp. 21-24",
+          "pages": " 21-24",
           "award": "Gold Prize"
         },
         {
@@ -1172,9 +1171,9 @@
           ],
           "title": "Adjustor: Mining on Compressed Graph with Adjacency Information Constructor while exploiting Parallel Computing",
           "conference": "Proc. of the KDBC 2021 Conference",
-          "date": "November 12-13, 2021",
+          "year": "November 12-13, 2021",
           "location": "Daejeon, South Korea",
-          "pages": "pp. 107-110"
+          "pages": " 107-110"
         },
         {
           "authors": [
@@ -1183,9 +1182,9 @@
           ],
           "title": "Expressive Rule Pattern Based Compression with Ranking in Horn Rules on RDF Style KB",
           "conference": "2021 IEEE International Conference on Big Data and Smart Computing (BigComp)",
-          "date": "January 17-20, 2021",
+          "year": "January 17-20, 2021",
           "location": "Bangkok, Thailand",
-          "pages": "pp. 13-19",
+          "pages": " 13-19",
           "award": "2nd Best Paper Award"
         },
         {
@@ -1197,7 +1196,7 @@
           ],
           "title": "Edge Orchestration Based Computation Peer Offloading in MEC-Enabled Networks: A Fuzzy Logic Approach",
           "conference": "The 15th International Conference on Ubiquitous Information Management and Communication (IMCOM 2021)",
-          "date": "January 4-6, 2021",
+          "year": "January 4-6, 2021",
           "location": "Seoul, South Korea"
         },
         {
@@ -1209,9 +1208,9 @@
           ],
           "title": "Frequent and Semantically Related Term Detection Based Encoding and Compression for Knowledge Graphs",
           "conference": "Proc. of the KDBC 2020 Conference",
-          "date": "September 24-25, 2020",
+          "year": "September 24-25, 2020",
           "location": "Jeju, South Korea",
-          "pages": "pp. 1-4",
+          "pages": " 1-4",
           "award": "Gold Prize"
         },
         {
@@ -1224,9 +1223,9 @@
           ],
           "title": "SCBVR: A Hybrid Approach for Large-scale Video Retrieval",
           "conference": "Proc. of the KDBC 2020 Conference",
-          "date": "September 24-25, 2020",
+          "year": "September 24-25, 2020",
           "location": "Jeju, South Korea",
-          "pages": "pp. 24-26",
+          "pages": " 24-26",
           "award": "Silver Prize"
         },
         {
@@ -1240,7 +1239,7 @@
           ],
           "title": "Efficient Frequent Pattern Management and Compression System in Multiple Named Graphs",
           "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-          "date": "July 2-4, 2020",
+          "year": "July 2-4, 2020",
           "location": "Busan, South Korea"
         },
         {
@@ -1256,9 +1255,9 @@
           ],
           "title": "Fuzzy Handoff Based Efficient Edge Node Selection for Task Offloading in MEC-Enabled Networks",
           "conference": "Proc. of the KIISE Korea Computer Congress 2020 (KCC 2020)",
-          "date": "July 2-4, 2020",
+          "year": "July 2-4, 2020",
           "location": "Busan, South Korea",
-          "pages": "pp. 209-211"
+          "pages": " 209-211"
         },
         {
           "authors": [
@@ -1272,9 +1271,9 @@
           ],
           "title": "Collaborative Task Offloading for Overloaded Mobile Edge Computing in Small-Cell Networks",
           "conference": "The 34th International Conference on Information Networking (ICOIN 2020)",
-          "date": "January 7-10, 2020",
+          "year": "January 7-10, 2020",
           "location": "Barcelona, Spain",
-          "pages": "pp. 717-722"
+          "pages": " 717-722"
         },
         {
           "authors": [
@@ -1289,9 +1288,9 @@
           ],
           "title": "Efficient Workload Balancing in Multi-Access Edge Computing: A Fuzzy Logic Approach",
           "conference": "Proc. of the KIISE Korea Software Congress 2019 (KSC 2019)",
-          "date": "December 26-28, 2019",
+          "year": "December 26-28, 2019",
           "location": "Pyeongchang, South Korea",
-          "pages": "pp. 197-199"
+          "pages": " 197-199"
         },
         {
           "authors": [
@@ -1302,9 +1301,9 @@
           ],
           "title": "Efficient Management of Edge Computing Resources in Mobile Edge Computing",
           "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-          "date": "July 3-5, 2019",
+          "year": "July 3-5, 2019",
           "location": "Busan, South Korea",
-          "pages": "pp. 163-165"
+          "pages": " 163-165"
         },
         {
           "authors": [
@@ -1315,9 +1314,9 @@
           ],
           "title": "Efficient Task Offloading in Mobile Edge Computing: A Fuzzy Logic Approach",
           "conference": "Proc. of the KIISE Korea Computer Congress 2019 (KCC 2019)",
-          "date": "July 3-5, 2019",
+          "year": "July 3-5, 2019",
           "location": "Busan, South Korea",
-          "pages": "pp. 219-221"
+          "pages": " 219-221"
         }
       ]
     }

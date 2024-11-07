@@ -33,7 +33,8 @@ const Routes = createBrowserRouter([
             },
             {
                 path: '/research',
-                element: <Research></Research>
+                element: <Research></Research>,
+                loader:async()=>fetch('/research.json')
             },
             {
                 path: '/publications',
@@ -89,7 +90,8 @@ const Routes = createBrowserRouter([
             },
             {
                 path: '/conferance',
-                element: <Conferance></Conferance>
+                element: <Conferance></Conferance>,
+                loader:async()=> fetch('/conference.json')
             },
             {
                 path: '/patents',

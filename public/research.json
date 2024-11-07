@@ -1,26 +1,32 @@
 [
     {
-      "researchName": "Engineering Innovations in IoT",
-      "description": "This research explores new methods for integrating IoT devices into smart city infrastructures, focusing on enhanced security, efficient data processing, and real-time decision-making for urban improvement."
+      "researchName": "Data Mining and Big Data Analytics",
+"image":"https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/big%20data.jpg",
+      "description": "Our lab is dedicated to uncovering meaningful insights from massive datasets. We develop advanced data mining techniques and algorithms to manage, analyze, and extract valuable patterns from big data, contributing to fields such as predictive analytics, anomaly detection, and decision support systems."
     },
     {
-      "researchName": "Quantum Computing Applications",
-      "description": "Investigating the application of quantum computing in solving complex engineering problems, with a focus on efficiency and speed enhancements over classical computation methods."
+      "researchName": "Machine Learning and Artificial Intelligence",
+      "image":"https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/mechine%20learning.jpg",
+      "description": "Our research in machine learning focuses on building intelligent models that can autonomously learn, adapt, and improve from experience. We explore supervised, unsupervised, and reinforcement learning approaches to develop solutions for tasks like classification, clustering, and optimization across various applications, including predictive maintenance and automated decision-making."
     },
     {
-      "researchName": "Sustainable Energy Solutions",
-      "description": "A study on renewable energy sources for sustainable engineering practices, examining solar, wind, and biofuel technologies to reduce environmental impact in urban areas."
+      "researchName": "Internet of Things (IoT) and Smart Systems",
+      "image":"https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/iot.png",
+      "description": "The lab works on creating IoT-enabled systems that collect, process, and transmit data across connected devices in real time. We focus on developing IoT applications in areas such as smart agriculture, healthcare, environmental monitoring, and urban infrastructure to enhance operational efficiency and data-driven decision-making."
     },
     {
-      "researchName": "Advanced Robotics in Manufacturing",
-      "description": "Developing robotics solutions that improve precision and efficiency in manufacturing processes, using AI-based automation to minimize human error and production costs."
+      "researchName": "Edge and Cloud Computing",
+"image":"https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/edge%20and%20cloud.jpg",
+      "description": "We research efficient computation strategies that utilize both edge and cloud computing to process data closer to its source, minimizing latency and reducing bandwidth usage. This is crucial for real-time applications, particularly in IoT and mobile networks, where fast response times are essential."
     },
     {
-      "researchName": "Edge Computing for Real-Time Data",
-      "description": "Examining edge computing's role in processing data near the source, reducing latency for IoT applications in fields such as healthcare, transportation, and industrial automation."
+      "researchName": "Wireless Communication and Network Security",
+      "image":"https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/wireless.jpg",
+      "description": "Ensuring reliable and secure data transmission is fundamental to IoT and data-driven systems. Our lab focuses on developing secure communication protocols, optimizing network performance, and enhancing cybersecurity to support large-scale IoT networks and ensure the privacy and integrity of data."
     },
     {
-      "researchName": "Cybersecurity in Smart Grids",
-      "description": "Researching security protocols to protect smart grid infrastructures from cyber threats, focusing on data privacy and resilience against potential attacks on critical systems."
+      "researchName": "Biomedical Data Analysis",
+      "image":"https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/biochemical.jpg",
+      "description": "In the biomedical field, our research aims to apply data science and machine learning techniques to analyze complex medical data. By extracting insights from biomedical datasets, we contribute to advancements in diagnostics, personalized medicine, and healthcare decision-making"
     }
   ]

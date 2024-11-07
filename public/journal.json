@@ -15,6 +15,7 @@
           "journal": "Neural Computing and Applications",
           "publisher": "Springer",
           "citescore": "",
+          "category": "Q1",
           "impact_factor": "6.0",
           "indexing": "SCIE",
           "year": 2024,
@@ -30,6 +31,7 @@
           "title": "MCL: Mapping-based Contrastive Learning with Augmentation for Graph Classification",
           "journal": "Information Sciences",
           "publisher": "Elsevier",
+          "category": "Q1",
           "citescore": "13.4",
           "impact_factor": "8.1",
           "indexing": "SCIE",
@@ -55,37 +57,40 @@
         },
         {
           "authors": [
-            "Ashis Kumar Mandal",
-            "Md Nadim",
-            "Hasi Saha",
-            "Tangina Sultana",
-            "Md Delowar Hossain",
-            "Eui-Nam Huh"
+            "Mandal A. K.",
+            "Nadim M.",
+            "Saha H.",
+            "Sultana T.",
+            "Hossain M. D.",
+            "Huh E. -N."
           ],
           "title": "Feature Subset Selection for High-Dimensional, Low Sampling Size Data Classification Using Ensemble Feature Selection With a Wrapper-Based Search",
           "journal": "IEEE Access",
-          "citescore": "",
-          "impact_factor": "3.74",
+          "publisher": "IEEE",
+          "category": "Q1",
+          "impact_factor": 3.5,
           "indexing": "SCIE",
+          "status": "Published",
           "year": 2024,
-          "status": "USA, April 2024"
+          "volume": 12,
+          "pages": "62341-62357",
+          "doi": "10.1109/ACCESS.2024.3390684"
         },
         {
           "authors": [
-            "Tangina Sultana",
-            "Ashis Kumar Mandal",
-            "Hasi Saha",
-            "Md Nahid Sultan",
-            "Md Delowar Hossain"
+            "Sultana, T.",
+            "Mandal, A.K.",
+            "Saha, H.",
+            "Sultan, M.N.",
+            "Hossain, M.D."
           ],
           "title": "Intent Identification by Semantically Analyzing the Search Query",
           "journal": "Modelling",
-          "publisher": "MDPI",
-          "citescore": "",
-          "impact_factor": "1.3",
-          "indexing": "ESCI",
+          "impact_factor": 1.3,
           "year": 2024,
-          "status": "Switzerland, February 2024"
+          "volume": 5,
+          "pages": "292-314",
+          "doi": "10.3390/modelling5010016"
         },
         {
           "authors": [
@@ -140,56 +145,56 @@
           "authors": [
             "Tangina Sultana",
             "Md. Delowar Hossain",
-            "Md Golam Morshed",
-            "Tariq Habib Afridi",
+            "Md. Golam Morshed",
+            "T. H. Afridi",
             "Young-Koo Lee"
           ],
           "title": "Inductive Autoencoder for Efficiently Compressing RDF Graph",
           "journal": "Information Sciences",
           "publisher": "Elsevier",
-          "citescore": "13.4",
-          "impact_factor": "8.1",
+          "category": "Q1",
+          "impact_factor": 8.1,
           "indexing": "SCIE",
-          "year": 2024,
-          "status": ""
+          "status": "Published",
+          "year": 2023,
+          "volume": "Vol. 662,",
+          "pages": "  44,"
         },
         {
           "authors": [
             "Tangina Sultana",
             "Md. Delowar Hossain",
-            "Muhammad Umair",
-            "Muhammad Numan Khan",
-            "Aftab Alam",
+            "Md. Golam Morshed",
+            "A. Alam",
             "Young-Koo Lee"
           ],
           "title": "Graph Pattern Detection and Structural Redundancy Reduction to Compress Named Graphs",
           "journal": "Information Sciences",
           "publisher": "Elsevier",
-          "citescore": "13.4",
-          "impact_factor": "8.1",
+          "category": "Q1",
+          "impact_factor": 8.1,
           "indexing": "SCIE",
-          "year": 2023,
-          "status": "July 2023"
+          "status": "Published",
+          "year": 2023
         },
         {
           "authors": [
             "Md. Delowar Hossain",
             "Tangina Sultana",
             "Sharmen Akhter",
-            "Md Imtiaz Hossain",
-            "Ngo Thien Thu",
-            "Luan N. T. Huynh",
+            "Md. Imtiaz Hossain",
+            "N. T. Huynh",
             "Ga-Won Lee",
             "Eui-Nam Huh"
           ],
           "title": "The Role of Microservice Approach in Edge Computing: Opportunities, Challenges, and Research Directions",
           "journal": "ICT Express",
           "publisher": "Elsevier",
-          "citescore": "10.4",
-          "impact_factor": "5.4",
+          "category": "Q1",
+          "impact_factor": 5.4,
           "indexing": "SCIE",
-          "year": 2023,
-          "status": "June 2023"
+          "status": "Published",
+          "year": 2023
         },
         {
           "authors": [
@@ -199,11 +204,12 @@
           ],
           "title": "EC2Net: Efficient Attention-Based Cross-Context Network for Near Real-Time Salient Object Detection",
           "journal": "IEEE Access",
+          "category": "Q1",
           "citescore": "",
           "impact_factor": "3.476",
           "indexing": "SCIE",
-          "year": 2023,
-          "status": "USA, April 2023"
+          "year": 2023
+
         },
         {
           "authors": [
@@ -215,9 +221,10 @@
           "title": "Efficient Data Delivery Scheme for Large-scale Microservices in Distributed Cloud Environment",
           "journal": "Journal of Applied Sciences",
           "citescore": "4.5",
+          "category": "Q1",
           "impact_factor": "2.838",
           "indexing": "SCIE",
-          "year": 2023,
+          "year":"January 2023",
           "status": "Switzerland, January 2023"
         },
         {
@@ -231,6 +238,7 @@
           "journal": "IEEE Access",
           "citescore": "",
           "impact_factor": "3.74",
+          "category": "Q1",
           "indexing": "SCIE",
           "year": 2022,
           "status": "USA, December 2022"
@@ -247,14 +255,13 @@
           "citescore": "6.8",
           "impact_factor": "3.9",
           "indexing": "SCIE",
-          "year": 2022,
-          "status": "Switzerland, June 2022"
+          "year": " June 2022"
         },
         {
           "authors": [
             "Md. Delowar Hossain",
             "Tangina Sultana",
-            "Md Alamgir Hossain",
+            "Md. Alamgir Hossain",
             "Md. Abu Layek",
             "Md. Imtiaz Hossain",
             "Phoo Pyae Sone",
@@ -263,11 +270,15 @@
           ],
           "title": "Dynamic Task Offloading for Cloud-Assisted Vehicular Edge Computing Networks: A Non-Cooperative Game Theoretic Approach",
           "journal": "Sensors",
-          "citeScore": 6.8,
-          "impactFactor": 3.9,
+          "publisher": "MDPI",
+          "impact_factor": 3.9,
           "indexing": "SCIE",
+          "status": "Published",
+          "volume": 22,
+          "issue": 10,
+          "pages": "  1-18",
           "country": "Switzerland",
-          "date": "May, 2022"
+          "year": " May 2022"
         },
         {
           "authors": [
@@ -280,7 +291,7 @@
           "journal": "Multimedia Tools and Applications",
           "impactFactor": 2.757,
           "indexing": "SCIE",
-          "date": "April, 2022"
+          "year": "April, 2022"
         },
         {
           "authors": [
@@ -294,7 +305,7 @@
           "journal": "Journal of Visual Communication and Image Representation",
           "impactFactor": 2.887,
           "indexing": "SCIE",
-          "date": "December, 2021"
+          "year": "December, 2021"
         },
         {
           "authors": [
@@ -307,7 +318,7 @@
           "impactFactor": 2.838,
           "indexing": "SCIE",
           "country": "Switzerland",
-          "date": "June, 2021"
+          "year": "June, 2021"
         },
         {
           "authors": [
@@ -321,10 +332,16 @@
           ],
           "title": "Fuzzy Decision-Based Efficient Task Offloading Management Scheme in Multi-Tier MEC-Enabled Networks",
           "journal": "Sensors",
-          "impactFactor": 3.9,
+          "publisher": "MDPI",
+          "impact_factor": 3.847,
           "indexing": "SCIE",
+          "status": "Published",
+          "volume": 21,
+          "issue": 4,
+          "pages": "  1-26",
           "country": "Switzerland",
-          "date": "February, 2021"
+          "month": "February",
+          "year": 2021
         },
         {
           "authors": [
@@ -340,7 +357,7 @@
           "impactFactor": 10.238,
           "indexing": "SCIE",
           "country": "USA",
-          "date": "2021"
+          "year": "2021"
         },
         {
           "authors": [
@@ -356,22 +373,27 @@
           "impactFactor": 3.74,
           "indexing": "SCIE",
           "country": "USA",
-          "date": "2021"
+          "year": "2021"
         },
         {
           "authors": [
-            "Md Delowar Hossain",
+            "Md. Delowar Hossain",
             "Tangina Sultana",
-            "Md Alamgir Hossain",
             "Ga-Won Lee",
             "Eui-Nam Huh"
           ],
           "title": "Efficient Load Management in Multi-Access Edge Computing using Fuzzy Logic",
           "journal": "Journal of KIISE Transactions on Computing Practices",
-          "impactFactor": 0.4,
+          "publisher": "KIISE",
+          "impact_factor": 0.4,
           "indexing": "Korean Citation Index",
+          "status": "Published",
+          "volume": 26,
+          "issue": 11,
+          "pages": "  482-492",
           "country": "South Korea",
-          "date": "2020"
+          "month": "November",
+          "year": 2020
         },
         {
           "authors": [
@@ -386,7 +408,7 @@
           "impactFactor": 3.74,
           "indexing": "SCIE",
           "country": "USA",
-          "date": "2020"
+          "year": "2020"
         },
         {
           "authors": [
@@ -401,7 +423,7 @@
           "impactFactor": 3.74,
           "indexing": "SCIE",
           "country": "USA",
-          "date": "2020"
+          "year": "2020"
         },
         {
           "authors": [
@@ -416,24 +438,29 @@
           "impactFactor": 0.4,
           "indexing": "Korean Citation Index",
           "country": "South Korea",
-          "date": "2020"
+          "year": "2020"
         },
         {
           "authors": [
-            "Md Delowar Hossain",
+            "Md. Delowar Hossain",
             "Tangina Sultana",
             "VanDung Nguyen",
-            "Waqas ur Rahnman",
+            "Waqas ur Rahman",
             "Tri D. T. Nguyen",
             "Luan N. T. Huynh",
             "Eui-Nam Huh"
           ],
           "title": "Fuzzy Based Collaborative Task Offloading Scheme in the Densely Deployed Small-Cell Networks with Multi-Access Edge Computing",
           "journal": "Applied Sciences",
-          "impactFactor": 2.838,
+          "publisher": "MDPI",
+          "impact_factor": 2.838,
           "indexing": "SCIE",
+          "status": "Published",
+          "volume": "vol. 10",
+          "issue": 9,
+          "pages": " 1-23",
           "country": "Switzerland",
-          "date": "April, 2020"
+          "year": "April 2020"
         },
         {
           "authors": [
@@ -449,7 +476,7 @@
           "impactFactor": 2.838,
           "indexing": "SCIE",
           "country": "Switzerland",
-          "date": "2019"
+          "year": "2019"
         },
         {
           "authors": [
@@ -461,7 +488,7 @@
           "impactFactor": 0.4,
           "indexing": "Korean Citation Index",
           "country": "South Korea",
-          "date": "2019"
+          "year": "2019"
         }
       ]
 
@@ -502,6 +529,7 @@
           ],
           "title": "Intent Identification by Semantically Analyzing the Search Query",
           "journal": "Modelling",
+          "impact_factor": 1.3,
           "year": 2024,
           "volume": 5,
           "pages": "292-314",
@@ -745,19 +773,23 @@
         },
         {
           "authors": [
-            "Sultana T.",
-            "Showkat M. S. A.",
-            "Alam M. S.",
-            "Hossain M. D.",
-            "Mandal A. K."
+            "Tangina Sultana",
+            "M. S. Ara Showkat",
+            "Mohammad Shah Alam",
+            "Md. Delowar Hossain",
+            "Ashis Kumar Mandal"
           ],
           "title": "Reducing Peak to Average Power Ratio of OFDM Signals using Tukey Window Technique",
           "journal": "International Journal of Scientific Engineering and Technology",
-          "year": 2013,
+          "publisher": "IJSET",
+          "indexing": "ISSN: 2277-1581",
+          "status": "Published",
           "volume": 2,
-          "number": 9,
-          "pages": "879-883",
-          "issn": "2277-1581"
+          "issue": 9,
+          "pages": "  879-883",
+          "country": "India",
+          "month": "September",
+          "year": 2013
         },
         {
           "authors": [
@@ -799,7 +831,7 @@
           "status": "Published",
           "year": 2024,
           "volume": "Vol. 12,",
-          "pages": "pp. 62,341-62,357,",
+          "pages": "  62,341-62,357,",
           "doi": "10.1109/ACCESS.2024.3390684"
         },
         {
@@ -817,7 +849,7 @@
           "status": "Published",
           "year": 2024,
           "volume": "Vol. 10,",
-          "pages": "pp. 871-890,"
+          "pages": "  871-890,"
         },
         {
           "authors": [
@@ -866,7 +898,7 @@
           "status": "Published",
           "year": 2024,
           "volume": "Vol. 5,",
-          "pages": "pp. 292–314,"
+          "pages": "  292–314,"
         },
         {
           "authors": [
@@ -885,7 +917,7 @@
           "status": "Published",
           "year": 2023,
           "volume": "Vol. 662,",
-          "pages": "pp. 44,"
+          "pages": "  44,"
         },
         {
           "authors": [
@@ -937,7 +969,7 @@
           "indexing": "SCIE",
           "status": "Published",
           "volume": 11,
-          "pages": "56083-56097",
+          "pages": "  56083-56097",
           "country": "USA",
           "month": "June",
           "year": 2023,
@@ -950,7 +982,7 @@
             "Aftab Alam",
             "Young-Koo Lee"
           ],
-          "title": "Human Action Recognition: A Taxonomy-Based Survey, Updates, and Opportunities",
+          "title": "Human Action Recognition: A Taxonomy-Based Survey, Upyears, and Opportunities",
           "journal": "Sensors",
           "publisher": "MDPI",
           "impact_factor": 3.9,
@@ -974,7 +1006,7 @@
           "impact_factor": 2.557,
           "indexing": "SCIE",
           "status": "Published",
-          "pages": "1-28",
+          "pages": "  1-28",
           "country": "Switzerland",
           "month": "May",
           "year": 2022,
@@ -999,7 +1031,7 @@
           "status": "Published",
           "volume": 22,
           "issue": 10,
-          "pages": "1-18",
+          "pages": "  1-18",
           "country": "Switzerland",
           "month": "May",
           "year": 2022
@@ -1017,7 +1049,7 @@
           "status": "Published",
           "volume": 22,
           "issue": 7,
-          "pages": "1-17",
+          "pages": "  1-17",
           "country": "Switzerland",
           "month": "March",
           "year": 2022,
@@ -1036,7 +1068,7 @@
           "status": "Published",
           "volume": 49,
           "issue": 3,
-          "pages": "241-249",
+          "pages": "  241-249",
           "country": "South Korea",
           "month": "March",
           "year": 2022
@@ -1059,7 +1091,7 @@
           "status": "Published",
           "volume": 21,
           "issue": 4,
-          "pages": "1-26",
+          "pages": "  1-26",
           "country": "Switzerland",
           "month": "February",
           "year": 2021
@@ -1079,7 +1111,7 @@
           "status": "Published",
           "volume": 26,
           "issue": 11,
-          "pages": "482-492",
+          "pages": "  482-492",
           "country": "South Korea",
           "month": "November",
           "year": 2020
@@ -1100,12 +1132,11 @@
           "impact_factor": 2.838,
           "indexing": "SCIE",
           "status": "Published",
-          "volume": 10,
+          "volume": "vol. 10",
           "issue": 9,
-          "pages": "1-23",
+          "pages": " 1-23",
           "country": "Switzerland",
-          "month": "April",
-          "year": 2020
+          "year": "April 2020"
         },
         {
           "authors": [
@@ -1121,10 +1152,10 @@
           "indexing": "ISSN: 2454-1311",
           "status": "Published",
           "volume": 17,
-          "pages": "89-96",
+          "pages": "  89-96",
           "country": "Bangladesh",
           "month": "June",
-          "year": 2019
+          "year": " June 2019"
         },
         {
           "authors": [
@@ -1140,10 +1171,10 @@
           "indexing": "ISSN: 2454-1311",
           "status": "Published",
           "volume": 16,
-          "pages": "81-88",
+          "pages": "  81-88",
           "country": "Bangladesh",
           "month": "June",
-          "year": 2018
+          "year": "June 2018"
         },
         {
           "authors": [
@@ -1159,10 +1190,10 @@
           "status": "Published",
           "volume": 2,
           "issue": 7,
-          "pages": "1054-1058",
+          "pages": " 1054-1058",
           "country": "India",
           "month": "July",
-          "year": 2016
+          "year": "July 2016"
         },
         {
           "authors": [
@@ -1177,10 +1208,10 @@
           "indexing": "ISSN: 2454-1311",
           "status": "Published",
           "volume": 14,
-          "pages": "18-25",
+          "pages": "  18-25",
           "country": "Bangladesh",
           "month": "June",
-          "year": 2016
+          "year": "June 2016"
         },
         {
           "authors": [
@@ -1194,10 +1225,10 @@
           "indexing": "ISSN: 1994-0386",
           "status": "Published",
           "volume": 13,
-          "pages": "89-92",
+          "pages": "  89-92",
           "country": "Bangladesh",
           "month": "June",
-          "year": 2015
+          "year": "June 2015"
         },
         {
           "authors": [
@@ -1214,7 +1245,7 @@
           "status": "Published",
           "volume": 2,
           "issue": 9,
-          "pages": "879-883",
+          "pages": "  879-883",
           "country": "India",
           "month": "September",
           "year": 2013

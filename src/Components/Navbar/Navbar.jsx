@@ -2,6 +2,7 @@ import { useState } from 'react';
 // import useAuth from '../../hooks/useAuth';
 import { Link, NavLink } from "react-router-dom";
 import '../../../src/index.css';
+import { Typewriter } from 'react-simple-typewriter';
 
 const Navbar = () => {
   // const { LogOut, user } = useAuth();
@@ -10,7 +11,7 @@ const Navbar = () => {
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
   };
-console.log(isMenuOpen)
+// console.log(isMenuOpen)
   const Navlink = (
     <>
       <li className='relative'>
@@ -100,7 +101,13 @@ console.log(isMenuOpen)
     </div>
 
         <Link to='/' className="text-lg md:text-xl lg:text-3xl font-bold animate__zoomIn  popin-font text-black">
-DIoT Lab
+<Typewriter
+words={['DIoT Lab']}
+loop={3}
+typeSpeed={70}
+deleteSpeed={100}
+delaySpeed={700}
+></Typewriter>
         </Link>
       </div>
 

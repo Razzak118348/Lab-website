@@ -71,8 +71,16 @@ const TeacherDetails = () => {
                 <h3 className="text-lg md:text-xl font-semibold my-2 border-2 w-full lg:w-1/2 p-2 rounded-md shadow-md shadow-slate-500">Journal Papers</h3>
                 <ol className="mx-2">
                     {selectProfessor.publications.journal_papers.map((paper, index) => (
-                        <li type="1" key={index} className="mb-2"> {paper.authors.join(", ")},
-                            <strong>"{paper.title}"</strong> , {paper.journal} ({paper.category},IF: {paper.impact_factor},{paper.indexing}),{paper.volume} {paper.pages} {paper.year}.
+                        <li type="1" key={index} className="mb-2">
+                        {paper.authors.join(", ")}, "{paper.title}",
+                                            <span className="font-bold"> {paper.journal} ({paper.category && (<span>{paper.category},</span>)} {paper.impact_factor && (<span>IF: {paper.impact_factor}</span>)} {paper.indexing && (<span>{paper.indexing} Indexing</span>)}) </span>
+                                            {paper.volume && (<span>{paper.volume}</span>)}
+                                            {paper.pages && (<span>pp. {paper.pages},</span>)}{paper.country&& (<span>{paper.country}, </span>)} {paper.year}.
+                                            {paper.doi && (
+                                                <a className="text-green-500 underline" href={`https://doi.org/${paper.doi}`} target="_blank" rel="noopener noreferrer">
+                                                    {paper.doi}
+                                                </a>
+                                            )}
                         </li>
                     ))}
                 </ol>
@@ -80,10 +88,15 @@ const TeacherDetails = () => {
                 <ol className="mx-2">
                     {selectProfessor.publications.conferencePapers.map((paper, index) => (
                         <li type="1" key={index} className="mb-2">
-                            <strong>{paper.title}</strong> by {paper.authors.join(", ")}, {paper.conference},{paper.page} {paper.location}, {paper.date} {paper.doi && (
-                                <a className="text-green-500 underline" href={`https://doi.org/${paper.doi}`} target="_blank" rel="noopener noreferrer">
-                                    DOI: {paper.doi}
-                                </a>)}.
+                            {paper.authors.join(", ")}, "{paper.title}",
+                                            {paper.conference}, {paper.pages && (<span>pp. {paper.pages}, </span>)}
+                                            {paper.location && (<span className="font-bold">{paper.location}, </span>)}
+                                            {paper.year && (<span className="font-semibold">{paper.year}.</span>)}{paper.award && (<span className="font-semibold">({paper.award})</span>)}
+                                            {paper.doi && (
+                                                <a className="text-green-500 underline" href={`https://doi.org/${paper.doi}`} target="_blank" rel="noopener noreferrer">
+                                                    {paper.doi}
+                                                </a>
+                                            )}
                         </li>
                     ))}
                 </ol>
