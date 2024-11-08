@@ -81,7 +81,8 @@ const Routes = createBrowserRouter([
             },
             {
                 path: '/project',
-                element: <Projects></Projects>
+                element: <Projects></Projects>,
+                loader: async()=> fetch('/projects.json')
             },
             {
                 path: '/journal',

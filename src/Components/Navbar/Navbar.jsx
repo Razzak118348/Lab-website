@@ -100,7 +100,8 @@ const Navbar = () => {
       </ul>
     </div>
 
-        <Link to='/' className="text-lg md:text-xl lg:text-3xl font-bold animate__zoomIn  popin-font text-black">
+        <Link to='/' className="text-lg md:text-xl lg:text-3xl font-bold animate__zoomIn  popin-font text-black flex">
+        <img className='w-12 lg:w-20 h-8 lg:h-12' src="/re-do.png" alt="" />
 <Typewriter
 words={['DIoT Lab']}
 loop={3}
@@ -108,6 +109,7 @@ typeSpeed={70}
 deleteSpeed={100}
 delaySpeed={700}
 ></Typewriter>
+
         </Link>
       </div>
 
