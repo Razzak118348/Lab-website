@@ -77,7 +77,8 @@ const Routes = createBrowserRouter([
             },
             {
                 path: '/courses',
-                element: <Courses></Courses>
+                element: <Courses></Courses>,
+                loader:async()=> fetch('/course.json')
             },
             {
                 path: '/project',

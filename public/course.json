@@ -1,0 +1,61 @@
+[
+    {
+        "Tangina Sultana":
+        {
+          "Undergraduate": [
+            {
+              "Code": "ECE 205",
+              "Year": "L/2S1",
+              "Type": "Undergraduate",
+              "Title": "Signals and Systems",
+              "CreditHours": 3.0,
+              "professor":"Tangina Sultana"
+
+            },
+            {
+              "Code": "ECE 206",
+              "Year": "L/2S1",
+              "Type": "Undergraduate",
+              "Title": "Signals and Systems Lab",
+              "CreditHours": 0.75,
+               "professor":"Tangina Sultana"
+            },
+            {
+              "Code": "ECE 207",
+              "Year": "L/2S1",
+              "Type": "Undergraduate",
+              "Title": "Signals and Systems",
+              "CreditHours": 3.0,
+               "professor":"Tangina Sultana"
+            },
+            {
+              "Code": "ECE 457",
+              "Year": "Senior",
+              "Type": "Undergraduate",
+              "Title": "Satellite Communication and Radar",
+              "CreditHours": 3.0,
+               "professor":"Tangina Sultana"
+            },
+            {
+              "Code": "ECE 458",
+              "Year": "Senior",
+              "Type": "Undergraduate",
+              "Title": "Satellite Communication and Radar Lab",
+              "CreditHours": 0.75,
+               "professor":"Tangina Sultana"
+
+            }
+          ],
+          "Graduate": [
+            {
+              "Code": "ECE 555",
+              "Year": "Graduate",
+              "Type": "Graduate",
+              "Title": "Advanced Wireless Communication",
+              "CreditHours": 2.0,
+               "professor":"Tangina Sultana"
+            }
+          ]
+        }
+      }
+]
