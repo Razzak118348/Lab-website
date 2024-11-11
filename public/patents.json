@@ -1,0 +1,18 @@
+{
+    "patents": [
+        {
+            "inventors": ["Young-Koo Lee", "Tangina Sultana"],
+            "title": "RDF data compression method and device",
+            "application_number": "10-2022-0026411",
+            "application_date": "2022-02-28",
+            "status": "Patent pending"
+        },
+        {
+            "inventors": ["Young-Koo Lee", "Tangina Sultana", "Kwon Ki-jin"],
+            "title": "Compression device and method for resource technology framework data",
+            "application_number": "10-2021-0190331",
+            "application_date": "2021-12-28",
+            "status": "Patent pending"
+        }
+    ]
+}

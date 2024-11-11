@@ -12,19 +12,27 @@
         {
             "name": "Jakiya Sultana",
             "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/underGraduateAlumni/Jakiya_Sultana.jpg"
-        }
-    ],
-
-
-    "graduate_alumni": [
-
-        {
-            "name": "Md.Mahmodul Hasan",
-            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/graduate%20alumni/NASIB.jpg"
         },
         {
-            "name": "Md. Nasibul haque",
-            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/graduate%20alumni/m%20(1).png"
+            "name": "Md. Abdul Wahab Al Labib",
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/labib.jpg"
+        },
+        {
+            "name": "Md. Soyaeb Hossain Mahin",
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/M.hawlader.jpeg"
+        },
+        {
+            "name": "Md. Rakibur Rahman Mahin",
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/RakibMahin.jpg"
+        },
+        {
+            "name": "Md. Emran Biswas",
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/emranbiswas.JPG"
         }
+
+    ],
+    "graduate_alumni":[
+
     ]
+
 }
