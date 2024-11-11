@@ -6,9 +6,6 @@ const Alumni = () => {
     // Destructure undergraduate and graduate alumni data
     const { undergraduate_alumni, graduate_alumni } = allAlumni;
 
-
-
-
     return (
       <div className="flex items-center justify-center">
          <div className="mt-20 ">

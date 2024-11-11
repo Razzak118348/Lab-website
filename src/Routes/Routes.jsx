@@ -102,7 +102,8 @@ const Routes = createBrowserRouter([
             },
             {
                 path: '/awards',
-                element: <Award></Award>
+                element: <Award></Award>,
+                loader:async()=> fetch('/award.json')
             },
             {
                 path:'/alumni',
