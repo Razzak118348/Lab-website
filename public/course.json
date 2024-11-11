@@ -30,7 +30,7 @@
             },
             {
               "Code": "ECE 457",
-              "Year": "Senior",
+              "Year": "L/4S2",
               "Type": "Undergraduate",
               "Title": "Satellite Communication and Radar",
               "CreditHours": 3.0,
@@ -38,7 +38,7 @@
             },
             {
               "Code": "ECE 458",
-              "Year": "Senior",
+              "Year": "L/4S2",
               "Type": "Undergraduate",
               "Title": "Satellite Communication and Radar Lab",
               "CreditHours": 0.75,

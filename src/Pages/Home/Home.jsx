@@ -9,7 +9,11 @@ import { Typewriter } from "react-simple-typewriter";
 const Home = () => {
     const AllProfessors = useLoaderData();
     const [loading, setLoading] = useState(true);
+    const [showMore, setShowMore] = useState(false);
 
+    const handleToggle = () => {
+        setShowMore(!showMore);
+    };
     useEffect(() => {
         // Simulate loading process
         if (AllProfessors) {
@@ -34,7 +38,7 @@ const Home = () => {
                         <div className="mt-10 grid grid-cols-1 gap-5">
                             <div className="flex justify-center items-center animate__animated animate__lightSpeedInLeft">
                                 <div>
-                                    <p className="font-medium md:text-lg">
+                                    <p className="font-sans md:text-lg">
                                         <span className="text-lg lg:text-2xl text-slate-800 font-bold mb-8"><Typewriter
                                             words={[' Welcome to the Data Intelligence IoT Innovation Lab (DIoT Lab)']}
                                             loop={1}
@@ -44,7 +48,17 @@ const Home = () => {
                                         ></Typewriter>
                                         </span> – a hub for data-driven research and Internet of Things (IoT) advancements powered by machine learning. Driven by a commitment to research excellence and technological innovation, our lab strives to make a significant impact on the future of IoT by leveraging data analysis and IoT technology. With a focus on cutting-edge applications, we bridge data intelligence and the IoT to address challenges and enhance insights across industries.
                                         <br /><br />
-                                        Our lab is under the expert guidance of three professors, <span className="text-lg font-bold">Professor Dr. Md. Delowar Hossain, Professor Dr. Ashis Kumar Mandal, and Dr. Tangina Sultana</span>, each with deep expertise and advanced qualifications from prestigious institutions across Canada, South Korea, Malaysia, BUET, SUST, and Islamic University. With a strong foundation in high-level research and real-world applications, numerous high-impact journal publications, they bring significant international collaboration experience and a record of prestigious publications. Our lab is where data and technology converge to drive new possibilities. Together, we aim to lead advancements in data intelligence and IoT, creating a transformative environment where innovation thrives. Explore our projects and learn more about how we’re shaping the future with data and IoT innovations.
+                                        Our lab is under the expert guidance of three professors, <span className=" font-bold">Professor Dr. Md. Delowar Hossain, Professor Dr. Ashis Kumar Mandal, and Dr. Tangina Sultana</span>, each with deep expertise and advanced qualifications from prestigious institutions across Canada, South Korea, Malaysia, BUET, SUST, and Islamic University. {showMore && (
+                                            <span>
+                                                With a strong foundation in high-level research and real-world applications, numerous high-impact journal publications, they bring significant international collaboration experience and a record of prestigious publications. Our lab is where data and technology converge to drive new possibilities. Together, we aim to lead advancements in data intelligence and IoT, creating a transformative environment where innovation thrives. Explore our projects and learn more about how we’re shaping the future with data and IoT innovations.
+                                            </span>
+                                        )}
+                                        <button
+                onClick={handleToggle}
+                className="text-blue-500 font-medium mt-4"
+            >
+                {showMore ? 'Show Less' : 'Show More'}
+            </button>
                                     </p>
                                 </div>
                             </div>

@@ -53,7 +53,8 @@ const Routes = createBrowserRouter([
 
             {
                 path: '/students',
-                element: <Students></Students>
+                element: <Students></Students>,
+                loader:async()=>fetch('/underGraduate.json')
             },
             {
                 path: '/about',
@@ -105,7 +106,8 @@ const Routes = createBrowserRouter([
             },
             {
                 path:'/alumni',
-                element:<Alumni></Alumni>
+                element:<Alumni></Alumni>,
+                loader:async()=>fetch('/alumni.json')
             }
 
 

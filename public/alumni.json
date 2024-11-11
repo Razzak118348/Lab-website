@@ -1,0 +1,30 @@
+
+{
+    "undergraduate_alumni": [
+        {
+            "name": "Arabi Mohammad",
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/underGraduateAlumni/Arabi_Mohammad.jpg"
+        },
+        {
+            "name": "Nadira Islam Ruku",
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/underGraduateAlumni/NadiraIslamRuku.jpg"
+        },
+        {
+            "name": "Jakiya Sultana",
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/underGraduateAlumni/Jakiya_Sultana.jpg"
+        }
+    ],
+
+
+    "graduate_alumni": [
+
+        {
+            "name": "Md.Mahmodul Hasan",
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/graduate%20alumni/NASIB.jpg"
+        },
+        {
+            "name": "Md. Nasibul haque",
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/graduate%20alumni/m%20(1).png"
+        }
+    ]
+}

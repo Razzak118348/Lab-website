@@ -53,7 +53,7 @@ const Navbar = () => {
           </summary>
           <ul className="lg:absolute left-0 p-3  bg-slate-800 space-y-4 rounded-md shadow-lg hidden group-hover:block">
             <li><Link className="text-yellow-300 font-semibold hover:text-yellow-400" to={'/teachers'}>Professors</Link></li>
-            <li><Link className="text-yellow-300 font-semibold hover:text-yellow-400" to={'/students'}>Students</Link></li>
+            <li><Link className="text-yellow-300 font-semibold hover:text-yellow-400" to={'/students'}>UnderGraduate</Link></li>
             <li><Link className="text-yellow-300 font-semibold hover:text-yellow-400" to={'/alumni'}>Alumni</Link></li>
           </ul>
         </details>
