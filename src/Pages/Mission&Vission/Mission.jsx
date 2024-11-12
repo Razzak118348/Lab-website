@@ -1,6 +1,6 @@
 const Mission = () => {
     return (
-     <div className="my-16 lg:my-20">
+     <div className="my-16 lg:my-20 text-justify">
    <div className=" max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-12 bg-gradient-to-r from-blue-100 to-teal-100 rounded-xl shadow-2xl">
             <div className="bg-white p-6 sm:p-8 rounded-xl shadow-xl space-y-6 sm:space-y-8">
                 {/* Mission Section */}

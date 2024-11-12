@@ -3,10 +3,8 @@ import Root from "../Layout/Root";
 import Error from "../Pages/Error/Error";
 import Home from "../Pages/Home/Home";
 import Research from "../Pages/Research/Research";
-import Publications from "../Pages/Publications/Publications";
 import Teachers from "../Pages/Teachers/Teachers";
 import Students from "../Pages/Students/Students";
-import About from "../Pages/About/About";
 import Contact from "../Pages/Contact/Contact";
 import Login from "../Pages/Login/Login";
 import Signup from "../Pages/Signup/Signup";
@@ -19,6 +17,7 @@ import Patents from "../Pages/Patents/Patents";
 import Award from "../Pages/Award/Award";
 import TeacherDetails from "../Pages/TeacherDetails/TeacherDetails";
 import Alumni from "../Pages/Alumni/Alumni";
+import Graduate from "../Pages/Graduate/Graduate";
 
 const Routes = createBrowserRouter([
     {
@@ -29,16 +28,12 @@ const Routes = createBrowserRouter([
             {
                 path: '/',
                 element: <Home></Home>,
-                loader:async()=>fetch('/professor.json')
+                loader: async () => fetch('/professor.json')
             },
             {
                 path: '/research',
                 element: <Research></Research>,
-                loader:async()=>fetch('/research.json')
-            },
-            {
-                path: '/publications',
-                element: <Publications></Publications>
+                loader: async () => fetch('/research.json')
             },
             {
                 path: '/teachers',
@@ -46,19 +41,20 @@ const Routes = createBrowserRouter([
                 loader: () => fetch('/professor.json')
             },
             {
-                path:'/teachers/:id',
-                element:<TeacherDetails></TeacherDetails>,
-                loader:async()=> fetch('/professor.json')
+                path: '/teachers/:id',
+                element: <TeacherDetails></TeacherDetails>,
+                loader: async () => fetch('/professor.json')
             },
 
             {
                 path: '/students',
                 element: <Students></Students>,
-                loader:async()=>fetch('/students.json')
+                loader: async () => fetch('/students.json')
             },
             {
-                path: '/about',
-                element: <About></About>
+                path: '/graduate',
+                element: <Graduate></Graduate>,
+                loader: async () => fetch('/students.json')
             },
             {
                 path: '/contact',
@@ -79,37 +75,37 @@ const Routes = createBrowserRouter([
             {
                 path: '/courses',
                 element: <Courses></Courses>,
-                loader:async()=> fetch('/course.json')
+                loader: async () => fetch('/course.json')
             },
             {
                 path: '/project',
                 element: <Projects></Projects>,
-                loader: async()=> fetch('/projects.json')
+                loader: async () => fetch('/projects.json')
             },
             {
                 path: '/journal',
                 element: <Jurnal></Jurnal>,
-                loader:async()=> fetch('/journal.json')
+                loader: async () => fetch('/journal.json')
             },
             {
                 path: '/conferance',
                 element: <Conferance></Conferance>,
-                loader:async()=> fetch('/conference.json')
+                loader: async () => fetch('/conference.json')
             },
             {
                 path: '/patents',
                 element: <Patents></Patents>,
-loader:async ()=>fetch('/patents.json')
+                loader: async () => fetch('/patents.json')
             },
             {
                 path: '/awards',
                 element: <Award></Award>,
-                loader:async()=> fetch('/award.json')
+                loader: async () => fetch('/award.json')
             },
             {
-                path:'/alumni',
-                element:<Alumni></Alumni>,
-                loader:async()=>fetch('/alumni.json')
+                path: '/alumni',
+                element: <Alumni></Alumni>,
+                loader: async () => fetch('/alumni.json')
             }
 
 

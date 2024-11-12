@@ -5,7 +5,7 @@ const Patents = () => {
     const allPatents = useLoaderData();
 
     return (
-        <div className="mt-32 flex items-center justify-center">
+        <div className="mt-32 flex items-center text-justify justify-center">
             <div className="p-8 max-w-5xl w-full bg-gray-50 rounded-lg shadow-lg">
                 <h1 className="text-3xl font-bold text-center text-blue-600 mb-8">
                     Patents

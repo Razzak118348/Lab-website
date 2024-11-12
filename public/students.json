@@ -2,29 +2,41 @@
 "Under_graduate": [
     {
         "name": "Chanchol Kumar Modok",
-        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/chanchol.png"
+        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/chanchol.png",
+        "email":"chanchol.kumar20@gmail.com"
+
     },
     {
         "name": "Mst. Hasna Noushin Nipu",
-        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/Nipu.png"
+        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/Nipu.png",
+        "email":"hasnanipu@gmail.com"
+
     },
 
     {
         "name": "Mst. Tanbin Yasmin Tanny",
-        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/tanny.jpg"
+        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/tanny.jpg",
+        "email":"tanbintanny5669@gmail.com"
+
     },
     {
         "name": "Arjina Akter",
-        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/Arjina.png"
+        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/Arjina.png",
+        "email":"akterarjina9450@gmail.com"
+
     },
 
     {
         "name": "Md. Rafiul Islam Rifat",
-        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/Rafiul.jpg"
+        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/Rafiul.jpg",
+        "email":"rafiul.2202124@hstu.ac.bd"
+
     },
     {
         "name": "Mehedi Hasan",
-        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/Mehedi.jpg"
+        "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/Mehedi.jpg",
+        "email":"mehedihasan634st@gmail.com"
+
     }
 
 
@@ -36,12 +48,17 @@
             "name": "Md.Mahmodul Hasan",
 
             "image": " https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/graduate%20alumni/m%20(1).png",
-            "job":"Transaction service officer, IFIC Bank PLC "
+            "job":"Transaction service officer, IFIC Bank PLC ",
+        "email":"mahmodul.hasan.mhn@gmail.com"
+
+
         },
         {
             "name": "Md. Nasibul haque",
             "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/graduate%20alumni/NASIB.jpg",
-            "job" : "Assistant Manager, Summit Communications Limited"
+            "job" : "Assistant Manager, Summit Communications Limited",
+        "email":"nasib.seu@gmail.com"
+
         }
     ]
 }

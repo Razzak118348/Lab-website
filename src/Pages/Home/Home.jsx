@@ -38,8 +38,8 @@ const Home = () => {
                         <div className="mt-10 grid grid-cols-1 gap-5">
                             <div className="flex justify-center items-center animate__animated animate__lightSpeedInLeft">
                                 <div>
-                                    <p className="font-sans md:text-lg">
-                                        <span className="text-lg lg:text-2xl text-slate-800 font-bold mb-8"><Typewriter
+                                    <p className="font-sans text-justify">
+                                        <span className="text-lg  text-slate-800 font-bold mb-8"><Typewriter
                                             words={[' Welcome to the Data Intelligence IoT Innovation Lab (DIoT Lab)']}
                                             loop={1}
                                             typeSpeed={70}

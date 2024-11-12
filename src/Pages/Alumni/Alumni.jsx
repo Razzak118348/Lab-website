@@ -23,6 +23,7 @@ const Alumni = () => {
                                 className="w-full  object-cover rounded-t-lg mb-4"
                             />
                             <h3 className="text-base lg:text-xl font-semibold text-gray-700">{alumni.name}</h3>
+                            <p>{alumni.email}</p>
                         </div>
                     ))}
                 </div>
@@ -41,6 +42,7 @@ const Alumni = () => {
                                     className="w-full  object-cover rounded-t-lg mb-4"
                                 />
                                 <h3 className="text-xl font-semibold text-blue-800">{alumni.name}</h3>
+                                <p>{alumni.email}</p>
                             </div>
                         ))}
                     </div>

@@ -37,7 +37,7 @@ const Projects = () => {
     let totalProjectsDisplayed = 0;
 
     return (
-        <div>
+        <div className="">
             <div className="max-w-3xl mt-5 md:mt-16 mx-auto p-4">
                 <div className="flex items-center justify-center">
                     <h3 className="text-lg md:text-xl font-semibold text-orange-500 border-2 p-2 bg-slate-50 rounded-lg shadow-md shadow-slate-500 mb-3 mt-10">
@@ -78,7 +78,7 @@ const Projects = () => {
                         totalProjectsDisplayed++; // Increment the overall project count
                         return (
                             <div key={projectIndex} className="bg-gray-50 p-4 rounded-lg shadow-md mb-4">
-                                <p className="text-black text-sm md:text-base mb-1">
+                                <p className="text-black text-sm md:text-base mb-1 text-justify">
                                     <span>{totalProjectsDisplayed}. </span>
                                     {project.name}
                                     {project.funds && <span>, {project.funds}</span>}

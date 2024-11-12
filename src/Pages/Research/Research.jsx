@@ -11,11 +11,11 @@ const Research = () => {
 
 
     return (
-        <div className="my-30 p-4  mx-2 md:mx-20" >
+        <div className="my-30 p-4  mx-2 md:mx-20 text-justify" >
       <div >
       <h2 className="mt-32 text-xl md:text-3xl font-bold text-black text-center">Research Area</h2>
             <div className="flex justify-center items-center mb-10 mt-4">
-            <p className="px-5  w-full md:w-1/2 text-sm md:text-lg">The Data Intelligence IoT Innovation Lab focuses on a diverse range of research areas that integrate data science, artificial intelligence, and IoT to create innovative solutions for modern challenges.</p>
+            <p className="px-5 text-justify w-full md:w-1/2 text-sm md:text-lg">The Data Intelligence IoT Innovation Lab focuses on a diverse range of research areas that integrate data science, artificial intelligence, and IoT to create innovative solutions for modern challenges.</p>
             </div>
       </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 lg:gap-16 mb-20">
@@ -40,7 +40,7 @@ const Research = () => {
                       typeSpeed={70}
                     />
                   </h2>
-                  <p>{research.description}</p>
+                  <p className="text-justify">{research.description}</p>
                 </div>
               </div>
             ))}

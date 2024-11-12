@@ -18,7 +18,7 @@ const Teachers = () => {
   }, [allProfessor]);
 
   return (
-    <div>
+    <div className="mt-32 text-justify">
       {loading ? (
         // Display a loading spinner while waiting for data
         <div className="flex items-center justify-center h-screen">
@@ -37,18 +37,18 @@ const Teachers = () => {
                 />
                 <div>
                   <h1 className="text-xl lg:text-2xl font-bold">{professor.name}</h1>
-                  <p className="my-2 font-bold">{professor.position}</p>
+                  <p className="my-2 font-bold text-justify">{professor.position}</p>
                   <p>
                     <span className="font-bold text-orange-500">Address</span>: {professor.address}
                   </p>
                   <p>
-                    <span className="font-bold text-orange-500">Research Interest with</span>: {professor.research_interest}
+                    <span className="font-bold text-orange-500 text-justify">Research Interest </span>: {professor.research_interest}
                   </p>
                   <p>
-                    <span className="font-bold text-orange-500">Email</span>: {professor.email}
+                    <span className="font-bold text-orange-500 text-justify">Email</span>: {professor.email}
                   </p>
                   <p>
-                    <span className="font-bold text-orange-500">Mobile</span>: {professor.phone}
+                    <span className="font-bold text-orange-500 text-justify">Mobile</span>: {professor.phone}
                   </p>
                   <Link to={`/teachers/${professor.id}`}>
                     <button className="btn bg-yellow-500 font-bold mt-6">

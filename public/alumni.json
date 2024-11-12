@@ -1,33 +1,46 @@
-
 {
     "undergraduate_alumni": [
         {
             "name": "Arabi Mohammad",
-            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/underGraduateAlumni/Arabi_Mohammad.jpg"
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/underGraduateAlumni/Arabi_Mohammad.jpg",
+            "email":"didar247@gmail.com"
+
         },
         {
             "name": "Nadira Islam Ruku",
-            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/underGraduateAlumni/NadiraIslamRuku.jpg"
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/underGraduateAlumni/NadiraIslamRuku.jpg",
+            "email":"nadiraislamruku@gmail.com"
+
         },
         {
             "name": "Jakiya Sultana",
-            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/underGraduateAlumni/Jakiya_Sultana.jpg"
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/alumni/underGraduateAlumni/Jakiya_Sultana.jpg",
+            "email":"jakiyasultanahstu86@gmail.com"
+
         },
         {
             "name": "Md. Abdul Wahab Al Labib",
-            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/labib.jpg"
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/labib.jpg",
+            "email":"khanmdlabib@gmail.com"
+
         },
         {
             "name": "Md. Soyaeb Hossain Mahin",
-            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/M.hawlader.jpeg"
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/M.hawlader.jpeg",
+            "email":"mahinhawlader10@gmail.com"
+
         },
         {
             "name": "Md. Rakibur Rahman Mahin",
-            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/RakibMahin.jpg"
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/RakibMahin.jpg",
+            "email":"mahinrakib3@gmail.com"
+
         },
         {
             "name": "Md. Emran Biswas",
-            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/emranbiswas.JPG"
+            "image": "https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/undergraduate/emranbiswas.JPG",
+            "email":"emran.hstu1999@gmail.com"
+
         }
 
     ],

@@ -27,15 +27,15 @@ const TeacherDetails = () => {
 
 
     return (
-        <div className="p-6 max-w-4xl mx-auto">
+        <div className="p-6 max-w-4xl mx-auto mt-20 text-justify">
             <div className="flex items-center mb-6 animate__animated animate__lightSpeedInRight">
                 <img src={selectProfessor.image} alt={selectProfessor.name} className="w-24 h-24 rounded-full mr-4" />
                 <div>
                     <h1 className="text-lg md:text-2xl font-bold mb-1">{selectProfessor.name}</h1>
                     <h2 className="text-gray-600">{selectProfessor.position}</h2>
-                    <p className="text-gray-500"> <span className="font-bold">Address :</span> {selectProfessor.address}</p>
-                    <p className="text-gray-500"><span className="font-bold">Email :</span> {selectProfessor.email}</p>
-                    <p className="text-gray-500"><span className="font-bold">Mobile :</span> {selectProfessor.phone}</p>
+                    <p className="text-gray-500 text-justify"> <span className="font-bold">Address :</span> {selectProfessor.address}</p>
+                    <p className="text-gray-500 text-justify"><span className="font-bold">Email :</span> {selectProfessor.email}</p>
+                    <p className="text-gray-500 text-justify"><span className="font-bold">Mobile :</span> {selectProfessor.phone}</p>
                 </div>
             </div>
 
@@ -69,9 +69,9 @@ const TeacherDetails = () => {
             <div className="mb-6 animate__animated animate__fadeInUp ">
                 <h3 className="text-lg md:text-xl font-semibold  text-orange-500 border-2 p-2 bg-slate-50 rounded-lg shadow-md shadow-slate-500 mb-3">Research Publications </h3>
                 <h3 className="text-lg md:text-xl font-semibold my-2 border-2 w-full lg:w-1/2 p-2 rounded-md shadow-md shadow-slate-500">Journal Papers</h3>
-                <ol className="mx-2">
+                <ol className="mx-2 text-justify">
                     {selectProfessor.publications.journal_papers.map((paper, index) => (
-                        <li type="1" key={index} className="mb-2">
+                        <li type="1" key={index} className="mb-2 text-justify">
                         {paper.authors.join(", ")}, "{paper.title}",
                                             <span className="font-bold"> {paper.journal}  {paper.category && (<span> {paper.category},</span>)} {paper.impact_factor && (<span>IF: {paper.impact_factor}</span>)} {paper.indexing && (<span>{paper.indexing} Indexing</span>)}  </span>
                                             {paper.volume && (<span> {paper.volume}</span>)}
@@ -87,7 +87,7 @@ const TeacherDetails = () => {
                 <h3 className="text-lg md:text-xl font-semibold mt-5 mb-2 border-2 w-full lg:w-1/2 p-2 rounded-md shadow-md shadow-slate-500"> Conferance  Inproceedings</h3>
                 <ol className="mx-2">
                     {selectProfessor.publications.conferencePapers.map((paper, index) => (
-                        <li type="1" key={index} className="mb-2">
+                        <li type="1" key={index} className="mb-2 text-justify">
                             {paper.authors.join(", ")}, "{paper.title}",
                                             {paper.conference}, {paper.pages && (<span>pp. {paper.pages}, </span>)}
                                             {paper.location && (<span className="font-bold">{paper.location}, </span>)}
@@ -108,7 +108,7 @@ const TeacherDetails = () => {
                 <h3 className="text-lg md:text-xl font-semibold  text-orange-500 border-2 p-2 bg-slate-50 rounded-lg shadow-md shadow-slate-500 mb-3">SCHOLARSHIPS AND AWARDS </h3>
                 <ol className="mx-2">
                     {selectProfessor.award?.map((award, index) => (
-                        <li type="1" key={index} className="mb-2">
+                        <li type="1" key={index} className="mb-2 text-justify">
                             <strong>{award.award} ,</strong> funded by {award.funded_by} at {award.date}.
                         </li>
                     ))}

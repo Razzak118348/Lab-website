@@ -1,61 +1,102 @@
-[
-    {
-        "Tangina Sultana":
-        {
-          "Undergraduate": [
-            {
+{
+  "Tangina Sultana": {
+      "Undergraduate": [
+          {
               "Code": "ECE 205",
               "Year": "L/2S1",
               "Type": "Undergraduate",
               "Title": "Signals and Systems",
               "CreditHours": 3.0,
-              "professor":"Tangina Sultana"
-
-            },
-            {
+              "Professor": "Tangina Sultana"
+          },
+          {
               "Code": "ECE 206",
               "Year": "L/2S1",
               "Type": "Undergraduate",
               "Title": "Signals and Systems Lab",
               "CreditHours": 0.75,
-               "professor":"Tangina Sultana"
-            },
-            {
+              "Professor": "Tangina Sultana"
+          },
+          {
               "Code": "ECE 207",
               "Year": "L/2S1",
               "Type": "Undergraduate",
               "Title": "Signals and Systems",
               "CreditHours": 3.0,
-               "professor":"Tangina Sultana"
-            },
-            {
+              "Professor": "Tangina Sultana"
+          },
+          {
               "Code": "ECE 457",
               "Year": "L/4S2",
               "Type": "Undergraduate",
               "Title": "Satellite Communication and Radar",
               "CreditHours": 3.0,
-               "professor":"Tangina Sultana"
-            },
-            {
+              "Professor": "Tangina Sultana"
+          },
+          {
               "Code": "ECE 458",
               "Year": "L/4S2",
               "Type": "Undergraduate",
               "Title": "Satellite Communication and Radar Lab",
               "CreditHours": 0.75,
-               "professor":"Tangina Sultana"
-
-            }
-          ],
-          "Graduate": [
-            {
+              "Professor": "Tangina Sultana"
+          }
+      ],
+      "Graduate": [
+          {
               "Code": "ECE 555",
-              "Year": "Graduate",
+              "Year": "Masters",
               "Type": "Graduate",
               "Title": "Advanced Wireless Communication",
               "CreditHours": 2.0,
-               "professor":"Tangina Sultana"
-            }
-          ]
-        }
-      }
-]
+              "Professor": "Tangina Sultana"
+          }
+      ]
+  },
+  "Dr. Ashis Kumar Mandal": {
+      "Undergraduate": [
+          {
+              "Code": "CSE 403 & 404",
+              "Year": "L/4 S2",
+              "Type": "Undergraduate",
+              "Title": "Artificial Intelligence",
+              "CreditHours": 3.0,
+              "Professor": "Dr. Ashis Kumar Mandal"
+          },
+          {
+              "Code": "CSE 253 & 254",
+              "Year": "L/2 S2",
+              "Type": "Undergraduate",
+              "Title": "Algorithm Analysis and Design",
+              "CreditHours": 3.0,
+              "Professor": "Dr. Ashis Kumar Mandal"
+          },
+          {
+              "Code": "CSE 235 & 236",
+              "Year": "L/2 S1",
+              "Type": "Undergraduate",
+              "Title": "Programming with C, C++",
+              "CreditHours": 3.0,
+              "Professor": "Dr. Ashis Kumar Mandal"
+          }
+      ],
+      "Graduate": [
+          {
+              "Code": "CSE 547",
+              "Year": "Masters",
+              "Type": "Graduate",
+              "Title": "Advanced Machine Learning",
+              "CreditHours": 3.0,
+              "Professor": "Dr. Ashis Kumar Mandal"
+          },
+          {
+              "Code": "CSE 531",
+              "Year": "Masters",
+              "Type": "Graduate",
+              "Title": "Software Project Management",
+              "CreditHours": 3.0,
+              "Professor": "Dr. Ashis Kumar Mandal"
+          }
+      ]
+  }
+}
