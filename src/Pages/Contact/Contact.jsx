@@ -1,9 +1,12 @@
 
+import { useEffect } from "react";
 import { FaPhoneAlt, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
 
 
 const Contact = () => {
-
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
     return (
 
      <div className="p-8 mt-20 min-h-screen flex items-center justify-center">

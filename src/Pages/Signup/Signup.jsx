@@ -23,12 +23,12 @@ const Signup = () => {
 
   const navigate = useNavigate()
 
-  const PasswordValidation =(password) =>{
-    const length = password.length>=6;
+  const PasswordValidation = (password) => {
+    const length = password.length >= 6;
     const upperCase = /[A-z]/.test(password);
     const lowerCase = /[a-z]/.test(password);
     // combind uper and lower : /(?=.*[A-Z])(?=.*[a-z])/.test(password)
-    return length&&upperCase&&lowerCase;
+    return length && upperCase && lowerCase;
   }
 
   const onSubmit = (data) => {
@@ -36,28 +36,28 @@ const Signup = () => {
     console.log(name, email, password)
 
 
-//kun error ta dekhabe etar jonno if function ...
-//passwordvalidation(password) ei function false return kora mane error hoyeche
-//sei error chack korbe ei if condition
+    //kun error ta dekhabe etar jonno if function ...
+    //passwordvalidation(password) ei function false return kora mane error hoyeche
+    //sei error chack korbe ei if condition
 
-if(!PasswordValidation(password)){
-  if(password.length<6){
-    toast.error("Password must be 6 character", {
-      position: 'top-right',
-    })
-  }
-  else if(!/[A-Z]/.test(password)){
-    toast.error("Password must need one UpperCase", {
-      position: 'top-right',
-    })
-  }
-  else if(!/[a-z]/.test(password)){
-    toast.error("Password must need one lowerCase", {
-      position: 'top-right',
-    })
-  }
-  return;
-}
+    if (!PasswordValidation(password)) {
+      if (password.length < 6) {
+        toast.error("Password must be 6 character", {
+          position: 'top-right',
+        })
+      }
+      else if (!/[A-Z]/.test(password)) {
+        toast.error("Password must need one UpperCase", {
+          position: 'top-right',
+        })
+      }
+      else if (!/[a-z]/.test(password)) {
+        toast.error("Password must need one lowerCase", {
+          position: 'top-right',
+        })
+      }
+      return;
+    }
 
     //creat user
     creatUser(email, password)
@@ -83,15 +83,15 @@ if(!PasswordValidation(password)){
   }
 
   return (
-    <div>
+    <div className="mt-20">
       <Helmet><title>SignUp | Lab Research</title></Helmet>
       <ToastContainer
         autoClose={500}
       ></ToastContainer>
       {/* signup form  */}
-      <div className="mt-10  p-3 rounded-2xl ">
+      <div className="mt-32 p-3  rounded-2xl grid  grid-cols-1 md:grid-cols-2 gap-10 mx-0 md:mx-10">
 
-        <div className="popin-font mt-8 mb-10 lg:mx-80  bg-[#FFFFFF] border border-green-300 text-center  rounded-xl">
+        <div className="popin-font mt-2    bg-[#FFFFFF] border border-green-300 text-center  rounded-xl">
           <h2 className="text-xl md:text-4xl font-semibold text-[rgb(64,63,63)] mt-9">Please Register </h2>
 
           <hr className="mt-8" />
@@ -167,7 +167,7 @@ if(!PasswordValidation(password)){
                     </label>
                   </div>
                   <div className="form-control mt-6">
-                    <button  type="submit" className="btn hover:bg-green-500 bg-[#403F3F] text-white font-bold text-lg md:text-2xl ">SignUp</button>
+                    <button type="submit" className="btn hover:bg-green-500 bg-[#403F3F] text-white font-bold text-lg md:text-2xl ">SignUp</button>
 
                   </div>
                 </form>
@@ -177,6 +177,9 @@ if(!PasswordValidation(password)){
               </div>
             </div>
           </div>
+        </div>
+        <div className="sm:hidden md:flex">
+          <img src="https://github.com/Razzak118348/CraftedCanvas_Image/raw/main/images/register.png" alt="" />
         </div>
       </div>
 

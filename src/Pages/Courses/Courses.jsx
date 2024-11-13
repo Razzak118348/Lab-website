@@ -1,9 +1,11 @@
 import { useLoaderData } from "react-router-dom";
-import React from 'react';
+import React, { useEffect } from 'react';
 
 const Courses = () => {
     const coursesData = useLoaderData();
-
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
     return (
         <div className="my-20">
             <div className="min-h-screen bg-gradient-to-r from-blue-100 to-sky-200 p-6 rounded-xl">

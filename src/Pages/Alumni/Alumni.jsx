@@ -1,13 +1,16 @@
+import { useEffect } from "react";
 import { useLoaderData } from "react-router-dom";
 
 const Alumni = () => {
     const allAlumni = useLoaderData();
-
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
     // Destructure undergraduate and graduate alumni data
     const { undergraduate_alumni, graduate_alumni } = allAlumni;
 
     return (
-        <div className="container mx-auto mt-20 px-4">
+        <div className="container mx-auto mt-32 px-4">
             {/* Page Title */}
             <h1 className="text-4xl font-bold text-center text-blue-700 mb-12">Our Alumni</h1>
 

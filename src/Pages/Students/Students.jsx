@@ -1,8 +1,11 @@
+import { useEffect } from "react";
 import { useLoaderData } from "react-router-dom";
 
 const Students = () => {
     const { Under_graduate } = useLoaderData();
-
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
     return (
         <div className="container mx-auto my-32 px-4 text-justify">
 

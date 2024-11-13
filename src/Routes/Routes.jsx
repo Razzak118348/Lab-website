@@ -18,6 +18,10 @@ import Award from "../Pages/Award/Award";
 import TeacherDetails from "../Pages/TeacherDetails/TeacherDetails";
 import Alumni from "../Pages/Alumni/Alumni";
 import Graduate from "../Pages/Graduate/Graduate";
+import Admin from "../Pages/Admin/Admin";
+import AddJournal from "../Pages/Admin/AddJournal";
+import AddConference from "../Pages/Admin/AddConference";
+import AddStudent from "../Pages/Admin/AddStudent";
 
 const Routes = createBrowserRouter([
     {
@@ -29,6 +33,22 @@ const Routes = createBrowserRouter([
                 path: '/',
                 element: <Home></Home>,
                 loader: async () => fetch('/professor.json')
+            },
+            {
+                path:'/admin',
+                element:<Admin></Admin>
+            },
+            {
+path:'/addJournal',
+element:<AddJournal></AddJournal>
+            },
+            {
+                path:'/addConference',
+                element:<AddConference></AddConference>
+            },
+            {
+                path:'/addStudent',
+                element:<AddStudent></AddStudent>
             },
             {
                 path: '/research',

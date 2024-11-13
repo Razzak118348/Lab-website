@@ -1,8 +1,11 @@
+import { useEffect } from "react";
 import { useLoaderData } from "react-router-dom";
 
 const Award = () => {
     const allAwards = useLoaderData();
-
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
     return (
         <div className="p-6 bg-gray-100 min-h-screen text-justify mt-20">
             <h2 className="text-lg lg:text-3xl font-bold text-center text-gray-800 mb-8">All Awards</h2>

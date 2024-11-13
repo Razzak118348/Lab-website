@@ -73,9 +73,9 @@ const TeacherDetails = () => {
                     {selectProfessor.publications.journal_papers.map((paper, index) => (
                         <li type="1" key={index} className="mb-2 text-justify">
                         {paper.authors.join(", ")}, "{paper.title}",
-                                            <span className="font-bold"> {paper.journal}  {paper.category && (<span> {paper.category},</span>)} {paper.impact_factor && (<span>IF: {paper.impact_factor}</span>)} {paper.indexing && (<span>{paper.indexing} Indexing</span>)}  </span>
-                                            {paper.volume && (<span> {paper.volume}</span>)}
-                                            {paper.pages && (<span>pp. {paper.pages},</span>)}{paper.country&& (<span>{paper.country}, </span>)} {paper.year}.
+                                            <span className="font-bold"> {paper.journal},  {paper.category && (<span> {paper.category},</span>)} {paper.impact_factor && (<span>IF: {paper.impact_factor},</span>)} {paper.indexing && (<span>{paper.indexing} Indexing,</span>)}  </span>
+                                            {paper.volume && (<span> Vol.{paper.volume},</span>)}
+                                            {paper.pages && (<span> pp. {paper.pages},</span>)}{paper.country&& (<span> {paper.country}, </span>)} {paper.year}.
                                             {paper.doi && (
                                                 <a className="text-green-500 underline" href={`https://doi.org/${paper.doi}`} target="_blank" rel="noopener noreferrer">
                                                     {paper.doi}

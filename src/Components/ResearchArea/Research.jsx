@@ -8,6 +8,9 @@ const Research = () => {
       .then(res => res.json())
       .then(data => setResearch(data))
       .catch(error => console.error("Error fetching research data:", error));
+
+        window.scrollTo(0, 0);
+
   }, []);
 
   return (

@@ -1,9 +1,12 @@
+import { useEffect } from "react";
 import { useLoaderData } from "react-router-dom";
 
 
 const Graduate = () => {
     const {  graduate } = useLoaderData();
-
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
 
     return (
         <div>

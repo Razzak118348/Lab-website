@@ -15,6 +15,7 @@ const Home = () => {
         setShowMore(!showMore);
     };
     useEffect(() => {
+        window.scrollTo(0, 0);
         // Simulate loading process
         if (AllProfessors) {
             setLoading(false);

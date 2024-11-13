@@ -1,9 +1,12 @@
 import { useLoaderData } from "react-router-dom";
 import { FaCertificate, FaClock } from "react-icons/fa";
+import { useEffect } from "react";
 
 const Patents = () => {
     const allPatents = useLoaderData();
-
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
     return (
         <div className="mt-32 flex items-center text-justify justify-center">
             <div className="p-8 max-w-5xl w-full bg-gray-50 rounded-lg shadow-lg">

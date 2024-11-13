@@ -24,6 +24,7 @@
     "react-simple-typewriter": "^5.0.1",
     "react-toastify": "^10.0.6",
     "sort-by": "^1.2.0",
+    "sweetalert2": "^11.14.5",
     "swiper": "^11.1.14"
   },
   "devDependencies": {

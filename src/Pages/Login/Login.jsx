@@ -51,14 +51,19 @@ toast.error("Password or Email Invalid",{position:'top-right'})
 
 
   return (
-    <div className="m-0 p-0">
+    <div className="mt-20 p-0">
       <Helmet>
         <title>Login | Lab Research</title>
       </Helmet>
       <ToastContainer autoClose={500}></ToastContainer>
 
-      <div className="  p-3 rounded-2xl  ">
-        <div className="popin-font mt-10  mb-10 lg:mx-80  bg-[#FFFFFF] border border-green-300 text-center  rounded-xl">
+      <div className="  p-3 rounded-2xl  grid grid-cols-1 md:grid-cols-2 gap-10 mx-10 mt-32">
+
+      <div className="sm:hidden md:flex">
+<img src="https://github.com/Razzak118348/CraftedCanvas_Image/raw/main/images/form.png" alt="" />
+        </div>
+
+        <div className="popin-font   bg-[#FFFFFF] border border-green-300 text-center  rounded-xl">
           <h2 className="text-2xl md:text-4xl font-bold text-[rgb(64,63,63)] mt-9">Please Login</h2>
 
           <hr className="my-8" />
@@ -120,6 +125,8 @@ toast.error("Password or Email Invalid",{position:'top-right'})
             </div>
           </div>
         </div>
+
+
       </div>
 
     </div>
