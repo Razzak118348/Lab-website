@@ -4,493 +4,493 @@
 "name": "Dr. Md. Delowar Hossain",
 "position": "Professor, Department of Computer Science and Engineering ",
 "journal_papers": [
-        {
-          "authors": [
-            "Tangina Sultana",
-            "Md. Delowar Hossain",
-            "Md Golam Morshed",
-            "Young-Koo Lee"
-          ],
-          "title": "Enhancing Link Prediction in Graph Data Augmentation through Graphon Mixup",
-          "journal": "Neural Computing and Applications",
-          "publisher": "Springer",
-          "citescore": "",
-          "category": "Q1",
-          "impact_factor": "6.0",
-          "indexing": "SCIE",
-          "year": 2024,
-          "status": "Minor Revision"
-        },
-        {
-          "authors": [
-            "Md Golam Morshed",
-            "Tangina Sultana",
-            "Md. Delowar Hossain",
-            "Young-Koo Lee"
-          ],
-          "title": "MCL: Mapping-based Contrastive Learning with Augmentation for Graph Classification",
-          "journal": "Information Sciences",
-          "publisher": "Elsevier",
-          "category": "Q1",
-          "citescore": "13.4",
-          "impact_factor": "8.1",
-          "indexing": "SCIE",
-          "year": 2024,
-          "status": "Under Review"
-        },
-        {
-          "authors": [
-            "Nosin Ibna Mahbub",
-            "Md Delowar Hossain",
-            "Sharmen Akhter",
-            "Md Imtiaz Hossain",
-            "Kimoon Jeong",
-            "Eui-Nam Huh"
-          ],
-          "title": "Robustness of Workload Forecasting Models in Cloud Data Centers: A White-Box Adversarial Attack Perspective",
-          "journal": "IEEE Access",
-          "citescore": "",
-          "impact_factor": "3.74",
-          "indexing": "SCIE",
-          "year": 2024,
-          "status": "USA, April 2024"
-        },
-        {
-          "authors": [
-            "Mandal A. K.",
-            "Nadim M.",
-            "Saha H.",
-            "Sultana T.",
-            "Hossain M. D.",
-            "Huh E. -N."
-          ],
-          "title": "Feature Subset Selection for High-Dimensional, Low Sampling Size Data Classification Using Ensemble Feature Selection With a Wrapper-Based Search",
-          "journal": "IEEE Access",
-          "publisher": "IEEE",
-          "category": "Q1",
-          "impact_factor": 3.5,
-          "indexing": "SCIE",
-          "status": "Published",
-          "year": 2024,
-          "volume": 12,
-          "pages": "62341-62357",
-          "doi": "10.1109/ACCESS.2024.3390684"
-        },
-        {
-          "authors": [
-            "Sultana, T.",
-            "Mandal, A.K.",
-            "Saha, H.",
-            "Sultan, M.N.",
-            "Hossain, M.D."
-          ],
-          "title": "Intent Identification by Semantically Analyzing the Search Query",
-          "journal": "Modelling",
-          "impact_factor": 1.3,
-          "year": 2024,
-          "volume": 5,
-          "pages": "292-314",
-          "doi": "10.3390/modelling5010016"
-        },
-        {
-          "authors": [
-            "Luan N. T. Huynh",
-            "Md. Delowar Hossain",
-            "Quoc-Viet Pham",
-            "Yan Kyaw Tun",
-            "Eui-Nam Huh"
-          ],
-          "title": "A Block-structured Optimization Approach for Data Sensing and Computing in Vehicle-assisted Edge Computing Networks",
-          "journal": "IEEE Sensors",
-          "citescore": "7",
-          "impact_factor": "4.3",
-          "indexing": "SCIE",
-          "year": 2024,
-          "status": "January 2024"
-        },
-        {
-          "authors": [
-            "Akhter Sharmen",
-            "Hossain MD Imtiaz",
-            "Md Delowar Hossain",
-            "Choong Seon Hong",
-            "Eui-Nam Huh"
-          ],
-          "title": "EnParaNet: A Novel Deep Learning Architecture for Low-Resource Devices",
-          "journal": "Neural Computing and Applications",
-          "publisher": "Springer",
-          "citescore": "",
-          "impact_factor": "6.0",
-          "indexing": "SCIE",
-          "year": 2024,
-          "status": ""
-        },
-        {
-          "authors": [
-            "Ngo Thien Thu",
-            "H. N. Tran",
-            "Md Delowar Hossain",
-            "Eui-Nam Huh"
-          ],
-          "title": "LightSOD: Towards Lightweight and Efficient Network for Salient Object Detection",
-          "journal": "Computer Vision and Image Understanding",
-          "publisher": "Elsevier",
-          "citescore": "9.4",
-          "impact_factor": "4.5",
-          "indexing": "SCIE",
-          "year": 2024,
-          "status": ""
-        },
-        {
-          "authors": [
-            "Tangina Sultana",
-            "Md. Delowar Hossain",
-            "Md. Golam Morshed",
-            "T. H. Afridi",
-            "Young-Koo Lee"
-          ],
-          "title": "Inductive Autoencoder for Efficiently Compressing RDF Graph",
-          "journal": "Information Sciences",
-          "publisher": "Elsevier",
-          "category": "Q1",
-          "impact_factor": 8.1,
-          "indexing": "SCIE",
-          "status": "Published",
-          "year": 2023,
-          "volume": "662",
-          "pages": "  44,"
-        },
-        {
-          "authors": [
-            "Tangina Sultana",
-            "Md. Delowar Hossain",
-            "Md. Golam Morshed",
-            "A. Alam",
-            "Young-Koo Lee"
-          ],
-          "title": "Graph Pattern Detection and Structural Redundancy Reduction to Compress Named Graphs",
-          "journal": "Information Sciences",
-          "publisher": "Elsevier",
-          "category": "Q1",
-          "impact_factor": 8.1,
-          "indexing": "SCIE",
-          "status": "Published",
-          "year": 2023
-        },
-        {
-          "authors": [
-            "Md. Delowar Hossain",
-            "Tangina Sultana",
-            "Sharmen Akhter",
-            "Md. Imtiaz Hossain",
-            "N. T. Huynh",
-            "Ga-Won Lee",
-            "Eui-Nam Huh"
-          ],
-          "title": "The Role of Microservice Approach in Edge Computing: Opportunities, Challenges, and Research Directions",
-          "journal": "ICT Express",
-          "publisher": "Elsevier",
-          "category": "Q1",
-          "impact_factor": 5.4,
-          "indexing": "SCIE",
-          "status": "Published",
-          "year": 2023
-        },
-        {
-          "authors": [
-            "Ngo Thien Thu",
-            "Md. Delowar Hossain",
-            "Eui-Nam Huh"
-          ],
-          "title": "EC2Net: Efficient Attention-Based Cross-Context Network for Near Real-Time Salient Object Detection",
-          "journal": "IEEE Access",
-          "category": "Q1",
-          "citescore": "",
-          "impact_factor": "3.476",
-          "indexing": "SCIE",
-          "year": 2023
+  {
+    "authors": [
+      "Tangina Sultana",
+      "Md. Delowar Hossain",
+      "Md Golam Morshed",
+      "Young-Koo Lee"
+    ],
+    "title": "Enhancing Link Prediction in Graph Data Augmentation through Graphon Mixup",
+    "journal": "Neural Computing and Applications",
+    "publisher": "Springer",
+    "citescore": "",
+    "category": "Q1",
+    "impact_factor": "6.0",
+    "indexing": "SCIE",
+    "year": 2024,
+    "status": "Minor Revision"
+  },
+  {
+    "authors": [
+      "Md Golam Morshed",
+      "Tangina Sultana",
+      "Md. Delowar Hossain",
+      "Young-Koo Lee"
+    ],
+    "title": "MCL: Mapping-based Contrastive Learning with Augmentation for Graph Classification",
+    "journal": "Information Sciences",
+    "publisher": "Elsevier",
+    "category": "Q1",
+    "citescore": "13.4",
+    "impact_factor": "8.1",
+    "indexing": "SCIE",
+    "year": 2024,
+    "status": "Under Review"
+  },
+  {
+    "authors": [
+      "Nosin Ibna Mahbub",
+      "Md Delowar Hossain",
+      "Sharmen Akhter",
+      "Md Imtiaz Hossain",
+      "Kimoon Jeong",
+      "Eui-Nam Huh"
+    ],
+    "title": "Robustness of Workload Forecasting Models in Cloud Data Centers: A White-Box Adversarial Attack Perspective",
+    "journal": "IEEE Access",
+    "citescore": "",
+    "impact_factor": "3.74",
+    "indexing": "SCIE",
+    "year": 2024,
+    "status": "USA, April 2024"
+  },
+  {
+    "authors": [
+      "Ashis Kumar Mandal",
+      "Nadim M.",
+      "Hashi Saha",
+      "Tangina Sultana",
+      "Md. Delowar Hossain",
+      "Huh E. -N."
+    ],
+    "title": "Feature Subset Selection for High-Dimensional, Low Sampling Size Data Classification Using Ensemble Feature Selection With a Wrapper-Based Search",
+    "journal": "IEEE Access",
+    "publisher": "IEEE",
+    "category": "Q1",
+    "impact_factor": 3.5,
+    "indexing": "SCIE",
+    "status": "Published",
+    "year": 2024,
+    "volume": 12,
+    "pages": "62341-62357",
+    "doi": "10.1109/ACCESS.2024.3390684"
+  },
+  {
+    "authors": [
+      "Tangina Sultana",
+      "Ashis Kumar Mandal",
+      "Hashi Saha",
+      "Md. Nahid Sultan",
+      "Md. Delowar Hossain"
+    ],
+    "title": "Intent Identification by Semantically Analyzing the Search Query",
+    "journal": "Modelling",
+    "impact_factor": 1.3,
+    "year": 2024,
+    "volume": 5,
+    "pages": "292-314",
+    "doi": "10.3390/modelling5010016"
+  },
+  {
+    "authors": [
+      "Luan N. T. Huynh",
+      "Md. Delowar Hossain",
+      "Quoc-Viet Pham",
+      "Yan Kyaw Tun",
+      "Eui-Nam Huh"
+    ],
+    "title": "A Block-structured Optimization Approach for Data Sensing and Computing in Vehicle-assisted Edge Computing Networks",
+    "journal": "IEEE Sensors",
+    "citescore": "7",
+    "impact_factor": "4.3",
+    "indexing": "SCIE",
+    "year": 2024,
+    "status": "January 2024"
+  },
+  {
+    "authors": [
+      "Akhter Sharmen",
+      "Hossain MD Imtiaz",
+      "Md Delowar Hossain",
+      "Choong Seon Hong",
+      "Eui-Nam Huh"
+    ],
+    "title": "EnParaNet: A Novel Deep Learning Architecture for Low-Resource Devices",
+    "journal": "Neural Computing and Applications",
+    "publisher": "Springer",
+    "citescore": "",
+    "impact_factor": "6.0",
+    "indexing": "SCIE",
+    "year": 2024,
+    "status": ""
+  },
+  {
+    "authors": [
+      "Ngo Thien Thu",
+      "H. N. Tran",
+      "Md Delowar Hossain",
+      "Eui-Nam Huh"
+    ],
+    "title": "LightSOD: Towards Lightweight and Efficient Network for Salient Object Detection",
+    "journal": "Computer Vision and Image Understanding",
+    "publisher": "Elsevier",
+    "citescore": "9.4",
+    "impact_factor": "4.5",
+    "indexing": "SCIE",
+    "year": 2024,
+    "status": ""
+  },
+  {
+    "authors": [
+      "Tangina Sultana",
+      "Md. Delowar Hossain",
+      "Md. Golam Morshed",
+      "T. H. Afridi",
+      "Young-Koo Lee"
+    ],
+    "title": "Inductive Autoencoder for Efficiently Compressing RDF Graph",
+    "journal": "Information Sciences",
+    "publisher": "Elsevier",
+    "category": "Q1",
+    "impact_factor": 8.1,
+    "indexing": "SCIE",
+    "status": "Published",
+    "year": 2023,
+    "volume": "662",
+    "pages": "  44,"
+  },
+  {
+    "authors": [
+      "Tangina Sultana",
+      "Md. Delowar Hossain",
+      "Md. Golam Morshed",
+      "A. Alam",
+      "Young-Koo Lee"
+    ],
+    "title": "Graph Pattern Detection and Structural Redundancy Reduction to Compress Named Graphs",
+    "journal": "Information Sciences",
+    "publisher": "Elsevier",
+    "category": "Q1",
+    "impact_factor": 8.1,
+    "indexing": "SCIE",
+    "status": "Published",
+    "year": 2023
+  },
+  {
+    "authors": [
+      "Md. Delowar Hossain",
+      "Tangina Sultana",
+      "Sharmen Akhter",
+      "Md. Imtiaz Hossain",
+      "N. T. Huynh",
+      "Ga-Won Lee",
+      "Eui-Nam Huh"
+    ],
+    "title": "The Role of Microservice Approach in Edge Computing: Opportunities, Challenges, and Research Directions",
+    "journal": "ICT Express",
+    "publisher": "Elsevier",
+    "category": "Q1",
+    "impact_factor": 5.4,
+    "indexing": "SCIE",
+    "status": "Published",
+    "year": 2023
+  },
+  {
+    "authors": [
+      "Ngo Thien Thu",
+      "Md. Delowar Hossain",
+      "Eui-Nam Huh"
+    ],
+    "title": "EC2Net: Efficient Attention-Based Cross-Context Network for Near Real-Time Salient Object Detection",
+    "journal": "IEEE Access",
+    "category": "Q1",
+    "citescore": "",
+    "impact_factor": "3.476",
+    "indexing": "SCIE",
+    "year": 2023
 
-        },
-        {
-          "authors": [
-            "Van-Nam Pham",
-            "Md. Delowar Hossain",
-            "Ga-Won Lee",
-            "Eui-Nam Huh"
-          ],
-          "title": "Efficient Data Delivery Scheme for Large-scale Microservices in Distributed Cloud Environment",
-          "journal": "Journal of Applied Sciences",
-          "citescore": "4.5",
-          "category": "Q1",
-          "impact_factor": "2.838",
-          "indexing": "SCIE",
-          "year":"January 2023",
-          "status": "Switzerland, January 2023"
-        },
-        {
-          "authors": [
-            "Sharmen Akhter",
-            "Md Imtiaz Hossain",
-            "Md Delowar Hossain",
-            "Eui-Nam Huh"
-          ],
-          "title": "NeuRes: Highly Activated Neurons Responses Transfer via Distilling Sparse Activation Maps",
-          "journal": "IEEE Access",
-          "citescore": "",
-          "impact_factor": "3.74",
-          "category": "Q1",
-          "indexing": "SCIE",
-          "year": 2022,
-          "status": "USA, December 2022"
-        },
-        {
-          "authors": [
-            "Tran Trong Khanh",
-            "Tran Hoang Hai",
-            "Md. Delowar Hossain",
-            "Eui-Nam Huh"
-          ],
-          "title": "Fuzzy-Assisted Mobile Edge Orchestrator and SARSA Learning for Flexible Offloading in Heterogeneous IoT Environment",
-          "journal": "Sensors",
-          "citescore": "6.8",
-          "impact_factor": "3.9",
-          "indexing": "SCIE",
-          "year": " June 2022"
-        },
-        {
-          "authors": [
-            "Md. Delowar Hossain",
-            "Tangina Sultana",
-            "Md. Alamgir Hossain",
-            "Md. Abu Layek",
-            "Md. Imtiaz Hossain",
-            "Phoo Pyae Sone",
-            "Ga-Won Lee",
-            "Eui-Nam Huh"
-          ],
-          "title": "Dynamic Task Offloading for Cloud-Assisted Vehicular Edge Computing Networks: A Non-Cooperative Game Theoretic Approach",
-          "journal": "Sensors",
-          "publisher": "MDPI",
-          "impact_factor": 3.9,
-          "indexing": "SCIE",
-          "status": "Published",
-          "volume": 22,
-          "issue": 10,
-          "pages": "  1-18",
-          "country": "Switzerland",
-          "year": " May 2022"
-        },
-        {
-          "authors": [
-            "Md Alamgir Hossain",
-            "Md Imtiaz Hossain",
-            "Md Delowar Hossain",
-            "Eui-Nam Huh"
-          ],
-          "title": "DFC-D: A Dynamic Weight-based Multiple Features Combination for Real-Time Moving Object Detection",
-          "journal": "Multimedia Tools and Applications",
-          "impactFactor": 2.757,
-          "indexing": "SCIE",
-          "year": "April, 2022"
-        },
-        {
-          "authors": [
-            "Waqas ur Rahnman",
-            "Muhammad Bilal Amin",
-            "Md Delowar Hossain",
-            "Choong Seon Hong",
-            "Eui-Nam Huh"
-          ],
-          "title": "QoE Optimization for HTTP Adaptive Streaming: Performance Evaluation of MEC-assisted and Client-based Methods",
-          "journal": "Journal of Visual Communication and Image Representation",
-          "impactFactor": 2.887,
-          "indexing": "SCIE",
-          "year": "December, 2021"
-        },
-        {
-          "authors": [
-            "Waqas ur Rahman",
-            "Md Delowar Hossain",
-            "Eui-Nam Huh"
-          ],
-          "title": "Fuzzy-Based Quality Adaptation Algorithm for Improving QoE from MPEG-DASH Video",
-          "journal": "Applied Sciences",
-          "impactFactor": 2.838,
-          "indexing": "SCIE",
-          "country": "Switzerland",
-          "year": "June, 2021"
-        },
-        {
-          "authors": [
-            "Md. Delowar Hossain",
-            "Tangina Sultana",
-            "Md. Alamgir Hossain",
-            "Md. Imtiaz Hossain",
-            "Luan N. T. Huynh",
-            "Junyoung Park",
-            "Eui-Nam Huh"
-          ],
-          "title": "Fuzzy Decision-Based Efficient Task Offloading Management Scheme in Multi-Tier MEC-Enabled Networks",
-          "journal": "Sensors",
-          "publisher": "MDPI",
-          "impact_factor": 3.847,
-          "indexing": "SCIE",
-          "status": "Published",
-          "volume": "21",
-          "issue": 4,
-          "pages": " 1-26",
-          "country": "Switzerland",
-          "month": "February",
-          "year": 2021
-        },
-        {
-          "authors": [
-            "Tri D. T. Nguyen",
-            "VanDung Nguyen",
-            "Van-Nam Pham",
-            "Luan N. T. Huynh",
-            "Md Delowar Hossain",
-            "Eui-Nam Huh"
-          ],
-          "title": "Modeling Data Redundancy and Cost-Aware Task Allocation in MEC-Enabled Internet-of-Vehicles Applications",
-          "journal": "IEEE Internet of Things Journal",
-          "impactFactor": 10.238,
-          "indexing": "SCIE",
-          "country": "USA",
-          "year": "2021"
-        },
-        {
-          "authors": [
-            "Luan N. T. Huynh",
-            "Quoc-Viet Pham",
-            "Tri D. T. Nguyen",
-            "Md Delowar Hossain",
-            "Young-Rok Shin",
-            "Eui-Nam Huh"
-          ],
-          "title": "Joint Computational Offloading and Data-Content Caching in NOMA-MEC Networks",
-          "journal": "IEEE Access",
-          "impactFactor": 3.74,
-          "indexing": "SCIE",
-          "country": "USA",
-          "year": "2021"
-        },
-        {
-          "authors": [
-            "Md. Delowar Hossain",
-            "Tangina Sultana",
-            "Ga-Won Lee",
-            "Eui-Nam Huh"
-          ],
-          "title": "Efficient Load Management in Multi-Access Edge Computing using Fuzzy Logic",
-          "journal": "Journal of KIISE Transactions on Computing Practices",
-          "publisher": "KIISE",
-          "impact_factor": 0.4,
-          "indexing": "Korean Citation Index",
-          "status": "Published",
-          "volume": 26,
-          "issue": 11,
-          "pages": "  482-492",
-          "country": "South Korea",
-          "month": "November",
-          "year": 2020
-        },
-        {
-          "authors": [
-            "Md Imtiaz Hossain",
-            "Ashraf Siddique",
-            "Md Alamgir Hossain",
-            "Md Delowar Hossain",
-            "Eui-Nam Huh"
-          ],
-          "title": "Batch Entropy Supervised Convolutional Neural Networks for Feature Extraction and Harmonizing for Action Recognition",
-          "journal": "IEEE Access",
-          "impactFactor": 3.74,
-          "indexing": "SCIE",
-          "country": "USA",
-          "year": "2020"
-        },
-        {
-          "authors": [
-            "Md Alamgir Hossain",
-            "Md Imtiaz Hossain",
-            "Md Delowar Hossain",
-            "Ngo Thien Thu",
-            "Eui-Nam Huh"
-          ],
-          "title": "Fast-D: When Non-Smoothing Color Feature Meets Moving Object Detection in Real-Time",
-          "journal": "IEEE Access",
-          "impactFactor": 3.74,
-          "indexing": "SCIE",
-          "country": "USA",
-          "year": "2020"
-        },
-        {
-          "authors": [
-            "Md Alamgir Hossain",
-            "Md Imtiaz Hossain",
-            "Md Delowar Hossain",
-            "Ga-Won Lee",
-            "Eui-Nam Huh"
-          ],
-          "title": "Performance Evaluation of Background Subtraction Based Moving Object Detection Approach",
-          "journal": "Journal of KIISE Transactions on Computing Practices",
-          "impactFactor": 0.4,
-          "indexing": "Korean Citation Index",
-          "country": "South Korea",
-          "year": "2020"
-        },
-        {
-          "authors": [
-            "Md. Delowar Hossain",
-            "Tangina Sultana",
-            "VanDung Nguyen",
-            "Waqas ur Rahman",
-            "Tri D. T. Nguyen",
-            "Luan N. T. Huynh",
-            "Eui-Nam Huh"
-          ],
-          "title": "Fuzzy Based Collaborative Task Offloading Scheme in the Densely Deployed Small-Cell Networks with Multi-Access Edge Computing",
-          "journal": "Applied Sciences",
-          "publisher": "MDPI",
-          "impact_factor": 2.838,
-          "indexing": "SCIE",
-          "status": "Published",
-          "volume": "10",
-          "issue": 9,
-          "pages": " 1-23",
-          "country": "Switzerland",
-          "year": "April 2020"
-        },
-        {
-          "authors": [
-            "Luan N. T. Huynh",
-            "Quoc-Viet Pham",
-            "Xuan-Qui Pham",
-            "Tri D. T. Nguyen",
-            "Md Delowar Hossain",
-            "Eui-Nam Huh"
-          ],
-          "title": "Efficient Computation Offloading in Multi-Tier Multi-Access Edge Computing Systems: A Particle Swarm Optimization Approach",
-          "journal": "Applied Sciences",
-          "impactFactor": 2.838,
-          "indexing": "SCIE",
-          "country": "Switzerland",
-          "year": "2019"
-        },
-        {
-          "authors": [
-            "Md Delowar Hossain",
-            "Eui-Nam Huh"
-          ],
-          "title": "Performance Analysis of Collaborative Mobile Edge Computing in 5G Ultra-Dense Networks",
-          "journal": "Journal of KIISE Transactions on Computing Practices",
-          "impactFactor": 0.4,
-          "indexing": "Korean Citation Index",
-          "country": "South Korea",
-          "year": "2019"
-        }
-      ]
+  },
+  {
+    "authors": [
+      "Van-Nam Pham",
+      "Md. Delowar Hossain",
+      "Ga-Won Lee",
+      "Eui-Nam Huh"
+    ],
+    "title": "Efficient Data Delivery Scheme for Large-scale Microservices in Distributed Cloud Environment",
+    "journal": "Journal of Applied Sciences",
+    "citescore": "4.5",
+    "category": "Q1",
+    "impact_factor": "2.838",
+    "indexing": "SCIE",
+    "year":"January 2023",
+    "status": "Switzerland, January 2023"
+  },
+  {
+    "authors": [
+      "Sharmen Akhter",
+      "Md Imtiaz Hossain",
+      "Md Delowar Hossain",
+      "Eui-Nam Huh"
+    ],
+    "title": "NeuRes: Highly Activated Neurons Responses Transfer via Distilling Sparse Activation Maps",
+    "journal": "IEEE Access",
+    "citescore": "",
+    "impact_factor": "3.74",
+    "category": "Q1",
+    "indexing": "SCIE",
+    "year": 2022,
+    "status": "USA, December 2022"
+  },
+  {
+    "authors": [
+      "Tran Trong Khanh",
+      "Tran Hoang Hai",
+      "Md. Delowar Hossain",
+      "Eui-Nam Huh"
+    ],
+    "title": "Fuzzy-Assisted Mobile Edge Orchestrator and SARSA Learning for Flexible Offloading in Heterogeneous IoT Environment",
+    "journal": "Sensors",
+    "citescore": "6.8",
+    "impact_factor": "3.9",
+    "indexing": "SCIE",
+    "year": " June 2022"
+  },
+  {
+    "authors": [
+      "Md. Delowar Hossain",
+      "Tangina Sultana",
+      "Md. Alamgir Hossain",
+      "Md. Abu Layek",
+      "Md. Imtiaz Hossain",
+      "Phoo Pyae Sone",
+      "Ga-Won Lee",
+      "Eui-Nam Huh"
+    ],
+    "title": "Dynamic Task Offloading for Cloud-Assisted Vehicular Edge Computing Networks: A Non-Cooperative Game Theoretic Approach",
+    "journal": "Sensors",
+    "publisher": "MDPI",
+    "impact_factor": 3.9,
+    "indexing": "SCIE",
+    "status": "Published",
+    "volume": 22,
+    "issue": 10,
+    "pages": "  1-18",
+    "country": "Switzerland",
+    "year": " May 2022"
+  },
+  {
+    "authors": [
+      "Md Alamgir Hossain",
+      "Md Imtiaz Hossain",
+      "Md Delowar Hossain",
+      "Eui-Nam Huh"
+    ],
+    "title": "DFC-D: A Dynamic Weight-based Multiple Features Combination for Real-Time Moving Object Detection",
+    "journal": "Multimedia Tools and Applications",
+    "impactFactor": 2.757,
+    "indexing": "SCIE",
+    "year": "April, 2022"
+  },
+  {
+    "authors": [
+      "Waqas ur Rahnman",
+      "Muhammad Bilal Amin",
+      "Md Delowar Hossain",
+      "Choong Seon Hong",
+      "Eui-Nam Huh"
+    ],
+    "title": "QoE Optimization for HTTP Adaptive Streaming: Performance Evaluation of MEC-assisted and Client-based Methods",
+    "journal": "Journal of Visual Communication and Image Representation",
+    "impactFactor": 2.887,
+    "indexing": "SCIE",
+    "year": "December, 2021"
+  },
+  {
+    "authors": [
+      "Waqas ur Rahman",
+      "Md Delowar Hossain",
+      "Eui-Nam Huh"
+    ],
+    "title": "Fuzzy-Based Quality Adaptation Algorithm for Improving QoE from MPEG-DASH Video",
+    "journal": "Applied Sciences",
+    "impactFactor": 2.838,
+    "indexing": "SCIE",
+    "country": "Switzerland",
+    "year": "June, 2021"
+  },
+  {
+    "authors": [
+      "Md. Delowar Hossain",
+      "Tangina Sultana",
+      "Md. Alamgir Hossain",
+      "Md. Imtiaz Hossain",
+      "Luan N. T. Huynh",
+      "Junyoung Park",
+      "Eui-Nam Huh"
+    ],
+    "title": "Fuzzy Decision-Based Efficient Task Offloading Management Scheme in Multi-Tier MEC-Enabled Networks",
+    "journal": "Sensors",
+    "publisher": "MDPI",
+    "impact_factor": 3.847,
+    "indexing": "SCIE",
+    "status": "Published",
+    "volume": "21",
+    "issue": 4,
+    "pages": " 1-26",
+    "country": "Switzerland",
+    "month": "February",
+    "year": 2021
+  },
+  {
+    "authors": [
+      "Tri D. T. Nguyen",
+      "VanDung Nguyen",
+      "Van-Nam Pham",
+      "Luan N. T. Huynh",
+      "Md Delowar Hossain",
+      "Eui-Nam Huh"
+    ],
+    "title": "Modeling Data Redundancy and Cost-Aware Task Allocation in MEC-Enabled Internet-of-Vehicles Applications",
+    "journal": "IEEE Internet of Things Journal",
+    "impactFactor": 10.238,
+    "indexing": "SCIE",
+    "country": "USA",
+    "year": "2021"
+  },
+  {
+    "authors": [
+      "Luan N. T. Huynh",
+      "Quoc-Viet Pham",
+      "Tri D. T. Nguyen",
+      "Md Delowar Hossain",
+      "Young-Rok Shin",
+      "Eui-Nam Huh"
+    ],
+    "title": "Joint Computational Offloading and Data-Content Caching in NOMA-MEC Networks",
+    "journal": "IEEE Access",
+    "impactFactor": 3.74,
+    "indexing": "SCIE",
+    "country": "USA",
+    "year": "2021"
+  },
+  {
+    "authors": [
+      "Md. Delowar Hossain",
+      "Tangina Sultana",
+      "Ga-Won Lee",
+      "Eui-Nam Huh"
+    ],
+    "title": "Efficient Load Management in Multi-Access Edge Computing using Fuzzy Logic",
+    "journal": "Journal of KIISE Transactions on Computing Practices",
+    "publisher": "KIISE",
+    "impact_factor": 0.4,
+    "indexing": "Korean Citation Index",
+    "status": "Published",
+    "volume": 26,
+    "issue": 11,
+    "pages": "  482-492",
+    "country": "South Korea",
+    "month": "November",
+    "year": 2020
+  },
+  {
+    "authors": [
+      "Md Imtiaz Hossain",
+      "Ashraf Siddique",
+      "Md Alamgir Hossain",
+      "Md Delowar Hossain",
+      "Eui-Nam Huh"
+    ],
+    "title": "Batch Entropy Supervised Convolutional Neural Networks for Feature Extraction and Harmonizing for Action Recognition",
+    "journal": "IEEE Access",
+    "impactFactor": 3.74,
+    "indexing": "SCIE",
+    "country": "USA",
+    "year": "2020"
+  },
+  {
+    "authors": [
+      "Md Alamgir Hossain",
+      "Md Imtiaz Hossain",
+      "Md Delowar Hossain",
+      "Ngo Thien Thu",
+      "Eui-Nam Huh"
+    ],
+    "title": "Fast-D: When Non-Smoothing Color Feature Meets Moving Object Detection in Real-Time",
+    "journal": "IEEE Access",
+    "impactFactor": 3.74,
+    "indexing": "SCIE",
+    "country": "USA",
+    "year": "2020"
+  },
+  {
+    "authors": [
+      "Md Alamgir Hossain",
+      "Md Imtiaz Hossain",
+      "Md Delowar Hossain",
+      "Ga-Won Lee",
+      "Eui-Nam Huh"
+    ],
+    "title": "Performance Evaluation of Background Subtraction Based Moving Object Detection Approach",
+    "journal": "Journal of KIISE Transactions on Computing Practices",
+    "impactFactor": 0.4,
+    "indexing": "Korean Citation Index",
+    "country": "South Korea",
+    "year": "2020"
+  },
+  {
+    "authors": [
+      "Md. Delowar Hossain",
+      "Tangina Sultana",
+      "VanDung Nguyen",
+      "Waqas ur Rahman",
+      "Tri D. T. Nguyen",
+      "Luan N. T. Huynh",
+      "Eui-Nam Huh"
+    ],
+    "title": "Fuzzy Based Collaborative Task Offloading Scheme in the Densely Deployed Small-Cell Networks with Multi-Access Edge Computing",
+    "journal": "Applied Sciences",
+    "publisher": "MDPI",
+    "impact_factor": 2.838,
+    "indexing": "SCIE",
+    "status": "Published",
+    "volume": "10",
+    "issue": 9,
+    "pages": " 1-23",
+    "country": "Switzerland",
+    "year": "April 2020"
+  },
+  {
+    "authors": [
+      "Luan N. T. Huynh",
+      "Quoc-Viet Pham",
+      "Xuan-Qui Pham",
+      "Tri D. T. Nguyen",
+      "Md Delowar Hossain",
+      "Eui-Nam Huh"
+    ],
+    "title": "Efficient Computation Offloading in Multi-Tier Multi-Access Edge Computing Systems: A Particle Swarm Optimization Approach",
+    "journal": "Applied Sciences",
+    "impactFactor": 2.838,
+    "indexing": "SCIE",
+    "country": "Switzerland",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Md Delowar Hossain",
+      "Eui-Nam Huh"
+    ],
+    "title": "Performance Analysis of Collaborative Mobile Edge Computing in 5G Ultra-Dense Networks",
+    "journal": "Journal of KIISE Transactions on Computing Practices",
+    "impactFactor": 0.4,
+    "indexing": "Korean Citation Index",
+    "country": "South Korea",
+    "year": "2019"
+  }
+]
 
 },
 {
@@ -500,11 +500,11 @@
     "journal_papers": [
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Nadim M.",
-            "Saha H.",
-            "Sultana T.",
-            "Hossain M. D.",
+            "Hashi Saha",
+            "Tangina Sultana",
+            "Md. Delowar Hossain",
             "Huh E. -N."
           ],
           "title": "Feature Subset Selection for High-Dimensional, Low Sampling Size Data Classification Using Ensemble Feature Selection With a Wrapper-Based Search",
@@ -521,11 +521,11 @@
         },
         {
           "authors": [
-            "Sultana, T.",
-            "Mandal, A.K.",
-            "Saha, H.",
-            "Sultan, M.N.",
-            "Hossain, M.D."
+            "Tangina Sultana ",
+            "Ashis Kumar Mandal",
+            "Hashi Saha",
+            "Md. Nahid Sultan",
+            "Md. Delowar Hossain"
           ],
           "title": "Intent Identification by Semantically Analyzing the Search Query",
           "journal": "Modelling",
@@ -537,7 +537,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R.",
             "Chakraborty B."
           ],
@@ -552,7 +552,7 @@
         {
           "authors": [
             "Sen R.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Chakraborty B."
           ],
           "title": "An effective feature subset selection approach based on Jeffries-Matusita distance for multi-class problems",
@@ -565,7 +565,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R.",
             "Chakraborty B."
           ],
@@ -580,7 +580,7 @@
         {
           "authors": [
             "Sen R.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Chakraborty B."
           ],
           "title": "A Critical Study on Stability Measures of Feature Selection with a Novel Extension of Lustgarten Index",
@@ -593,7 +593,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R.",
             "Chakraborty B."
           ],
@@ -607,7 +607,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R.",
             "Chakraborty B."
           ],
@@ -621,7 +621,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M. N. M.",
             "Kendall G."
           ],
@@ -635,7 +635,7 @@
         },
         {
           "authors": [
-            "Mandal A. K."
+            "Ashis Kumar Mandal"
           ],
           "title": "Development of an Interactive Tool based on Combining Graph Heuristic with Local Search for Examination Timetable Problem",
           "journal": "International Journal of Advanced Computer Science and Applications",
@@ -647,7 +647,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M. N. M."
           ],
           "title": "Performance Analyses of Graph Heuristics and Selected Trajectory Metaheuristics on Examination Timetable Problem",
@@ -660,7 +660,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Mallick D.",
             "Sah R.",
             "Ali A.",
@@ -678,7 +678,7 @@
             "Kahar M. N. M.",
             "Bakar S. A.",
             "Shing L.",
-            "Mandal A. K."
+            "Ashis Kumar Mandal"
           ],
           "title": "Solving Kolej Poly-Tech Mara Examination Timetabling Problem",
           "journal": "Advanced Science Letters",
@@ -690,9 +690,9 @@
         },
         {
           "authors": [
-            "Hossain M. D.",
-            "Sultana T.",
-            "Mandal A. K."
+            "Md. Delowar Hossain",
+            "Tangina Sultana",
+            "Ashis Kumar Mandal"
           ],
           "title": "Online Garments Inventory Management System",
           "journal": "International Journal of Advanced Engineering, Management and Science (IJAEMS)",
@@ -704,7 +704,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M. N. M."
           ],
           "title": "Variant of LSB Steganography Algorithm for Hiding Information in RGB Images",
@@ -717,7 +717,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M. N. M."
           ],
           "title": "Partial Graph Heuristic with Hill Climbing for Examination Timetabling Problem",
@@ -730,7 +730,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R."
           ],
           "title": "Supervised Learning Methods for Bangla Web Document Categorization",
@@ -744,8 +744,8 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
-            "Hossain M. D."
+            "Ashis Kumar Mandal",
+            "Md. Delowar Hossain"
           ],
           "title": "Effective and Uninterrupted Execution of Numerical Integration through Computational Grid",
           "journal": "Journal of Science and Technology, HSTU, Bangladesh",
@@ -759,7 +759,7 @@
             "Nadim M.",
             "Billah S. M. B.",
             "Alam M. S.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Uddin M. P.",
             "Islam M. R."
           ],
@@ -794,8 +794,8 @@
         {
           "authors": [
             "Barman P. C.",
-            "Hossain M. D.",
-            "Mandal A. K.",
+            "Md. Delowar Hossain",
+            "Ashis Kumar Mandal",
             "Singh B. C.",
             "Miah M. S."
           ],

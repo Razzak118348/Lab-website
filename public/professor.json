@@ -147,11 +147,11 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Nadim M.",
-            "Saha H.",
-            "Sultana T.",
-            "Hossain M. D.",
+            "Hashi Saha",
+            "Tangina Sultana",
+            "Md. Delowar Hossain",
             "Huh E. -N."
           ],
           "title": "Feature Subset Selection for High-Dimensional, Low Sampling Size Data Classification Using Ensemble Feature Selection With a Wrapper-Based Search",
@@ -168,11 +168,11 @@
         },
         {
           "authors": [
-            "Sultana, T.",
-            "Mandal, A.K.",
-            "Saha, H.",
-            "Sultan, M.N.",
-            "Hossain, M.D."
+            "Tangina Sultana",
+            "Ashis Kumar Mandal",
+            "Hashi Saha",
+            "Md. Nahid Sultan",
+            "Md. Delowar Hossain"
           ],
           "title": "Intent Identification by Semantically Analyzing the Search Query",
           "journal": "Modelling",
@@ -1279,11 +1279,11 @@
       "journal_papers": [
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Nadim M.",
-            "Saha H.",
-            "Sultana T.",
-            "Hossain M. D.",
+            "Hashi Saha",
+            "Tangina Sultana",
+            "Md. Delowar Hossain",
             "Huh E. -N."
           ],
           "title": "Feature Subset Selection for High-Dimensional, Low Sampling Size Data Classification Using Ensemble Feature Selection With a Wrapper-Based Search",
@@ -1300,11 +1300,11 @@
         },
         {
           "authors": [
-            "Sultana, T.",
-            "Mandal, A.K.",
-            "Saha, H.",
-            "Sultan, M.N.",
-            "Hossain, M.D."
+            "Tangina Sultana ",
+            "Ashis Kumar Mandal",
+            "Hashi Saha",
+            "Md. Nahid Sultan",
+            "Md. Delowar Hossain"
           ],
           "title": "Intent Identification by Semantically Analyzing the Search Query",
           "journal": "Modelling",
@@ -1316,7 +1316,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R.",
             "Chakraborty B."
           ],
@@ -1331,7 +1331,7 @@
         {
           "authors": [
             "Sen R.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Chakraborty B."
           ],
           "title": "An effective feature subset selection approach based on Jeffries-Matusita distance for multi-class problems",
@@ -1344,7 +1344,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R.",
             "Chakraborty B."
           ],
@@ -1359,7 +1359,7 @@
         {
           "authors": [
             "Sen R.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Chakraborty B."
           ],
           "title": "A Critical Study on Stability Measures of Feature Selection with a Novel Extension of Lustgarten Index",
@@ -1372,7 +1372,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R.",
             "Chakraborty B."
           ],
@@ -1386,7 +1386,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R.",
             "Chakraborty B."
           ],
@@ -1400,7 +1400,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M. N. M.",
             "Kendall G."
           ],
@@ -1414,7 +1414,7 @@
         },
         {
           "authors": [
-            "Mandal A. K."
+            "Ashis Kumar Mandal"
           ],
           "title": "Development of an Interactive Tool based on Combining Graph Heuristic with Local Search for Examination Timetable Problem",
           "journal": "International Journal of Advanced Computer Science and Applications",
@@ -1426,7 +1426,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M. N. M."
           ],
           "title": "Performance Analyses of Graph Heuristics and Selected Trajectory Metaheuristics on Examination Timetable Problem",
@@ -1439,7 +1439,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Mallick D.",
             "Sah R.",
             "Ali A.",
@@ -1457,7 +1457,7 @@
             "Kahar M. N. M.",
             "Bakar S. A.",
             "Shing L.",
-            "Mandal A. K."
+            "Ashis Kumar Mandal"
           ],
           "title": "Solving Kolej Poly-Tech Mara Examination Timetabling Problem",
           "journal": "Advanced Science Letters",
@@ -1469,9 +1469,9 @@
         },
         {
           "authors": [
-            "Hossain M. D.",
-            "Sultana T.",
-            "Mandal A. K."
+            "Md. Delowar Hossain",
+            "Tangina Sultana",
+            "Ashis Kumar Mandal"
           ],
           "title": "Online Garments Inventory Management System",
           "journal": "International Journal of Advanced Engineering, Management and Science (IJAEMS)",
@@ -1483,7 +1483,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M. N. M."
           ],
           "title": "Variant of LSB Steganography Algorithm for Hiding Information in RGB Images",
@@ -1496,7 +1496,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M. N. M."
           ],
           "title": "Partial Graph Heuristic with Hill Climbing for Examination Timetabling Problem",
@@ -1509,7 +1509,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R."
           ],
           "title": "Supervised Learning Methods for Bangla Web Document Categorization",
@@ -1523,8 +1523,8 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
-            "Hossain M. D."
+            "Ashis Kumar Mandal",
+            "Md. Delowar Hossain"
           ],
           "title": "Effective and Uninterrupted Execution of Numerical Integration through Computational Grid",
           "journal": "Journal of Science and Technology, HSTU, Bangladesh",
@@ -1538,7 +1538,7 @@
             "Nadim M.",
             "Billah S. M. B.",
             "Alam M. S.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Uddin M. P.",
             "Islam M. R."
           ],
@@ -1573,8 +1573,8 @@
         {
           "authors": [
             "Barman P. C.",
-            "Hossain M. D.",
-            "Mandal A. K.",
+            "Md. Delowar Hossain",
+            "Ashis Kumar Mandal",
             "Singh B. C.",
             "Miah M. S."
           ],
@@ -1590,10 +1590,10 @@
         {
           "authors": [
             "Islam H.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Hossain M. S.",
             "Haque D.",
-            "Saha H.",
+            "Hashi Saha",
             "Esha T."
           ],
           "title": "Development and Implementation of an IoT-enabled Real-time Cold Storage Monitoring and Notification System",
@@ -1607,7 +1607,7 @@
           "authors": [
             "Tipu A. D.",
             "Fahad M.",
-            "Mandal A. K."
+            "Ashis Kumar Mandal"
           ],
           "title": "A Romanization Method for the Bengali Language with Efficient Encoding Scheme",
           "conference": "Proceedings of the 2nd International Conference on Big Data, IoT and Machine Learning (BIM 2023)",
@@ -1627,7 +1627,7 @@
           "authors": [
             "Karna P.",
             "Keshari S. K.",
-            "Mandal A. K."
+            "Ashis Kumar Mandal"
           ],
           "title": "Detecting Depression from Social Media Posts Using Comprehensive Machine Learning Approaches with TF-IDF and N-Grams",
           "conference": "2nd International Conference on Big Data, IoT and Machine Learning (BIM 2023)",
@@ -1638,7 +1638,7 @@
           "authors": [
             "Karna P.",
             "Keshari S. K.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Chakraborty B."
           ],
           "title": "BERT-Driven Deep Learning Approach for Depression Detection in Social Media Posts",
@@ -1652,8 +1652,8 @@
           "authors": [
             "El-Yakub U. R.",
             "Jimpa K.",
-            "Mandal A. K.",
-            "Saha H."
+            "Ashis Kumar Mandal",
+            "Hashi Saha"
           ],
           "title": "Blynk, Database and WhatsApp Integrated RFID Based Lock System",
           "conference": "2023 26th International Conference on Computer and Information Technology (ICCIT)",
@@ -1666,7 +1666,7 @@
           "authors": [
             "Fahad M.",
             "Tipu A. D.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Chakraborty B."
           ],
           "title": "Influence of Contextual Information on Bengali-English Forward and Backward Transliteration Using Binary Coding",
@@ -1679,7 +1679,7 @@
         {
           "authors": [
             "Sen R.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Goswami S.",
             "Chakraborty B."
           ],
@@ -1699,7 +1699,7 @@
         {
           "authors": [
             "Sen R.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Chakraborty B."
           ],
           "title": "Performance Analysis of Extended Lustgarten Index for Stability of Feature Selection",
@@ -1711,7 +1711,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Panday M.",
             "Biswas A.",
             "Goswami S.",
@@ -1733,7 +1733,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R.",
             "Goswami S.",
             "Chakrabarti A.",
@@ -1748,7 +1748,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Sen R.",
             "Chakraborty B."
           ],
@@ -1762,7 +1762,7 @@
         {
           "authors": [
             "Sen R.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Goswami S.",
             "Chakraborty B."
           ],
@@ -1777,7 +1777,7 @@
           "authors": [
             "Sen R.",
             "Sarkar A. K.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Paul L. C."
           ],
           "title": "The Analysis of EM Absorption on Biological Tissue due to RF Radiation Measured Inside the Enclosed Metallic Chamber",
@@ -1789,7 +1789,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M.N.M."
           ],
           "title": "Combination of graph heuristic with hill climbing search for solving capacitated examination timetabling problem",
@@ -1801,7 +1801,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M.N.M."
           ],
           "title": "Solving Examination Time-tabling Problem Using Partial Exam Assignment with Great Deluge Algorithm",
@@ -1813,7 +1813,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M.N.M."
           ],
           "title": "Solving Examination Time-tabling Problem using partial exam assignment with Hill Climbing Search",
@@ -1825,7 +1825,7 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kahar M. N. M."
           ],
           "title": "An Energy-aware Resource Management Scheme of Data Centres for Eco-friendly Cloud Computing",
@@ -1836,7 +1836,7 @@
         {
           "authors": [
             "Kahar M.N.M.",
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Hao L. J.",
             "Musa Z.",
             "Bakar B. A.",
@@ -1853,8 +1853,8 @@
             "Islam M. R.",
             "Siddiqa A.",
             "Palash Uddin Md.",
-            "Mandal A. K.",
-            "Hossain M. D."
+            "Ashis Kumar Mandal",
+            "Md. Delowar Hossain"
           ],
           "title": "An efficient filtering based approach improving LSB image steganography using status bit along with AES cryptography",
           "conference": "International Conference on Informatics, Electronics & Vision (ICIEV)",
@@ -1865,10 +1865,10 @@
         },
         {
           "authors": [
-            "Mandal A. K.",
+            "Ashis Kumar Mandal",
             "Kaosar M.",
             "Islam M. O.",
-            "Hossain M. D."
+            "Md. Delowar Hossain"
           ],
           "title": "An approach for enhancing message security in audio steganography",
           "conference": "16th Int’l Conf. Computer and Information Technology",
@@ -1878,8 +1878,8 @@
         {
           "authors": [
             "Islam M. O.",
-            "Mandal A. K.",
-            "Hossain M. D."
+            "Ashis Kumar Mandal",
+            "Md. Delowar Hossain"
           ],
           "title": "ThirdHand: A novel and cost-effective HCI for physically handicapped people",
           "conference": "4th International Conference on Computer and Information Technology (ICCIT 2011)",
