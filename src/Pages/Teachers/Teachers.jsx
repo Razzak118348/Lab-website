@@ -38,6 +38,7 @@ const Teachers = () => {
                 <div>
                   <h1 className="text-xl lg:text-2xl font-bold">{professor.name}</h1>
                   <p className="my-2 font-bold text-justify">{professor.position}</p>
+                  <p className="my-2 font-bold text-justify">{professor.graduation}</p>
                   <p>
                     <span className="font-bold text-orange-500">Address</span>: {professor.address}
                   </p>

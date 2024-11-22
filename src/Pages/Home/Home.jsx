@@ -78,6 +78,7 @@ const Home = () => {
                                         <div className="card-body">
                                             <h2 className="card-title">{professor.name}</h2>
                                             <p>{professor.position}</p>
+                                            <p>{professor.graduation}</p>
                                             <div className="card-actions justify-end">
                                                 <Link to={`/teachers/${professor.id}`}>
                                                     <button className="btn bg-yellow-500 font-bold">
