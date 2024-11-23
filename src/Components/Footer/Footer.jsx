@@ -63,7 +63,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="py-6 text-sm text-center lg:flex lg:justify-around items-center"><p>© 2024 DIoT Lab All rights reserved.</p> <p>Developed and Managed by : Abdur Razzak(CSE-2102042)</p></div>
+      <div className="py-6 text-sm text-center lg:flex lg:justify-around items-center"><p>© 2024 DIoT Lab All rights reserved.</p> <p>Developed and Managed by : Abdur Razzak(CSE-HSTU)</p></div>
     </footer>
     );
 };

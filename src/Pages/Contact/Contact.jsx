@@ -1,15 +1,12 @@
-
 import { useEffect } from "react";
 import { FaPhoneAlt, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
-
 
 const Contact = () => {
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
     return (
-
-     <div className="p-8 mt-20 min-h-screen flex items-center justify-center">
+        <div className="p-8 mt-20 min-h-screen flex items-center justify-center">
             <div className="bg-white p-8 rounded-lg shadow-lg w-full max-w-2xl space-y-8">
                 <h2 className="text-3xl font-bold text-center text-blue-600 mb-6">Lab Location</h2>
 
@@ -37,6 +34,7 @@ const Contact = () => {
                         <li className="p-3 bg-gray-50 rounded-lg border-l-4 border-green-500">+8801712262634</li>
                         <li className="p-3 bg-gray-50 rounded-lg border-l-4 border-green-500">+8801912136021</li>
                         <li className="p-3 bg-gray-50 rounded-lg border-l-4 border-green-500">+8801309964335</li>
+
                     </ul>
                 </div>
 
@@ -49,15 +47,25 @@ const Contact = () => {
                         <li className="p-3 bg-gray-50 rounded-lg border-l-4 border-red-500">delowar@khu.ac.kr</li>
                         <li className="p-3 bg-gray-50 rounded-lg border-l-4 border-red-500">ashis.62@gmail.com</li>
                         <li className="p-3 bg-gray-50 rounded-lg border-l-4 border-red-500">tangina@khu.ac.kr</li>
+                        <li className="p-3 bg-gray-50 rounded-lg border-l-4 border-red-500">abdurrazzak118348@gmail.com</li>
                     </ul>
+                </div>
+                <div>
+                <h3 className="text-xl font-semibold text-gray-800 flex items-center mb-4">
+                Developed and Managed by : Abdur Razzak </h3>
+<ul className="space-y-2 text-gray-700">
+
+
+                        <li className="p-3 bg-gray-50 rounded-lg border-l-4 border-red-500">abdurrazzak118348@gmail.com</li>
+                        <li className="p-3 bg-gray-50 rounded-lg border-l-4 border-green-500">+880169298525</li>
+                        <li className="p-3 bg-gray-50 rounded-lg border-l-4 border-green-500">+8801521752249</li>
+                        <li className="p-3 bg-gray-50 rounded-lg border-l-4 border-green-500"> Department of CSE , Hajee Mohammad Danesh Science and Technology University</li>
+                    </ul>
+
                 </div>
             </div>
         </div>
-
-
     );
-
-
 };
 
 export default Contact;

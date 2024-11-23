@@ -36,7 +36,7 @@ const Home = () => {
 
                     <div className="p-4 md:p-16 mx-2 md:mx-20">
                         {/* Welcome section */}
-                        <div className="mt-10 grid grid-cols-1 gap-5">
+                        <div className="mt-3 md:mt-10 grid grid-cols-1 gap-5">
                             <div className="flex justify-center items-center animate__animated animate__lightSpeedInLeft">
                                 <div>
                                     <p className="font-sans text-justify">
