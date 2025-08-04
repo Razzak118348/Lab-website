@@ -23,7 +23,7 @@ const Banner = () => {
           <div className="w-full  h-full">
             <img
               className="w-full h-52 md:h-full "
-              src="https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/dioT%20lab%20banner/DIoT%20Banner.jpg"
+              src="/images/DIoTBanner.jpg"
               alt="Banner 1"
             />
           </div>
@@ -32,7 +32,7 @@ const Banner = () => {
           <div className="w-full  h-full">
             <img
               className="w-full h-full "
-              src="https://raw.githubusercontent.com/Razzak118348/CraftedCanvas_Image/main/images/dioT%20lab%20banner/bannaer.png"
+              src="/images/banner.jpg"
               alt="Banner 2"
             />
           </div>
