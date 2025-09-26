@@ -1,4 +1,4 @@
-# DIoT Lab 🌐
+# DIoT Lab 🌐: https://lab-research-f5c1b.web.app/
 **Empowering IoT Innovation and Collaboration**
 
 DIoT Lab is a cutting-edge platform designed to support academic research and innovation in the Internet of Things (IoT) domain. Created for university students and researchers, it serves as a hub for over 200 students to explore, collaborate, and contribute to groundbreaking projects.
